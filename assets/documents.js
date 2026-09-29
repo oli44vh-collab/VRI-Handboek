@@ -27,7 +27,9 @@
     panel.dataset.loading = '1';
     const list = panel.querySelector('[data-doc-list]');
     try {
-      const r = await fetch(`/api/vri-docs?action=list&slug=${encodeURIComponent(slug)}`, {cache:'no-store'});
+      const r = await fetch(`/api/vri-docs?action=list&slug=${encodeURIComponent(slug)}&_=${Date.now()}`, {
+  cache: 'no-store'
+});
       if (!r.ok) throw new Error();
       const {docs=[]} = await r.json();
       panel.querySelector('[data-doc-count]').textContent = docs.length === 1 ? '1 bestand' : `${docs.length} bestanden`;
