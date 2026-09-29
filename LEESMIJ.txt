@@ -1,0 +1,90 @@
+HANDBOEK VRI – TEKENINGENMODULE V1
+==================================
+
+Deze versie voegt per VRI/object een onderdeel "Tekeningen" toe.
+Bijvoorbeeld: K601 Den Haag gebruikt intern de unieke sleutel den-haag-k601.
+
+WAT KAN DEZE VERSIE?
+--------------------
+- Tekeningen bekijken per object.
+- PDF, JPG en PNG uploaden.
+- Meerdere tekeningen per object opslaan.
+- Optioneel een herkenbare titel meegeven.
+- Tekeningen verwijderen in beheermodus.
+- Bestanden blijven bewaard na een nieuwe website-deploy via Netlify Blobs.
+- Het bestaande handboek blijft offline werken; tekeningen zelf vereisen internet.
+
+BELANGRIJK VOOR DEPLOY
+----------------------
+Deze versie gebruikt Netlify Functions en Netlify Blobs.
+Daarom moet Netlify de website bouwen vanuit een Git-repository of via Netlify CLI.
+Alleen de ZIP naar de oude statische drag-and-drop pagina slepen is niet voldoende.
+
+STAP 1 – ZET DEZE MAP IN GITHUB/GITLAB/AZURE DEVOPS
+----------------------------------------------------
+Upload alle bestanden uit deze ZIP naar één repository. De mappenstructuur moet hetzelfde blijven.
+
+STAP 2 – KOPPEL DE REPOSITORY AAN NETLIFY
+-----------------------------------------
+Maak een nieuwe Netlify-site aan of koppel de bestaande site aan de repository.
+Netlify leest netlify.toml automatisch en installeert de dependency uit package.json.
+
+STAP 3 – STEL HET BEHEERWACHTWOORD IN
+--------------------------------------
+Ga in Netlify naar:
+Project configuration > Environment variables
+
+Voeg toe:
+
+VRI_ADMIN_PASSWORD
+Het wachtwoord dat jij aan de werkvoorbereiders geeft.
+
+VRI_SESSION_SECRET
+Een lange willekeurige geheime tekst van minimaal 32 tekens.
+Voorbeeldstructuur: gebruik een unieke willekeurige tekenreeks; gebruik NIET het beheerwachtwoord zelf.
+
+Sla beide variabelen op en start daarna een nieuwe deploy.
+
+STAP 4 – TESTEN
+---------------
+1. Open het handboek via de Netlify-URL.
+2. Ga naar Instellingen / Beheer.
+3. Log in met de waarde van VRI_ADMIN_PASSWORD.
+4. Zoek K601 in Den Haag.
+5. Open het object.
+6. Bij "Tekeningen" verschijnt in beheermodus de uploadmogelijkheid.
+7. Upload een PDF/JPG/PNG van maximaal 4 MB.
+8. Log uit of open een privévenster.
+9. Open K601 opnieuw. De tekening moet zichtbaar en te openen zijn.
+10. Log opnieuw als beheerder in om de tekening eventueel te verwijderen.
+
+BESTANDSLIMIET
+--------------
+V1 accepteert maximaal 4 MB per bestand. Dit komt door de uploadroute via Netlify Functions.
+De opslag zelf kan groter; als grotere technische tekeningen nodig blijken, kan de uploadroute later
+worden aangepast zonder de objectmodule opnieuw te bouwen.
+
+BEVEILIGING
+-----------
+Het beheerwachtwoord staat niet meer in assets/app.js.
+De server controleert VRI_ADMIN_PASSWORD en geeft na een correcte login een beveiligde sessiecookie.
+De sessie is maximaal 8 uur geldig.
+
+BESTANDEN VAN DE NIEUWE MODULE
+------------------------------
+assets/documents.js                 Interface voor tekeningen op objectpagina's
+netlify/functions/vri-admin.mjs     Login, logout en sessiestatus
+netlify/functions/vri-docs.mjs      Lijst, upload, openen en verwijderen
+netlify/functions/_auth.mjs         Beveiliging van de beheersessie
+netlify.toml                        Netlify-configuratie
+package.json                        Dependency voor Netlify Blobs
+
+OFFLINE
+-------
+De bestaande inhoud van het VRI-handboek blijft offline-first.
+De tekeningen worden niet allemaal op de telefoon gecachet. Voor het ophalen/openen van tekeningen
+is daarom internet nodig.
+
+VERSIE
+------
+Tekeningenmodule v1 – 29-09-2026

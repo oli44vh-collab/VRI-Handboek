@@ -1,0 +1,8 @@
+{
+  "name": "handboek-vri",
+  "private": true,
+  "version": "2026.09.1",
+  "dependencies": {
+    "@netlify/blobs": "11.1.1"
+  }
+}

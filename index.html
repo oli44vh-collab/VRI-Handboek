@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="nl" data-theme="dark" data-density="veld">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="robots" content="noindex, nofollow">
+<meta name="theme-color" content="#0B0E12">
+<title>Handboek VRI — CityTec</title>
+
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icons/icon-192.png">
+<link rel="apple-touch-icon" href="icons/icon-192.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans+Condensed:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+
+<div class="boot" id="boot">
+  <div style="text-align:center">
+    <div style="width:44px;height:44px;border-radius:8px;background:#4C7DF0;display:grid;place-items:center;margin:0 auto 16px">
+      <svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="#fff" stroke-width="2">
+        <rect x="7" y="2" width="10" height="20" rx="2"/>
+        <circle cx="12" cy="7" r="1.4" fill="#fff"/><circle cx="12" cy="12" r="1.4" fill="#fff"/><circle cx="12" cy="17" r="1.4" fill="#fff"/>
+      </svg>
+    </div>
+    <div style="font:600 16px/1.4 system-ui;color:#E8ECF2">Handboek VRI</div>
+    <div style="font:400 13px/1.4 system-ui;color:#6B7583;margin-top:4px">Gegevens laden…</div>
+  </div>
+</div>
+
+<div class="shell">
+  <nav class="sidebar" aria-label="Hoofdnavigatie">
+    <a class="brand" href="#start">
+      <span class="brand-mark">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="7" y="2" width="10" height="20" rx="2"/><circle cx="12" cy="7" r="1.4" fill="currentColor"/><circle cx="12" cy="12" r="1.4" fill="currentColor"/><circle cx="12" cy="17" r="1.4" fill="currentColor"/></svg>
+      </span>
+      <span class="brand-name">Handboek VRI</span>
+    </a>
+
+    <div class="navgroup" id="nav-main"></div>
+
+    <div id="nav-beheer" style="display:none">
+      <div class="navtitle">Beheer</div>
+      <div class="navgroup" id="nav-beheer-links"></div>
+    </div>
+
+    <div class="sidebar-foot">
+      <div class="status"><span class="dot dot-on" id="status-dot"></span><span id="status-text">…</span></div>
+      <button class="navlink" data-route="instellingen">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.7 1.7 0 0 0 .3 1.8l.1.1a2 2 0 1 1-2.8 2.8l-.1-.1a1.7 1.7 0 0 0-1.8-.3 1.7 1.7 0 0 0-1 1.5V21a2 2 0 1 1-4 0v-.1A1.7 1.7 0 0 0 9 19.4a1.7 1.7 0 0 0-1.8.3l-.1.1a2 2 0 1 1-2.8-2.8l.1-.1a1.7 1.7 0 0 0 .3-1.8 1.7 1.7 0 0 0-1.5-1H3a2 2 0 1 1 0-4h.1A1.7 1.7 0 0 0 4.6 9a1.7 1.7 0 0 0-.3-1.8l-.1-.1a2 2 0 1 1 2.8-2.8l.1.1a1.7 1.7 0 0 0 1.8.3H9a1.7 1.7 0 0 0 1-1.5V3a2 2 0 1 1 4 0v.1a1.7 1.7 0 0 0 1 1.5 1.7 1.7 0 0 0 1.8-.3l.1-.1a2 2 0 1 1 2.8 2.8l-.1.1a1.7 1.7 0 0 0-.3 1.8V9a1.7 1.7 0 0 0 1.5 1H21a2 2 0 1 1 0 4h-.1a1.7 1.7 0 0 0-1.5 1z"/></svg>
+        <span>Instellingen</span>
+      </button>
+    </div>
+  </nav>
+
+  <div class="main">
+    <header class="topbar">
+      <div id="topbar-left"></div>
+      <div class="topbar-actions">
+        <button class="iconbtn" id="btn-palette" title="Zoeken (⌘K)" aria-label="Zoeken">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+        </button>
+        <button class="iconbtn" id="btn-theme" title="Licht / donker" aria-label="Wissel thema">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9z"/></svg>
+        </button>
+      </div>
+    </header>
+    <main class="content" id="view" tabindex="-1"></main>
+  </div>
+</div>
+
+<nav class="bottomnav" id="bottomnav" aria-label="Mobiele navigatie"></nav>
+
+<div class="overlay" id="palette" hidden role="dialog" aria-modal="true" aria-label="Zoeken">
+  <div class="palette">
+    <div class="palette-input">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+      <input id="palette-q" placeholder="Zoek een kruispunt, straat of nummer…" autocomplete="off" spellcheck="false">
+      <kbd>esc</kbd>
+    </div>
+    <div class="palette-body" id="palette-body"></div>
+    <div class="palette-foot"><span>↑↓ navigeren</span><span>⏎ openen</span><span>esc sluiten</span></div>
+  </div>
+</div>
+
+<div class="updatebar" id="updatebar" hidden>
+  <span>● Nieuwe versie beschikbaar</span>
+  <span style="display:flex;gap:8px">
+    <button class="btn btn-subtle btn-sm" id="upd-later">Later</button>
+    <button class="btn btn-primary btn-sm" id="upd-now">Nu bijwerken</button>
+  </span>
+</div>
+
+<script src="assets/data.js"></script>
+<script src="assets/app.js"></script>
+<script src="assets/suggestions.js"></script>
+<script src="assets/documents.js"></script>
+</body>
+</html>
