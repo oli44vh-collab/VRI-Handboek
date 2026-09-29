@@ -3,7 +3,7 @@
    zonder netwerk. De cachenaam bevat de versie: bump die bij een
    nieuwe data.js, dan krijgen de monteurs vanzelf een updatemelding. */
 
-const CACHE = 'vri-2026.09-docs-1';
+const CACHE = 'vri-2026.09-docs-2';
 
 const BESTANDEN = [
   './',
