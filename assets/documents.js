@@ -88,5 +88,23 @@
     }
   });
 
-  fetch('/api/vri-admin?action=status',{cache:'no-store'}).then(r=>r.json()).then(j=>{ if(j.authenticated&&!state.beheer){state.beheer=true;render();} }).catch(()=>{});
+fetch('/api/vri-admin?action=status', { cache: 'no-store' })
+  .then(r => r.json())
+  .then(j => {
+    if (j.authenticated && !state.beheer) {
+      state.beheer = true;
+    }
+
+    // Belangrijk:
+    // documents.js heeft V.l aangepast nadat app.js mogelijk
+    // de huidige installatie al heeft gerenderd.
+    // Daarom de huidige pagina één keer opnieuw renderen.
+    render();
+  })
+  .catch(() => {
+    // Ook zonder beheerlogin opnieuw renderen,
+    // zodat het tekeningenblok na een harde refresh verschijnt.
+    render();
+  });
+
 })();
