@@ -1,0 +1,2624 @@
+Handboek VRI
+
+Verkeersregelinstallaties
+
+Werkwijze, storingsafhandeling en locatie-overzicht per contract
+
+| **Opdrachtgevers** |
+| --- |
+| Capelle a/d IJssel | Rijswijk |
+| Delft | Rotterdam |
+| Den Haag | Schiedam |
+| Gouda | Vlaardingen |
+| HTM | Voorne aan Zee |
+| KO Hartog | Waterschap |
+| Leidschendam-Voorburg | Zuidplas |
+| RET |  |
+
+Versie juli 2026
+
+Inhoud
+
+	Voorwoord	3
+
+	Opdrachtgevers	4
+
+	Samenvattende informatie	4
+
+	Responstijden	4
+
+	Schade afhandeling	4
+
+	Capelle a/d IJssel	5
+
+	Delft	7
+
+	Den Haag	9
+
+	Gouda	18
+
+	HTM	20
+
+	KO Hartog	42
+
+	Leidschendam-Voorburg	48
+
+	RET	51
+
+	Rijswijk	56
+
+	Rotterdam	58
+
+	Schiedam	67
+
+	Locaties	67
+
+	Vlaardingen	69
+
+	Voorne aan Zee	71
+
+	Waterschap	72
+
+	Zuidplas	73
+
+Voorwoord
+
+Verkeersregelaars
+
+Afzettingen
+
+Vrachtwagen
+
+Opdrachtgevers
+
+Samenvattende informatie
+
+Responstijden
+
+| **Gemeente** | **Urgente melding** | **Niet-urgente melding** |
+| --- | --- | --- |
+| Capelle a/d IJssel (valt onder Rotterdam DS+V) | 1 uur: Werkdagen tussen 6:00 en 20:00             Overige dagen tussen 10:00 en 19:00 2 uur: Overige tijden | Volgende werkdag |
+| Delft | 1 uur | Volgende werkdag |
+| Den Haag | 1 uur | Volgende werkdag |
+| Gouda | 2 uur: K03, K04 en K52 4 uur: Overige kruispunten | Volgende werkdag |
+| HTM | - | 2 werkdagen |
+| KO Hartog | 2, 3 of 4 uur (staat in BIS) | - |
+| Leidschendam-Voorburg | 2 of 4 uur (staat in BIS) | Volgende werkdag |
+| RET | 4 uur | 5 werkdagen |
+| Rijswijk | 1 uur | Volgende werkdag |
+| Rotterdam (valt onder Rotterdam DS+V) | 1 uur: Werkdagen tussen 6:00 en 20:00             Overige dagen tussen 10:00 en 19:00 2 uur: Overige tijden | Volgende werkdag |
+| Schiedam | 2 uur: K111, K202 en K307 4 uur: Overige kruispunten | Volgende werkdag |
+| Vlaardingen | 2 uur | 24 uur |
+| Voorne aan Zee | 2 uur | 5 werkdagen |
+| Waterschap (valt onder Rotterdam DS+V) | 1 uur: Werkdagen tussen 6:00 en 20:00             Overige dagen tussen 10:00 en 19:00 2 uur: Overige tijden | Volgende werkdag |
+| Zuidplas | 2 uur | Volgende werkdag |
+
+Schade afhandeling
+
+| **Gemeente** | **Schade afhandeling** |
+| --- | --- |
+| Capelle a/d IJssel | NODR |
+| Delft | NODR |
+| Den Haag | NODR |
+| Gouda | Schadeformulier |
+| HTM | - |
+| KO Hartog | - |
+| Leidschendam-Voorburg | Schadeformulier + briefjes |
+| RET | - |
+| Rijswijk | NODR |
+| Rotterdam | Schadeformulier |
+| Schiedam | NODR |
+| Vlaardingen | NODR |
+| Voorne aan Zee |  |
+| Waterschap | Schadeformulier |
+| Zuidplas | Schadeformulier |
+
+Capelle a/d IJssel
+
+Nadat je bij een storing bent geweest dient het online VRI-logboek te worden ingevuld. Hiervoor kun je onderstaande link gebruiken. Als laatste moet alleen het kruispunt nummer worden toegevoegd aan de link.
+
+[https://vrilogboek.nl/capelleaandenijssel/VRI](https://vrilogboek.nl/capelleaandenijssel/VRI)
+
+Gebruikersnaam:	citytec
+Wachtwoord:		citytec
+
+**Locaties**
+
+| **Kruispunt nr.** | **Locatie** | **Gemeente** | **Fabrikant** | **VRA-nr.** | **Voltage** |
+| --- | --- | --- | --- | --- | --- |
+| CAP01 | Kralingseweg - Schenkelsedreef | Capelle a/d IJssel | Ko Hartog |  | 42V |
+| CAP02A | A. v Rijckevorselweg - Oosterlengte - Beresteynl | Capelle a/d IJssel | Ko Hartog | KH14445 | 42V |
+| CAP02B | Burg van Beresteijnlaan - sGravenweg | Capelle a/d IJssel |  |  |  |
+| CAP03 | Burg van Beresteijnlaan - Schollevaartseweg | Capelle a/d IJssel | Ko Hartog | KH14475 | 42V |
+| CAP04 | A. van Rijckevorselweg - Van Beethovenlaan | Capelle a/d IJssel | Dynniq | V90605 | 42V |
+| CAP05A | A. van Rijckevorselweg-Slotlaan | Capelle a/d IJssel | Ko Hartog | KH14820 | 42V |
+| CAP05B | Schenkelsedreef - sGravenweg | Capelle a/d IJssel | Ko Hartog | KH14835 | 42V |
+| CAP06 | Capelseweg - Zevensprong | Capelle a/d IJssel | Ko Hartog | KH14490 | 42V |
+| CAP07 | Capelseweg - Bermweg | Capelle a/d IJssel | Ko Hartog | KH14850 | 42V |
+| CAP08A | A. van Rijckevorselweg - Rivierweg | Capelle a/d IJssel | Ko Hartog | KH14865 | 42V |
+| CAP08B | Kanaalweg - sGravenweg | Capelle a/d IJssel | Ko Hartog | KH14880 | 42V |
+| CAP09 | A. van Rijckevorselweg - Couwenhoekseweg | Capelle a/d IJssel | Ko Hartog | KH20790 | 42V |
+| CAP10 | A. van Rijckevorselweg - Klaas Klinkertkade | Capelle a/d IJssel | Ko Hartog | KH14520 | 42V |
+| CAP11 | A. van Rijckevorselweg - IJsselmondselaan | Capelle a/d IJssel | Ko Hartog | KH14535 | 42V |
+| CAP12 | Prins Alexanderlaan- sGravenweg | Capelle a/d IJssel | Ko Hartog | KH14550 | 42V |
+| CAP13 | Capelseplein | Capelle a/d IJssel | Ko Hartog | KH14735 | 42V |
+| CAP14 | Capelseweg - Lylantsebaan | Capelle a/d IJssel | Vialis | VT451347 | 42V |
+| CAP15 | Rivierweg - Fluiterlaan | Capelle a/d IJssel | Vialis |  | 42V |
+| CAP17 | Hoofdweg - Burg van Dijklaan | Capelle a/d IJssel | Vialis | VT451348 | 42V |
+| CAP18 | Hoofdweg - Capelseweg | Capelle a/d IJssel | Vialis | VT451349 | 42V |
+| CAP19 | Capelseweg - A20 | Capelle a/d IJssel | Vialis | VT451350 | 42V |
+| CAP20 | A. van Rijckevorselweg - Riviaduct | Capelle a/d IJssel | Ko Hartog |  | 42V |
+| CAP21 | Hoofdweg - Burg Schalijlaan | Capelle a/d IJssel | Vialis | VT600222 | 42V |
+| CAP22 | Hoofdweg - Molenbaan | Capelle a/d IJssel | Vialis | VT452157 | 42V |
+| CAP23 | Hoofdweg - Rietbaan | Capelle a/d IJssel | Vialis | VT452158 | 42V |
+| CAP24 | Hoofdweg - Schinkelsebaan | Capelle a/d IJssel | Vialis | VT452159 | 42V |
+| CAP25 | Hoofdweg - Vlierbaan | Capelle a/d IJssel | Vialis | VT452160 | 42V |
+| CAP26 | Algeraweg - Ketensedijk | Capelle a/d IJssel | Dynniq | V90160 | 42V |
+| CAP27 | Hoofdweg - Akeleibaan | Capelle a/d IJssel | Ko Hartog |  | 42V |
+| CAP28 | Rivium Boulevard - Rivium Promenade | Capelle a/d IJssel | Ko Hartog | KH19095 | 42V |
+
+Delft
+
+Nadat je bij een storing bent geweest dient het online VRI-logboek en CityView te worden ingevuld. 
+Het VRI-logboek kan op twee manieren:
+
+- Via de QR-code in de automaat
+
+- Via [https://www.mobdelft.nl/vri/logboek/](https://www.mobdelft.nl/vri/logboek/)
+
+LET OP, achter deze link dien je nog het kruispunt nummer te typen.
+
+Gebruikersnaam:	citytec		|	Wachtwoord:		citytec
+
+CityView heb je een account voor en is bereikbaar via onderstaande link:
+
+- [MijnAfinius — Inloggen](https://auth.mijnafinius.nl/login)
+
+**Locaties**
+
+| **Kruispunt nr.** | **Locatie** | **Gemeente** | **Fabrikant** | **VRA-nr.** | **Voltage** |
+| --- | --- | --- | --- | --- | --- |
+| K001 | Westlandseweg - Beatrixlaan | Delft | Vialis | VT60-0153 |  |
+| K002 | Westlandseweg - Krakeelpolderweg | Delft | Vialis | VT60-0152 |  |
+| K003 | Papsouwselaan - Nijverheid straat | Delft | Swarco | 200.468 |  |
+| K004 | Zuidwal - Westvest | Delft | Vialis | VT45-1359 |  |
+| K006 | Zuidwal - In de Veste | Delft | KO Hartog | KH18705 |  |
+| K007 | Oostplein | Delft | Swarco | 200.287 |  |
+| K008 | Irene Boulevard - Nieuwe Gracht | Delft |  |  |  |
+| K009 | Schoemakerstraat - Zuidplantsoen | Delft |  |  |  |
+| K010 | Poortlandplein | Delft | Swarco | 200.532 |  |
+| K011 | Mijnbouwplein | Delft | KO Hartog | KH18720 |  |
+| K013 | v. Miereveltlaan - M.Duystlaan | Delft |  |  |  |
+| K017-018 | Vrijebanselaan - Brasserskade | Delft | Swarco | 200.385 |  |
+| K019-080 | Kalverbos-Nieuwe Plantage-Wateringsevest-Noordeind | Delft |  |  |  |
+| K020 | Wateringsevest - Kampveldweg | Delft | Vialis | VT45-1361 |  |
+| K021 | Phoenixstraat - Binnenwatersloot | Delft | Vialis | VT45-1362 |  |
+| K024 | Coenderstraat - Havenstraat | Delft | Vialis | VT45-1363 |  |
+| K026 | Westplantsoen - H. de Grootstraat | Delft | Vialis | VT45-1275 |  |
+| K029 | Mercuriusweg - Papsouwselaan | Delft | Siemens | 728867 |  |
+| K030 | Delflandplein | Delft | Swarco | 200.457 |  |
+| K032 | Schieweg - Kruithuisweg | Delft | Vialis | VT45-1274 |  |
+| K038 | V.O.P. Molen de Roos | Delft | Vialis | VT45-1364 |  |
+| K039 | V.O.P. Schoolstraat | Delft | Vialis | VT45-1365 |  |
+| K040 | Ruys de Beerenbrouckstraat | Delft |  |  |  |
+| K041 | Westlandseweg - Buitenhofdreef | Delft | Swarco | 200.614 |  |
+| K042 | Buitenhofdreef - M. Nijhoflaan - Griegstraat | Delft | Vialis | VT45-0976 |  |
+| K045 | Schoemakerstraat - de Hoeksteen | Delft | Swarco | 200.696 |  |
+| K046 | Schoemakerstraat - Delftechpark | Delft | Vialis | VT45-0844 |  |
+| K047 | Schoemakerstraat - Aansluiting Kruithuisweg | Delft | Vialis | VT45-0842 |  |
+| K049 | V.O.P Voorhofdreef - Bilderdijkhof | Delft | Vialis | VT45-0817 |  |
+| K050 | V.O.P Voorhofdreef - H. Gorterhof | Delft | Vialis | VT45-0818 |  |
+| K051 | Voorhofdreef - Slauerhoflaan | Delft | Vialis | VT45-0889 |  |
+| K052 | Buitenhofdreef - Vrijheidslaan | Delft | Swarco | 240.188 |  |
+| K053 | Buitenhofdreef - v-d Slootsingel | Delft | Vialis | VT45-0977 |  |
+| K056 | M.Nijhoflaan - Aart v-d Leeuwlaan | Delft | KO Hartog | KH15090 |  |
+| K060 | Poortweg - Staalweg | Delft | Vialis | VT45-0796 |  |
+| K061 | Poortweg aansluiting A13 Ikea | Delft | Vialis | VT60-0163 |  |
+| K062 | Rotterdamseweg - Jaffalaan | Delft | Swarco | 201.038 |  |
+| K063 | Westlandseweg - Buitenwatersloot | Delft | KO Hartog | KH18735 |  |
+| K064 | Reinier de Graafweg - Bezoekersgarage | Delft | Swarco | 200.613 |  |
+| K065 | Reinier de Graafweg - Parkeren personeel | Delft | Swarco | 200.615 |  |
+| K066 | Reinier de Graafweg - Jan Thomeelaan | Delft | Swarco | 200.610 |  |
+| K067 | Jaffalaan - Mekelweg | Delft | Swarco | 201.040 |  |
+| K069-070 | Brasserskade - Sportring | Delft |  |  |  |
+| K074 | Tanthofdreef - Forensenweg | Delft | Swarco | 230.115 |  |
+| K077 | H.O.B - Kalfjeslaan | Delft | KO Hartog | KH15105 |  |
+| K078 | H.O.B - Vinkenlaan | Delft | KO Hartog | KH15121 |  |
+| K079 | H.O.B - Abtswoude | Delft | KO Hartog | KH15135 |  |
+| K081 | Sadatweg - Derde werelddreef | Delft | Vialis | VT45-0624 |  |
+| K082 | Sadatweg - Afrikalaan | Delft | Siemens TWI | 728989 |  |
+| K086 | V.O.P Derde Werelddreef | Delft | Swarco | 201.029 |  |
+| K093 | V.O.P Nassaulaan t.h.v Prof. Krausstraat | Delft |  |  |  |
+| K105 | PW 15 - Gist Brocades | Delft | Vialis | VT45-0797 |  |
+| K107 | Busoversteek PW 15 - C. v-d Lindenstraat | Delft |  |  |  |
+
+Den Haag
+
+Bij vragen kun je tijdens kantooruren altijd de toezichthouders van Den Haag benaderen met specifieke vragen. Daarnaast dien je na je werkzaamheden **altijd IREAL in te vullen **en de benodigde foto’s toe te voegen.
+
+[RealM2M Intranet :: Overzicht bezoeken](https://denhaag.realm2m.nl/intranet/index.php?page=overzicht_bezoek&meetnet=true)
+
+**Locaties**
+
+| **Kruispunt nr.** | **Locatie** | **Gemeente** | **Fabrikant** | **VRA-nr.** | **Voltage** |
+| --- | --- | --- | --- | --- | --- |
+| K000 | Diversen object | Den Haag |  |  |  |
+| K002 | Elandstraat - Da Costastraat | Den Haag | Vialis | LTC8793 | 230V |
+| K004 | Wouwermanstraat - Vermeerstraat | Den Haag | Siemens | 728113 | 230V |
+| K007 | Beeklaan vop | Den Haag | Vialis | VT451174 | 42V |
+| K008 | Westduinweg - Jan van Houtstraat | Den Haag | Vialis | VT450999 | 42V |
+| K010 | Laan van Meerdervoort - Tasmanstraat | Den Haag | Swarco | 200-828 | 42V |
+| K013 | Paul Krugerlaan - Pretoriusstraat | Den Haag | Vialis | VT451129 | 42V |
+| K014 | Prins Willemplein | Den Haag | Swarco | 200-675 | 42V |
+| K015 | Vaillantlaan - Verspronckstraat | Den Haag | Vialis | VT450277 | 42V |
+| K051 | Laan van Meerdervoort - Waldeck Pyrmontkade | Den Haag | Swarco | 200-808 | 42V |
+| K052 | Laan van Meerdervoort - Anna Paulownastraat | Den Haag | Dynniq | V90742 | 42V |
+| K056 | Monstersestraat - 's-Gravenzandelaan | Den Haag | Vialis | VT450278 | 42V |
+| K057 | Valkenbosplein | Den Haag | Dynniq | V00830 | 42V |
+| K058 | Erasmusweg - Betje Wolffstraat | Den Haag | Dynniq | V90138 | 42V |
+| K061 | Van Alkemadelaan - Wassenaarseweg | Den Haag | Swarco | 230-166 | 42V |
+| K062 | Mauritskade - Alexanderstraat | Den Haag | Vialis | VT451002 | 42V |
+| K064 | Erasmusweg - Anna Bijnslaan | Den Haag | Dynniq | V20130 | 42V |
+| K065 | Javastraat - Alexanderstraat | Den Haag | Dynniq | V90798 | 42V |
+| K066 | Laan van Meerdervoort - Zoutmanstraat | Den Haag | Swarco | 200-829 | 42V |
+| K067 | Laan van Nieuw Oost-Indië - Schenkkade | Den Haag | Vialis | VT451128 | 42V |
+| K068 | Laan van Nieuw Oost-Indië - Bezuidenhoutsew | Den Haag | Dynniq | V20479 | 42V |
+| K069 | Willem Witsenplein | Den Haag | Swarco | 200-740 | 42V |
+| K070 | Vaillantlaan - Hobbemastraat - Verspronckst | Den Haag | Vialis | VT450279 | 42V |
+| K071 | Van Alkemadelaan - Waalsdorperweg | Den Haag | Vialis | VT451003 | 42V |
+| K074 | Leeghwaterplein - Neherkade | Den Haag | Dynniq | V20088 | 42V |
+| K075 | Van Alkemadelaan - 'Frederikskazerne' | Den Haag | Swarco | 240-048 | 42V |
+| K076 | Scheveningseweg - Duinstraat | Den Haag | Swarco | V60186 | 42V |
+| K077 | Juliana van Stolberglaan - Louise Henriëtte | Den Haag | Dynniq | V90843 | 42V |
+| K078 | Laan van Meerdervoort - Goudenregenstraat | Den Haag | Dynniq | V90828 | 42V |
+| K079 | Rijswijkseweg - Jan van der Heijdenstraat | Den Haag | Swarco | 200-305 | 42V |
+| K080 | Rijswijkseweg - Van Musschenbroekstraat | Den Haag | Dynniq | V90186 | 42V |
+| K081 | Laan van Nieuw Oost-Indië - Theresiastraat | Den Haag | Dynniq | V90790 | 42V |
+| K082 | Laan van Nieuw Oost-Indië - Juliana van Sto | Den Haag | Dynniq | V90791 | 42V |
+| K083 | Jonckbloetplein | Den Haag | Vialis | VT450944 | 230V |
+| K084 | Copernicusplein | Den Haag | Dynniq | V90139 | 42V |
+| K087 | Laan van Meerdervoort - Fahrenheitstraat | Den Haag | Dynniq | V90187 | 42V |
+| K090 | Laan van Nieuw Oost-Indië - Anna van Hannov | Den Haag | Vialis | VT450884 | 42V |
+| K093 | Spui - Amsterdamse Veerkade | Den Haag | Dynniq | V20460 | 42V |
+| K096 | Binckhorstlaan - Mercuriusweg | Den Haag | Vialis | VT600176 | 42V |
+| K097 | Binckhorstlaan - Maanweg | Den Haag | Dynniq | V90556 | 42V |
+| K099 | Melis Stokelaan - Vrederustlaan | Den Haag | Vialis | VT451117 | 42V |
+| K100 | Melis Stokelaan - Beresteinlaan | Den Haag | Vialis | VT450885 | 42V |
+| K101 | Vaillantlaan - Parallelweg - Waldorpstraat | Den Haag | Dynniq | V90189 | 42V |
+| K102 | Vaillantlaan - Parallelweg - Waldorpstraat | Den Haag | Dynniq | V90190 | 42V |
+| K103 | Vaillantlaan - Hoefkade | Den Haag | Vialis | VT450316 | 42V |
+| K104 | Vaillantlaan - Van der Vennestraat | Den Haag | Vialis | VT450317 | 42V |
+| K105 | Westduinweg - Duinstraat | Den Haag | Dynniq | V60180 | 42V |
+| K109 | De la Reyweg - Kempstraat | Den Haag | Dynniq | V90682 | 42V |
+| K111 | Meppelweg - Leyweg | Den Haag | Vialis | VT450886 | 42V |
+| K112 | Hoefkade - Koningstraat | Den Haag | Dynniq | V80003 | 230V |
+| K113 | Mauritskade - Louis Couperusplein | Den Haag | Dynniq | V20407 | 42V |
+| K114 | Piet Heinplein | Den Haag | Vialis | VT452083 | 42V |
+| K116 | Wassenaarseweg - Van Hogenhoucklaan | Den Haag | Dynniq | V90799 | 42V |
+| K118 | Loosduinseweg - Noorderbeekdwarsstraat | Den Haag | Dynniq | V20386 | 42V |
+| K120 | Laan Copes van Cattenburch - Bankastraat | Den Haag | Vialis | VT450962 | 42V |
+| K121 | Zoutmanstraat - Elandstraat | Den Haag | Dynniq | V90829 | 42V |
+| K122 | Meppelweg - Dedemsvaartweg | Den Haag | Dynniq | V90735 | 42V |
+| K123 | Laan van Meerdervoort - Zonnebloemstraat | Den Haag | Vialis | VT451329 | 42V |
+| K124 | Soestdijksekade - Vreeswijkstraat | Den Haag | Vialis | VT450997 | 42V |
+| K125 | Hoflandplein | Den Haag | Vialis | VT450998 | 42V |
+| K128 | Loosduinseweg - Noord West Buitensingel | Den Haag | Dynniq | V90479 | 42V |
+| K129 | Wassenaarseweg - Jozef Israëlsplein | Den Haag | Dynniq | V90831 | 42V |
+| K130 | Laan van Meerdervoort - Conradkade | Den Haag | Dynniq | V176005 | 42V |
+| K132 | Javastraat - Zeestraat | Den Haag | Vialis | VT030046 | 42V |
+| K134 | Burgemeester Patijnlaan - Carnegielaan | Den Haag | Vialis | VT451118 | 42V |
+| K135 | Prinsegracht - Jan Hendrikstraat | Den Haag | Dynniq | V60018 | 42V |
+| K137 | Vaillantplein | Den Haag | Vialis | VT451219 | 42V |
+| K138 | Prinsegracht - Brouwersgracht | Den Haag | Vialis | VT451354 | 42V |
+| K139 | Prinsegracht - Lijnbaan | Den Haag | Vialis | VT452094 | 42V |
+| K140 | Groot Hertoginnelaan - Carnegielaan | Den Haag | Ko Hartog | KH21735 | 42V |
+| K145 | Middachtenweg - Guntersteinweg | Den Haag | Vialis | VT450662 | 42V |
+| K147 | Hengelolaan - Dedemsvaartweg | Den Haag | Vialis | VT451162 | 42V |
+| K148 | Loevesteinlaan - Hengelolaan | Den Haag | Swarco | 200-789 | 42V |
+| K149 | Loevesteinlaan - Steenwijklaan | Den Haag | Dynniq | V60066 | 42V |
+| K150 | Mauritskade - Denneweg | Den Haag | Swarco | 200-638 | 42V |
+| K151 | Zuiderparklaan - Apeldoornselaan | Den Haag | Vialis | VT452134 | 42V |
+| K152 | Driebergenstraat - Soestdijksekade | Den Haag | Dynniq | V90264 | 42V |
+| K155 | Escamplaan - Soestdijksekade | Den Haag | Dynniq | V90264 | 42V |
+| K157 | Monnikendamplein | Den Haag | Dynniq | V90266 | 42V |
+| K158 | Rijswijkseweg - Neherkade - Goudriaankade | Den Haag | Dynniq | V20153 | 42V |
+| K159 | Groot Hertoginnelaan - Koningin Emmakade | Den Haag | Ko Hartog | KH21750 | 42V |
+| K161 | Groot Hertoginnelaan - Conradkade | Den Haag | Dynniq | V90268 | 42V |
+| K164 | Parallelweg - Jacob Catsstraat | Den Haag | Dynniq | V90553 | 42V |
+| K165 | Laan van Meerdervoort - Aaltje Noorderwiers | Den Haag | Dynniq | V60129 | 42V |
+| K168 | Kamperfoeliestraat - Mient | Den Haag | Vialis | FR900839 | 230V |
+| K171 | Beeklaan - Weimarstraat | Den Haag | Dynniq | V90632 | 42V |
+| K173 | Benoordenhoutseweg - Waalsdorperlaan | Den Haag | Dynniq | V90800 | 42V |
+| K175 | De Savornin Lohmanplein - Thorbeckelaan | Den Haag | Dynniq | 40053 | 42V |
+| K176 | De Savornin Lohmanplein - Groen van Prinste | Den Haag | Dynniq | 40054 | 42V |
+| K177 | Meppelweg - Bouwlustlaan - Zichtenburglaan | Den Haag | Swarco | 200.859 | 42V |
+| K179 | De Savornin Lohmanlaan - Machiel Vrijenhoek | Den Haag | Dynniq | V90551 | 42V |
+| K180 | Van Alkemadelaan - Maurits de Brauwweg | Den Haag | Dynniq | V90736 | 42V |
+| K181 | Waldeck Pyrmontkade - Prins Hendrikstraat | Den Haag | Vialis | VT451119 | 42V |
+| K182 | Waldeck Pyrmontkade - Elandstraat - Chassés | Den Haag | Dynniq | V20392 | 42V |
+| K183 | Koningin Emmaplein | Den Haag | Vialis | VT450281 | 42V |
+| K184 | Kijkduinsestraat - Machiel Vrijenhoeklaan | Den Haag | Dynniq | V40052 | 42V |
+| K186 | Loosduinseweg - Gaslaan | Den Haag | Dynniq | V40029 | 42V |
+| K187 | Leyweg - Escamplaan | Den Haag | Vialis | VT451855 | 42V |
+| K188 | Leyweg - Florence Nightingaleweg | Den Haag | Dynniq | V60035 | 42V |
+| K189 | Hildebrandplein | Den Haag | Swarco | 240189 | 42V |
+| K191 | Erasmusweg - Troelstrakade | Den Haag | Dynniq | V90743 | 42V |
+| K192 | Wassenaarseweg - Oostduinlaan | Den Haag | Dynniq | V90741 | 42V |
+| K193 | Erasmusweg - Loevesteinlaan | Den Haag | Vialis | VT451155 | 42V |
+| K195 | De la Reyweg - Dierenselaan | Den Haag | Dynniq | V90563 | 42V |
+| K198 | Erasmusweg - Beresteinlaan | Den Haag | Swarco | 240.102 | 42V |
+| K200 | Erasmusweg - Leyweg | Den Haag | Vialis | VT450284 | 42V |
+| K201 | Bezuidenhoutseweg - Hofzichtlaan | Den Haag | Dynniq | V90548 | 42V |
+| K202 | Hofzichtlaan - Diamanthorst | Den Haag | Vialis | VT030115 | 42V |
+| K203 | Hofzichtlaan - Het Kleine Loo | Den Haag | Vialis | VT450285 | 42V |
+| K204 | Hofzichtlaan - Aegonplein - Finnenburg | Den Haag | Dynniq | V50071 | 42V |
+| K206 | Calandplein - Neherkade | Den Haag | Swarco | 204.211 | 42V |
+| K207 | Lorentzplein | Den Haag | Dynniq | V90631 | 42V |
+| K210 | Hobbemaplein | Den Haag | Dynniq | V90192 | 42V |
+| K212 | Kempstraat - Schalk Burgerstraat | Den Haag | Dynniq | V90801 | 42V |
+| K213 | Van Alkemadelaan - Ruychrocklaan | Den Haag | Dynniq | V90744 | 42V |
+| K214 | Javastraat - Frederikstraat | Den Haag | KO Hartog | KH16125 | 42V |
+| K215 | Parallelweg - Fruitweg | Den Haag |  |  |  |
+| K216 | Fruitweg - Viaduktweg | Den Haag | Vialis | VT450942 | 42V |
+| K217 | Troelstrakade - Fruitweg | Den Haag | Dynniq | V90802 | 42V |
+| K218 | Melis Stokelaan - Anna Bijnslaan | Den Haag | Dynniq | V90803 | 42V |
+| K219 | Melis Stokelaan - Moerweg | Den Haag | Vialis | VT450946 | 42V |
+| K221 | Melis Stokelaan - Loevesteinlaan | Den Haag | Vialis | VT600225 | 42V |
+| K223 | Melis Stokelaan - Dedemsvaartweg | Den Haag | Dynniq | V20412 | 42V |
+| K224 | Javastraat - Nassauplein | Den Haag | Dynniq | V90830 | 42V |
+| K225 | Erasmusplein | Den Haag | Dynniq | V60215 | 42V |
+| K229 | Sportlaan - Daal en Bergselaan | Den Haag | Dynniq | V90792 | 42V |
+| K230 | Loosduinseweg - Monstersestraat - Asmanweg | Den Haag | Vialis | VT600154 | 42V |
+| K232 | Almeloplein | Den Haag | Dynniq | V90804 | 42V |
+| K234 | Loosduinseweg - Regentesselaan - Apeldoorns | Den Haag | Dynniq | 1750125 | 42V |
+| K236 | Jurriaan Kokstraat - Marcelisstraat | Den Haag | Dynniq | V90793 | 42V |
+| K237 | Thorbeckelaan - Appelstraat | Den Haag | Vialis | VT451160 | 42V |
+| K238 | Veluweplein - Moerweg | Den Haag | Dynniq | V90323 | 42V |
+| K240 | Jan van der Heijdenstraat - Pasteurstraat | Den Haag | Vialis | VT451288 | 42V |
+| K241 | Vaillantlaan - Frans Halsstraat | Den Haag | Dynniq | V60053 | 42V |
+| K243 | Benoordenhoutseweg - Laan van Clingendael | Den Haag | Vialis | VT450943 | 42V |
+| K244 | Gevers Deynootweg - Zwolsestraat | Den Haag | Swarco | 200334 | 42V |
+| K245 | Gevers Deynootplein - Kurhausweg - Circuspl | Den Haag | Dynniq | V90805 | 42V |
+| K246 | Gevers Deynootweg - Rotterdamsestraat | Den Haag | Vialis | VT450947 | 42V |
+| K247 | Schedeldoekshaven - Nieuwe Haven | Den Haag | Dynniq | V90550 | 42V |
+| K249 | Schenkkade - Wilhelmina van Pruisenweg | Den Haag | Vialis | VT451290 | 42V |
+| K250 | Maanweg - Regulusweg | Den Haag | Dynniq | V20211 | 42V |
+| K251 | Monsterseweg - ' Parnassia' | Den Haag | Vialis | VT451176 | 42V |
+| K253 | Maanweg-Melkwegstraat | Den Haag | Vialis | VT451319 | 42V |
+| K254 | Scheveningseweg - Frankenslag - Kanaalweg | Den Haag | Dynniq | V20474 | 42V |
+| K255 | Sportlaan - Nieboerweg | Den Haag | Dynniq | V90737 | 42V |
+| K257 | Van Alkemadelaan - Pompstationsweg | Den Haag | Vialis | VT451001 | 42V |
+| K258 | Erasmusweg - Vrederustlaan | Den Haag | Dynniq | V80430 | 230V |
+| K260 | Escamplaan - Dedemsvaartweg | Den Haag | Vialis | VT451120 | 42V |
+| K261 | Houtwijklaan - Architect Berlagelaan | Den Haag | Vialis | VT450996 | 42V |
+| K262 | Houtwijklaan - Hildo Kroplaan | Den Haag |  |  |  |
+| K263 | Escamplaan - Zichtenburglaan | Den Haag |  |  |  |
+| K264 | Azaleaplein | Den Haag |  |  |  |
+| K266 | Zwolsestraat - Harstenhoekweg | Den Haag |  |  |  |
+| K269 | Leyweg - Busstation Leyenburg | Den Haag | Vialis | VT450887 | 42V |
+| K270 | Erasmusweg - Dedemsvaartweg | Den Haag | Swarco | 200165 | 42V |
+| K271 | Laan van Wateringseveld - Noordweg | Den Haag | Dynniq | V90387 | 230V |
+| K272 | Laan van Wateringseveld - Oosteinde | Den Haag | Dynniq | V20417 | 42V |
+| K273 | Laan van Wateringseveld - Middenweg | Den Haag | Dynniq | V600590 | 42V |
+| K275 | Noord West Buitensingel - Zamenhofstraat | Den Haag | Vialis | VT451771 | 42V |
+| K276 | Laan van Meerdervoort - Ockenburghstraat | Den Haag | Swarco | 200.172 | 42V |
+| K279 | Statenlaan - Van Boetzelaerlaan | Den Haag | Swarco | 230.017 | 42V |
+| K280 | Statenlaan - Frederik Hendriklaan | Den Haag | Dynniq | V90795 | 42V |
+| K281 | Prins Bernhardviadukt - Busplatform station | Den Haag | Vialis | VT451542 | 42V |
+| K284 | Vreeswijkstraat - Renswoudelaan | Den Haag | Vialis | VT451000 | 42V |
+| K285 | De Genestetlaan - Paets van Troostwijkstraa | Den Haag | Dynniq | V20403 | 42V |
+| K288 | Het Kleine Loo - Reigersbergerweg | Den Haag | Dynniq | V20378 | 42V |
+| K289 | Beethovenlaan - Pisuissestraat | Den Haag | Dynniq | V601270 | 42V |
+| K291 | Apeldoornselaan - Dierenselaan | Den Haag | Swarco | V600540 | 42V |
+| K292 | Dedemsvaartweg - Zuidwoldestraat | Den Haag |  |  |  |
+| K294 | Laan van Meerdervoort - Regentesselaan | Den Haag | Dynniq | V150232 | 42V |
+| K295 | Calandstraat - Van der kunstraat | Den Haag | Vialis | VT450286 | 42V |
+| K301 | Schenkkade - Schenkviaduct - Utrechtsebaan | Den Haag | Dynniq | V90806 | 42V |
+| K302 | Juliana van Stolberglaan - Utrechtsebaan | Den Haag | Dynniq | V90392 | 42V |
+| K303 | Prins Clauslaan - Theresiastraat | Den Haag | Vialis | VT450940 | 42V |
+| K304 | Bezuidenhoutseweg - Prins Clauslaan | Den Haag | Dynniq | V90454 | 42V |
+| K305 | Benoordenhoutseweg - Boslaan | Den Haag | Dynniq | V90275 | 42V |
+| K306 | Schenkkade - Prinses Beatrixlaan | Den Haag | Dynniq | V40057 | 42V |
+| K307 | Juliana van Stolberglaan - Prinses Beatrixl | Den Haag | Vialis | VT451004 | 42V |
+| K308 | Prinses Beatrixlaan - Prinses Marijkestraat | Den Haag | Swarco | 200.667 | 42V |
+| K310 | Laan van Delfvliet - Afrit A4 Zuid | Den Haag | Vialis | VT600164 | 42V |
+| K327 | Westvlietweg - Wijkerbrug | Den Haag | Dynniq | V20469 | 42V |
+| K328 | Westvlietweg - Kerkbrug | Den Haag | Dynniq | V20470 | 42V |
+| K331 | Oude Middenweg - Pijlkruidveld | Den Haag | Dynniq | V60052 | 42V |
+| K332 | Zoetermeerse Rijweg - Loire | Den Haag | Vialis | VT451298 | 42V |
+| K334 | Zoetermeerse Rijweg - Pijlkruidveld | Den Haag | Vialis | VT451299 | 42V |
+| K335 | Zoetermeerse Rijweg - Spieringdam | Den Haag | Vialis | VT451303 | 42V |
+| K337 | Donau - Laan van Leidschenveen | Den Haag | Dynniq | V90832 | 42V |
+| K340 | Jan Thijssenweg - Drievliet | Den Haag | Dynniq | V90633 | 42V |
+| K341 | Laan van Delfvliet - Oprit A4 Noord | Den Haag | Vialis | VT451005 | 42V |
+| K345 | Poortweg - Rijswijkse Waterweg | Den Haag | Swarco | 200-753 | 42V |
+| K346 | Rijswijkse Landingslaan - Singel | Den Haag | Vialis | VT451300 | 42V |
+| K348 | Laan van Hoornwijck - Laan van 's-Gravenmad | Den Haag | Vialis | VT600162 | 42V |
+| K351 | Laan van Hoornwijck - Laan van Ypenburg | Den Haag | Vialis | VT451189 | 42V |
+| K352 | Laan van Hoornwijck - Ypenburgse Boslaan | Den Haag | Vialis | VT451190 | 42V |
+| K353 | Nootdorpse Landingslaan - Laan van Nootdorp | Den Haag | Vialis | VT451206 | 42V |
+| K354 | Laan van Nootdorp - Weidevogellaan | Den Haag | Vialis | VT451207 | 42V |
+| K355 | Laan van Nootdorp - Ypenburgse Boslaan | Den Haag | Vialis | VT451112 | 42V |
+| K356 | Ypenburgse Stationsweg - Laan van Leidschen | Den Haag | Vialis | VT450833 | 42V |
+| K357 | Ypenburgse Stationsweg - Katschiplaan | Den Haag | Vialis | VT450834 | 42V |
+| K358 | Ypenburgse Stationsweg - Fregatsingel | Den Haag | Vialis | VT450835 | 42V |
+| K359 | Ypenburgse Stationsweg - Afrit A12 | Den Haag | Vialis | VT450836 | 42V |
+| K360 | Viaduct afrit A12 Nootdorp | Den Haag | KO Hartog | KH21780 | 42V |
+| K361 | Brasserhoutweg - Dwarskade | Den Haag | Dynniq | V90555 | 42V |
+| K401 | Koningskade - Korte Voorhout | Den Haag | Vialis | VT450941 | 42V |
+| K402 | Koningskade - Zuid Hollandlaan | Den Haag | Vialis | VT451123 | 42V |
+| K403 | Koningskade - Dr. Kuyperstraat | Den Haag | Vialis | VT451153 | 42V |
+| K404 | Koningskade - Javastraat | Den Haag | Vialis | VT451049 | 42V |
+| K405 | Raamweg - Laan Copes van Cattenburch | Den Haag | Vialis | VT600148 | 42V |
+| K406 | Plesmanweg - Waalsdorperweg | Den Haag | Swarco | V601840 | 42V |
+| K408 | Bezuidenhoutseweg - Rijnstraat | Den Haag | Vialis | VT451301 | 42V |
+| K409 | Lekstraat - Schedeldoekshaven | Den Haag | Vialis | VT451159 | 42V |
+| K410 | Lekstraat - Merwedestraat | Den Haag | Vialis | VT452154 | 42V |
+| K411 | Binckhorstlaan - 'Centrale werkplaats KPN' | Den Haag | Vialis | VT452155 | 42V |
+| K412 | Binckhorstlaan - Weteringkade | Den Haag | Vialis | VT452156 | 42V |
+| K413 | George Maduroplein | Den Haag | Swarco | V601850 | 42V |
+| K414 | Bickhorstlaan-Supernovaweg | Den Haag | Vialis | VT451225 | 42V |
+| K415 | Supernovaweg - Mercuriusweg | Den Haag | Vialis | VT451226 | 42V |
+| K416 | Supernovaweg - Regulusweg - Zonweg | Den Haag | Swarco | 200.180 | 42V |
+| K420 | Margaretha van Hennebergweg - Kraayensteinl | Den Haag | Vialis | VT451413 | 42V |
+| K421 | Lippe-Biesterfeldweg - Kapelaan Meereboerwe | Den Haag | Vialis | VT451289 | 42V |
+| K422 | Loosduinse Hoofdstraat - Lisztstraat | Den Haag | Swarco | 200-811 | 42V |
+| K424 | Oude Haagweg - Groen van Prinstererlaan | Den Haag | Vialis | VT451046 | 42V |
+| K426 | Oude Haagweg - Thorbeckelaan | Den Haag | Swarco | V602260 | 42V |
+| K429 | Loosduinseweg - Soestdijksekade | Den Haag | Vialis | VT451161 | 42V |
+| K430 | Loosduinseweg - Zuiderparklaan | Den Haag | Swarco | 230-004 | 42V |
+| K431 | Loosduinseweg - Fahrenheitstraat | Den Haag | Dynniq | V20522 | 42V |
+| K501 | Ockenburghstraat - Beethovenlaan | Den Haag | Swarco | V60127 | 42V |
+| K502 | Loosduinse Hoofdstraat - Ockenburghstraat | Den Haag | Dynniq | V90796 | 42V |
+| K503 | Escamplaan - De Werf | Den Haag | Vialis | VT452199 | 42V |
+| K504 | Lozerlaan - Escamplaan | Den Haag | Vialis | VT450288 | 42V |
+| K505 | Nieuweweg - Madepolderweg | Den Haag | Dynniq | V90797 | 42V |
+| K556 | Lozerlaan - Meppelweg | Den Haag | Vialis | VT452201 | 42V |
+| K557 | Lozerlaan - Hengelolaan | Den Haag | Vialis | VT452202 | 42V |
+| K558 | Lozerlaan - 'Cirkelflat' | Den Haag | Vialis | VT450291 | 42V |
+| K559 | Lozerlaan - Melis Stokelaan | Den Haag | Vialis | VT450292 | 42V |
+| K560 | Lozerlaan - 'Sterflat' | Den Haag | Vialis | VT450293 | 42V |
+| K561 | Lozerlaan - Erasmusweg | Den Haag |  |  |  |
+| K601 | Rijswijkseplein | Den Haag |  |  |  |
+| K602 | Spaarneplein | Den Haag |  |  |  |
+| K603 | Rijswijkseweg - Waldorpstraat - Van Leeuwen | Den Haag |  |  |  |
+| K701 | Johan de Wittlaan - Adriaan Goekooplaan | Den Haag |  |  |  |
+| K702 | Johan de Wittlaan - President Kennedylaan | Den Haag |  |  |  |
+| K703 | President Kennedylaan - Stadhouderslaan | Den Haag |  |  |  |
+| K704 | Houtrustweg - President Kennedylaan - Conra | Den Haag |  |  |  |
+| K706 | Segbroeklaan - Fahrenheitstraat | Den Haag |  |  |  |
+| K707 | Segbroeklaan - Goudenregenstraat | Den Haag |  |  |  |
+| K708 | President Kennedylaan - Aart van der Goesst | Den Haag |  |  |  |
+| K709 | Johan De Wittlaan - Churchillplein | Den Haag |  |  |  |
+| K711 | Scheveningsweg - Professor B. M. Teldersweg | Den Haag |  |  |  |
+| K911 | Brandweerkazerne Forepark | Den Haag |  |  |  |
+| K990 | Wassenaarseweg - Johannes Bilderstraat | Den Haag |  |  |  |
+
+Gouda
+
+**Locaties**
+
+| **Kruispunt nr.** | **Locatie** | **Gemeente** | **Fabrikant** | **VRA-nr.** | **Voltage** |
+| --- | --- | --- | --- | --- | --- |
+| K001 | Nieuwe Gouwe O.Z. - Hanzeweg | Gouda | Swarco | 200.423 | 42V |
+| K003 | Burg. van Reenensingel - Goudse Poort | Gouda | Vialis | VT450430 |  |
+| K004 | Burg. Jamessingel - Nieuwe Gouwe O.Z. - Goudse Poort | Gouda | Swarco | 200.114 | 42V |
+| K005 | Burg. Jamessingel - Dreef | Gouda | Vialis | VT450582 | 42V |
+| K006-1 | Burg. van Reenensingel - Ridder van Catsweg | Gouda | Swarco | 200.072 | 42V |
+| K006-2 | Burg. van Reenensingel - Bloemendaalseweg (fp | Gouda | Swarco | 200.072 | 42V |
+| K008 | Thorbeckeln - Bleulandweg - W. de Zwijgersgl - Statensgl | Gouda | Vialis | VT450774 | 42V |
+| K009 | Bleulandweg - Büchnerweg | Gouda | Vialis | VT450757 | 42V |
+| K010 | Burg. Jamessgl - A. Plesmanpl - Statensgl - Gr. Floriswg | Gouda | Vialis | VT450583 |  |
+| K011 | Burg. v Reenensgl - Goudse Houtsgl - Bodegraafsestr.we | Gouda | Vialis | VT450176 | 42V |
+| K013 | Burg. Jamessingel - Hazepad (fp | Gouda | Swarco | 200.105 | 42V |
+| K016 | Zuid. Zwartewaterweg - Gr. Florisweg - W. Venteweg - Ach | Gouda | Vialis | FR940031 | 42V |
+| K017 | Bodegraafsestraatweg - Watergraspad | Gouda | Swarco | 200.068 | 42V |
+| K018 | Steijnpad - Zuidelijke Zwarteweg | Gouda | Vialis | FR940031 |  |
+| K020 | Burg. v Reenensgl - Plaswijckweg - Gr. v Prinsterersgl | Gouda | Swarco | 200.073 | 42V |
+| K023 | Burg. van Reenensgl - Groenhovenweg - Burg. Mijssgl | Gouda | Vialis | VT450431 | 42V |
+| K048 | Nieuwe Gouwe O.Z. - Meridiaan | Gouda | Swarco | 200.296 | 42V |
+| K049 | Nieuwe Gouwe O.Z. - Keerkring | Gouda | Swarco | 200.284 | 42V |
+| K050 | Nieuwe Gouwe O.Z. - Energieweg | Gouda | Vialis | VT450496 |  |
+| K051 | Nieuwe Gouwe O.Z. - Industriestraat - Steve Bikobrug | Gouda | Vialis | VT450201 | 42V |
+| K052 | Spoorstraat - Kleiwegplein - Blekersingel - Kattensingel | Gouda | Vialis | VT451823 | 42V |
+| K053 | Joubertstr - Voorwillensewg - Zuidelijke Zwartewaterwg | Gouda | Swarco | 200.083 | 42V |
+| K054 | Blekerssgl - Fluwelensgl - L. Tiendeweg - Karnemelksloot | Gouda | Swarco | 200.064 | 42V |
+| K055 | Nieuwe Gouwe O.Z. - Wachtelstr - Kattensgl - Bolwerk | Gouda | Swarco | 200.081 | 42V |
+| K056 | Blekersingel - Schouwburglaan | Gouda | Swarco | 200.059 | 42V |
+| K057 | Fluwelensgl - Doelenstr - Burg. Martensstr-Doelenbrug | Gouda | Swarco | 200.088 | 42V |
+| K058 | Schielands Hoge Zeedijk - Inrit - uitrit Croda | Gouda | Swarco | 200.210 | 42V |
+| K059 | Nw Veerstal - Schielands Hoge Zeedijk - Veerstal - Oosth | Gouda | Siemens | 722697 | 230V |
+| K060 | Fluwelensgl - Nw Veerstal - Goejanverwelledijk | Gouda | Vialis | FR900860 |  |
+| K061 | Goejanverwelledijk - Nw. Veerstal - Haastrechtsebrug | Gouda | Vialis | FR900860 |  |
+| K062 | Rotterdamseweg - Kon. Wilhelminaweg - Hoefbladstr-Rott | Gouda | Swarco | 200.060 | 42V |
+| K65-1 | Goverwellesingel - Componistenlaan - Ouverturelaan | Gouda | Swarco | 200.086 | 42V |
+| K65-2 | Goverwellesingel - Voorwillenseweg (fp) | Gouda | Swarco | 200.086 | 42V |
+| K066 | Goverwellesgl - Vrijenhoefpolderweg - Poldermolendreef | Gouda | Swarco | 200.063 | 42V |
+| K067 | Goverwellesingel - Lakerpolderplein | Gouda | Swarco | 200.056 | 42V |
+| K068 | Goverwellesgl - Wilhelmina v Pruisenln - Middenmolenln | Gouda | Swarco | 200.071 | 42V |
+
+HTM
+
+De exacte locaties van de haltes kun je terugvinden via onderstaande website:
+
+[DOVA Halte- en stationviewer](https://halteviewer.ov-data.nl/)
+
+**Locaties**
+
+| **Kruispunt nr.** | **Locatie** | **Gemeente** |
+| --- | --- | --- |
+| H32001712 | A. Petersweg | 's-Gravenhage |
+| H32001712-10595 | A. Petersweg | 's-Gravenhage |
+| H32001812-10329 | Aaltje noorderwierstr | 's-Gravenhage |
+| H32001813-10516 | Aaltje noorderwierstr | 's-Gravenhage |
+| H32001813-10557 | Aaltje noorderwierstr | 's-Gravenhage |
+| H32001103-10284 | Aert vd Goesstraat | 's-Gravenhage |
+| H32001125-10426 | Aert vd Goesstraat | 's-Gravenhage |
+| H32001808-10032 | Albardastraat | 's-Gravenhage |
+| H32001809-10031 | Albardastraat | 's-Gravenhage |
+| H32003829-10328 | Alberdink Thijmstraat | 's-Gravenhage |
+| H32003830-10459 | Alberdink Thijmstraat | 's-Gravenhage |
+| H32002301-10163 | Alexanderstraat | 's-Gravenhage |
+| H32002301-10497 | Alexanderstraat | 's-Gravenhage |
+| H32002302-10266 | Alexanderstraat | 's-Gravenhage |
+| H32002307-10493 | Alexanderstraat | 's-Gravenhage |
+| H32002308-10255 | Alexanderstraat | 's-Gravenhage |
+| H32002308-10321 | Alexanderstraat | 's-Gravenhage |
+| H32003407-10048 | Almeloplein | 's-Gravenhage |
+| H32002858-10547 | Ammunitiehaven | 's-Gravenhage |
+| H32003608-10709 | Anna Bijnslaan | 's-Gravenhage |
+| H32002698-10969 | Anna van Hannoverstr | 's-Gravenhage |
+| H32002699 | Anna van Hannoverstr | 's-Gravenhage |
+| H32003129-10525 | Apeldoornselaan | 's-Gravenhage |
+| H32003129-10569 | Apeldoornselaan | 's-Gravenhage |
+| H32003130-10502 | Apeldoornselaan | 's-Gravenhage |
+| H32003130-10544 | Apeldoornselaan | 's-Gravenhage |
+| H32001820-10111 | Arnold Spoelplein | 's-Gravenhage |
+| H32001821-10141 | Arnold Spoelplein | 's-Gravenhage |
+| H32000702-10274 | BadhuiskadeC | 's-Gravenhage |
+| H32000703-10423 | BadhuiskadeC | 's-Gravenhage |
+| H32000219-10308 | Badhuisweg | 's-Gravenhage |
+| H32000220 | Badhuisweg | 's-Gravenhage |
+| H32001406 | Balsemienlaan | 's-Gravenhage |
+| H32001406-10016 | Balsemienlaan | 's-Gravenhage |
+| H32001408 | Balsemienlaan | 's-Gravenhage |
+| H32001408-10017 | Balsemienlaan | 's-Gravenhage |
+| H32000503-10184 | Bankastraat | 's-Gravenhage |
+| H32000504-10195 | Bankastraat | 's-Gravenhage |
+| H32000605 | Bankastraat | 's-Gravenhage |
+| H32002103-10164 | Beeklaan | 's-Gravenhage |
+| H32002104-10430 | Beeklaan | 's-Gravenhage |
+| H32002107-10330 | Beeklaan | 's-Gravenhage |
+| H32002108-10238 | Beeklaan | 's-Gravenhage |
+| H54002012-10431 | Beeklaan | 's-Gravenhage |
+| H42018501-10125 | Benoordenhoutseweg | 's-Gravenhage |
+| H54000470-10404 | Benoordenhoutseweg | 's-Gravenhage |
+| H54000670-10271 | Benoordenhoutseweg | 's-Gravenhage |
+| H54000680 | Benoordenhoutseweg | 's-Gravenhage |
+| H54000680-10505 | Benoordenhoutseweg | 's-Gravenhage |
+| H54000730-10262 | Benoordenhoutseweg | 's-Gravenhage |
+| H54140330-10119 | Benoordenhoutseweg | 's-Gravenhage |
+| H54142010-10153 | Benoordenhoutseweg | 's-Gravenhage |
+| H54142030-10101 | Benoordenhoutseweg | 's-Gravenhage |
+| H54142040-10118 | Benoordenhoutseweg | 's-Gravenhage |
+| H32003371-10463 | Beresteinlaan | 's-Gravenhage |
+| H42009901 | Bezuidenhoutseweg | 's-Gravenhage |
+| H42009902 | Bezuidenhoutseweg | 's-Gravenhage |
+| H42010901-10138 | Bezuidenhoutseweg | 's-Gravenhage |
+| H42010902-10341 | Bezuidenhoutseweg | 's-Gravenhage |
+| H42013301-10134 | Bezuidenhoutseweg | 's-Gravenhage |
+| H42013302-10140 | Bezuidenhoutseweg | 's-Gravenhage |
+| H42017001 | Bezuidenhoutseweg | 's-Gravenhage |
+| H42017002 | Bezuidenhoutseweg | 's-Gravenhage |
+| H42018102 | Bezuidenhoutseweg | 's-Gravenhage |
+| H42018502-10290 | Bezuidenhoutseweg | 's-Gravenhage |
+| H42022701-10114 | Bezuidenhoutseweg | 's-Gravenhage |
+| H42022702-10117 | Bezuidenhoutseweg | 's-Gravenhage |
+| H32002801-10485 | Bilderdijkstraat | 's-Gravenhage |
+| H42073401-10427 | Brasserhoutweg | 's-Gravenhage |
+| H42073402 | Brasserhoutweg | 's-Gravenhage |
+| H42011201 | Brasserkade | 's-Gravenhage |
+| H42011202-10410 | Brasserkade | 's-Gravenhage |
+| H32003903 | Brinckhorstlaan | 's-Gravenhage |
+| H32003904 | Brinckhorstlaan | 's-Gravenhage |
+| H32003905-10187 | Brinckhorstlaan | 's-Gravenhage |
+| H32003912-10182 | Brinckhorstlaan | 's-Gravenhage |
+| H32002825-10416 | Brouwersgracht | 's-Gravenhage |
+| H32002826-10452 | Brouwersgracht | 's-Gravenhage |
+| H32003803-10331 | Calandstraat | 's-Gravenhage |
+| H32003804-10287 | Calandstraat | 's-Gravenhage |
+| H32000708-10776 | Circusplein | 's-Gravenhage |
+| H32000708-10976 | Circusplein | 's-Gravenhage |
+| H32001101-10468 | Conradkade | 's-Gravenhage |
+| H32001102-10186 | Conradkade | 's-Gravenhage |
+| H32001108-10524 | Conradkade | 's-Gravenhage |
+| H32001109-10944 | Conradkade | 's-Gravenhage |
+| H32002105-10979 | Conradkade | 's-Gravenhage |
+| H32002106-10818 | Conradkade | 's-Gravenhage |
+| H32002017-10092 | Copernicusplein | 's-Gravenhage |
+| H32000930-10360 | Cornelis de Wittlaan | 's-Gravenhage |
+| H32000932-10241 | Cornelis de Wittlaan | 's-Gravenhage |
+| H32001106-10295 | Cornelis de Wittlaan | 's-Gravenhage |
+| H32002641-10102 | De Eerensplein | 's-Gravenhage |
+| H32002642-10133 | De Eerensplein | 's-Gravenhage |
+| H32003819-10339 | de Genesteltlaan | 's-Gravenhage |
+| H32003820-10178 | de Genesteltlaan | 's-Gravenhage |
+| H32002908-10960 | De heemstraat | 's-Gravenhage |
+| H32002908-10967 | De heemstraat | 's-Gravenhage |
+| H32002919-10946 | De heemstraat | 's-Gravenhage |
+| H32002920-10908 | De heemstraat | 's-Gravenhage |
+| H32002931-10896 | De heemstraat | 's-Gravenhage |
+| H32002931-10930 | De heemstraat | 's-Gravenhage |
+| H32002932-10530 | De heemstraat | 's-Gravenhage |
+| H32002932-10713 | De heemstraat | 's-Gravenhage |
+| H32002932-10845 | De heemstraat | 's-Gravenhage |
+| H32002934-10597 | De heemstraat | 's-Gravenhage |
+| H32003125-10433 | De la Reyweg | 's-Gravenhage |
+| H32003126-10458 | De la Reyweg | 's-Gravenhage |
+| H32003442-10688 | Dedemsvaartweg | 's-Gravenhage |
+| H32003443-10707 | Dedemsvaartweg | 's-Gravenhage |
+| H32002935-10301 | Delftselaan | 's-Gravenhage |
+| H32002503-10121 | Diamanthorst | 's-Gravenhage |
+| H32002505-10124 | Diamanthorst | 's-Gravenhage |
+| H32002506-10123 | Diamanthorst | 's-Gravenhage |
+| H32002507-10137 | Diamanthorst | 's-Gravenhage |
+| H32002508-10142 | Diamanthorst | 's-Gravenhage |
+| H32003115-10670 | Dierenselaan | 's-Gravenhage |
+| H32003116-10655 | Dierenselaan | 's-Gravenhage |
+| H32000226 | Doorniksestraat | 's-Gravenhage |
+| H32000227-10261 | Doorniksestraat | 's-Gravenhage |
+| H32000228-10309 | Doorniksestraat | 's-Gravenhage |
+| H32000934-10552 | Doornstraat | 's-Gravenhage |
+| H32000935 | Doornstraat | 's-Gravenhage |
+| H32000603-10285 | Dr. Alleta Jaconsweg | 's-Gravenhage |
+| H32000604-10445 | Dr. Alleta Jaconsweg | 's-Gravenhage |
+| H32000716-10578 | Duinstraat | 's-Gravenhage |
+| H32000717-10603 | Duinstraat | 's-Gravenhage |
+| H32000720-10267 | Duinstraat | 's-Gravenhage |
+| H32000721-10380 | Duinstraat | 's-Gravenhage |
+| H32000730- | Duinstraat | 's-Gravenhage |
+| H32000724-10442 | Duinweg | 's-Gravenhage |
+| H32000805-10324 | Duivelandsestraat | 's-Gravenhage |
+| H32000806 | Duivelandsestraat | 's-Gravenhage |
+| H32002007-10269 | Edisonstraat | 's-Gravenhage |
+| H32002008-10487 | Edisonstraat | 's-Gravenhage |
+| H32002015-10162 | Edisonstraat | 's-Gravenhage |
+| H32002016-10254 | Edisonstraat | 's-Gravenhage |
+| H32000919-10494 | Eisenhowerlaan | 's-Gravenhage |
+| H32000920-10225 | Eisenhowerlaan | 's-Gravenhage |
+| H32000936-10654 | Eisenhowerlaan | 's-Gravenhage |
+| H32000937-10699 | Eisenhowerlaan | 's-Gravenhage |
+| H32000944-10204 | Eisenhowerlaan | 's-Gravenhage |
+| H32000407-10381 | Else Mauhslaan | 's-Gravenhage |
+| H32003339-10113 | Erasmusweg | 's-Gravenhage |
+| H32003340 | Erasmusweg | 's-Gravenhage |
+| H32003341-10293 | Erasmusweg | 's-Gravenhage |
+| H32003342-10132 | Erasmusweg | 's-Gravenhage |
+| H32003343 | Erasmusweg | 's-Gravenhage |
+| H32003357-10090 | Erasmusweg | 's-Gravenhage |
+| H32003609-10633 | Erasmusweg | 's-Gravenhage |
+| H32003610-10994 | Erasmusweg | 's-Gravenhage |
+| H32003614-10349 | Erasmusweg | 's-Gravenhage |
+| H32003615-10334 | Erasmusweg | 's-Gravenhage |
+| H32003618-10476 | Erasmusweg | 's-Gravenhage |
+| H32003619-10219 | Erasmusweg | 's-Gravenhage |
+| H32003620-10213 | Erasmusweg | 's-Gravenhage |
+| H32003621-10231 | Erasmusweg | 's-Gravenhage |
+| H32003626-10405 | Erasmusweg | 's-Gravenhage |
+| H32003627-10273 | Erasmusweg | 's-Gravenhage |
+| H32001717-10043 | Escamplaan | 's-Gravenhage |
+| H32001718-10369 | Escamplaan | 's-Gravenhage |
+| H32001719-10108 | Escamplaan | 's-Gravenhage |
+| H32001721-10044 | Escamplaan | 's-Gravenhage |
+| H32003109-10528 | Escamplaan | 's-Gravenhage |
+| H32003109-10536 | Escamplaan | 's-Gravenhage |
+| H32003110-10531 | Escamplaan | 's-Gravenhage |
+| H32003110-10577 | Escamplaan | 's-Gravenhage |
+| H32003213-10520 | Escamplaan | 's-Gravenhage |
+| H32003213-10585 | Escamplaan | 's-Gravenhage |
+| H32003214-10554 | Escamplaan | 's-Gravenhage |
+| H32003214-10567 | Escamplaan | 's-Gravenhage |
+| H42012101-10040 | Escamplaan | 's-Gravenhage |
+| H42012102-10039 | Escamplaan | 's-Gravenhage |
+| H42015701-10131 | Escamplaan | 's-Gravenhage |
+| H42015702-10036 | Escamplaan | 's-Gravenhage |
+| H42021801-10038 | Escamplaan | 's-Gravenhage |
+| H42021802-10037 | Escamplaan | 's-Gravenhage |
+| H32000904-10188 | Frankenslag | 's-Gravenhage |
+| H32000905-10340 | Frankenslag | 's-Gravenhage |
+| H32000918-10283 | Frederik Hendriklaan | 's-Gravenhage |
+| H32002921-10662 | Fruitweg | 's-Gravenhage |
+| H32002921-10694 | Fruitweg | 's-Gravenhage |
+| H32002922-10517 | Fruitweg | 's-Gravenhage |
+| H32002922-10543 | Fruitweg | 's-Gravenhage |
+| H32002922-10563 | Fruitweg | 's-Gravenhage |
+| H32002924-10555 | Fruitweg | 's-Gravenhage |
+| H32003701-10795 | Fruitweg | 's-Gravenhage |
+| H32003702-10678 | Fruitweg | 's-Gravenhage |
+| H32000221-10350 | Gentsestraat | 's-Gravenhage |
+| H32000225-10282 | Gentsestraat | 's-Gravenhage |
+| H32000602- | George Maduroplein | 's-Gravenhage |
+| H32000202-10220 | Gevers Deynootweg | 's-Gravenhage |
+| H32000202-10374 | Gevers Deynootweg | 's-Gravenhage |
+| H32000204-10296 | Gevers Deynootweg | 's-Gravenhage |
+| H32000706-10190 | Gevers Deynootweg | 's-Gravenhage |
+| H32000707-10279 | Gevers Deynootweg | 's-Gravenhage |
+| H32001211-10417 | Goudenregenstraat | 's-Gravenhage |
+| H32001212-10214 | Goudenregenstraat | 's-Gravenhage |
+| H32003817-10736 | Gouverneurslaan | 's-Gravenhage |
+| H32003818-10765 | Gouverneurslaan | 's-Gravenhage |
+| H32003821-10849 | Gouverneurslaan | 's-Gravenhage |
+| H32003822-10883 | Gouverneurslaan | 's-Gravenhage |
+| H32002818 | Gravenstraat | 's-Gravenhage |
+| H32002819 | Gravenstraat | 's-Gravenhage |
+| H32001828-10126 | Groen v Prinstererln | 's-Gravenhage |
+| H32001829-10033 | Groen v Prinstererln | 's-Gravenhage |
+| H32001110-10152 | Groot Hertoginnelaan | 's-Gravenhage |
+| H32001111-10152 | Groot Hertoginnelaan | 's-Gravenhage |
+| H32001112-10698 | Groot Hertoginnelaan | 's-Gravenhage |
+| H32001114-10414 | Groot Hertoginnelaan | 's-Gravenhage |
+| H32001117-10286 | Groot Hertoginnelaan | 's-Gravenhage |
+| H32001118-10379 | Groot Hertoginnelaan | 's-Gravenhage |
+| H32001123-10409 | Groot Hertoginnelaan | 's-Gravenhage |
+| H32001124-10355 | Groot Hertoginnelaan | 's-Gravenhage |
+| H32000217-10221 | Harstenbroekweg | 's-Gravenhage |
+| H32000218-10469 | Harstenbroekweg | 's-Gravenhage |
+| H32000440-10098 | Hart Nibbrigkade | 's-Gravenhage |
+| H32000740 | Hellingkade | 's-Gravenhage |
+| H32003318-10104 | Hengelolaan | 's-Gravenhage |
+| H32003319 | Hengelolaan | 's-Gravenhage |
+| H32003320-10074 | Hengelolaan | 's-Gravenhage |
+| H32003321-10783 | Hengelolaan | 's-Gravenhage |
+| H32003322-10070 | Hengelolaan | 's-Gravenhage |
+| H32003323-10073 | Hengelolaan | 's-Gravenhage |
+| H32003361 | Hengelolaan | 's-Gravenhage |
+| H32003362-10135 | Hengelolaan | 's-Gravenhage |
+| H32003383 | Hengelolaan | 's-Gravenhage |
+| H32003411-10072 | Hengelolaan | 's-Gravenhage |
+| H32003412-10071 | Hengelolaan | 's-Gravenhage |
+| H32003413-10391 | Hengelolaan | 's-Gravenhage |
+| H32003413-10392 | Hengelolaan | 's-Gravenhage |
+| H32003413-10481 | Hengelolaan | 's-Gravenhage |
+| H32003414-10403 | Hengelolaan | 's-Gravenhage |
+| H32003414-10448 | Hengelolaan | 's-Gravenhage |
+| H32002509-10711 | Het kleine Looi | 's-Gravenhage |
+| H32002510-10734 | Het kleine Looi | 's-Gravenhage |
+| H32002513-10819 | Het kleine Looi | 's-Gravenhage |
+| H32002514-10825 | Het kleine Looi | 's-Gravenhage |
+| H32002515-10701 | Het kleine Looi | 's-Gravenhage |
+| H32002516-10786 | Het kleine Looi | 's-Gravenhage |
+| H32002517-10359 | Het kleine Looi | 's-Gravenhage |
+| H32002518 | Het kleine Looi | 's-Gravenhage |
+| H32003841 | Hildebrandstraat | 's-Gravenhage |
+| H32003842 | Hildebrandstraat | 's-Gravenhage |
+| H32002911-10732 | Hobbemaplein | 's-Gravenhage |
+| H32002912-10772 | Hobbemaplein | 's-Gravenhage |
+| H32002913-10747 | Hobbemaplein | 's-Gravenhage |
+| H32002914 | Hobbemaplein | 's-Gravenhage |
+| H32002917-10491 | Hobbemastraat | 's-Gravenhage |
+| H32002918-10239 | Hobbemastraat | 's-Gravenhage |
+| H42013001 | Hoefkade | 's-Gravenhage |
+| H42013001-10492 | Hoefkade | 's-Gravenhage |
+| H42018901 | Hoefkade | 's-Gravenhage |
+| H42018902 | Hoefkade | 's-Gravenhage |
+| H32001502-10003 | Hoek van Hollandlaan | 's-Gravenhage |
+| H32002519 | Hofzichtlaan | 's-Gravenhage |
+| H32002520-10120 | Hofzichtlaan | 's-Gravenhage |
+| H32002521 | Hofzichtlaan | 's-Gravenhage |
+| H32002522-10146 | Hofzichtlaan | 's-Gravenhage |
+| H32002523-10440 | Hofzichtlaan | 's-Gravenhage |
+| H32002524-10750 | Hofzichtlaan | 's-Gravenhage |
+| H32002525 | Hofzichtlaan | 's-Gravenhage |
+| H32002526-10171 | Hofzichtlaan | 's-Gravenhage |
+| H42018701-10208 | Houtkade | 's-Gravenhage |
+| H42018702-10325 | Houtkade | 's-Gravenhage |
+| H32001715-10109 | Houtwijklaan | 's-Gravenhage |
+| H32001716-10034 | Houtwijklaan | 's-Gravenhage |
+| H32003350-10175 | Jaap Edenweg | 's-Gravenhage |
+| H32003350-10366 | Jaap Edenweg | 's-Gravenhage |
+| H32000710-10777 | Jacob pronkstraat | 's-Gravenhage |
+| H32000711 | Jacob pronkstraat | 's-Gravenhage |
+| H32003833-10354 | Jan van Beersstraat | 's-Gravenhage |
+| H32003834-10299 | Jan van Beersstraat | 's-Gravenhage |
+| H32000436-10130 | Jan van Nassaustraat | 's-Gravenhage |
+| H32003815-10955 | Jan vd Heijdenstraat | 's-Gravenhage |
+| H32000515-10197 | Javastraat | 's-Gravenhage |
+| H32000437 | Jozef Israellaan | 's-Gravenhage |
+| H32000427-10368 | Jozef Israelplein | 's-Gravenhage |
+| H32002647-10511 | Juliana v Stoberglaan | 's-Gravenhage |
+| H32002647-10566 | Juliana v Stoberglaan | 's-Gravenhage |
+| H32002648-10522 | Juliana v Stoberglaan | 's-Gravenhage |
+| H32002648-10609 | Juliana v Stoberglaan | 's-Gravenhage |
+| H32002652-10248 | Juliana v Stoberglaan | 's-Gravenhage |
+| H42014102-10362 | Juliana v Stoberglaan | 's-Gravenhage |
+| H32000714-10419 | Jurian kokstraat | 's-Gravenhage |
+| H32000715-10418 | Jurian kokstraat | 's-Gravenhage |
+| H42014201-10456 | Kaapseplein | 's-Gravenhage |
+| H42014202 | Kaapseplein | 's-Gravenhage |
+| H32000734 | Kanaalweg | 's-Gravenhage |
+| H32003009-10509 | Kempstraat | 's-Gravenhage |
+| H32003010-10258 | Kempstraat | 's-Gravenhage |
+| H32001425-10297 | Kijkduinsestraat | 's-Gravenhage |
+| H32001426-10020 | Kijkduinsestraat | 's-Gravenhage |
+| H32001504-10247 | Kijkduinsestraat | 's-Gravenhage |
+| H32001506-10972 | Kijkduinsestraat | 's-Gravenhage |
+| H32001508 | Kijkduinsestraat | 's-Gravenhage |
+| H32001516-10004 | Kijkduinsestraat | 's-Gravenhage |
+| H32002862-10250 | Klavermarkt | 's-Gravenhage |
+| H32002862-10352 | Klavermarkt | 's-Gravenhage |
+| H32002863-10902 | Klavermarkt | 's-Gravenhage |
+| H32002863-10934 | Klavermarkt | 's-Gravenhage |
+| H32002863-10970 | Klavermarkt | 's-Gravenhage |
+| H32002803-10327 | Kneuterdijk | 's-Gravenhage |
+| H32002804-10453 | Kneuterdijk | 's-Gravenhage |
+| H32002805-10687 | Kneuterdijk | 's-Gravenhage |
+| H32002806-10464 | Kneuterdijk | 's-Gravenhage |
+| H32002874-10181 | Kneuterdijk | 's-Gravenhage |
+| H32001121-10658 | Kon. Emmakade | 's-Gravenhage |
+| H32001122-10635 | Kon. Emmakade | 's-Gravenhage |
+| H32001122-10653 | Kon. Emmakade | 's-Gravenhage |
+| H32000505-10804 | Koninginnegracht | 's-Gravenhage |
+| H32000506-10332 | Koninginnegracht | 's-Gravenhage |
+| H32000513-10832 | Koninginnegracht | 's-Gravenhage |
+| H32000514-10817 | Koninginnegracht | 's-Gravenhage |
+| H32000519-10158 | Koninginnegracht | 's-Gravenhage |
+| H32000520-10909 | Koninginnegracht | 's-Gravenhage |
+| H32000601-10980 | Koninginnegracht | 's-Gravenhage |
+| H32002309-10679 | Koninginnegracht | 's-Gravenhage |
+| H32002310-10824 | Koninginnegracht | 's-Gravenhage |
+| H32002403-10406 | Koningskade | 's-Gravenhage |
+| H32002812-10973 | Korte Voorhout | 's-Gravenhage |
+| H32002812-10977 | Korte Voorhout | 's-Gravenhage |
+| H32002813-10958 | Korte Voorhout | 's-Gravenhage |
+| H32002813-10962 | Korte Voorhout | 's-Gravenhage |
+| H32001601 | Kraayensteinlaan | 's-Gravenhage |
+| H32001602 | Kraayensteinlaan | 's-Gravenhage |
+| H32001606-10161 | Kraayensteinlaan | 's-Gravenhage |
+| H32001607 | Kraayensteinlaan | 's-Gravenhage |
+| H32000744 | Kranenburgweg | 's-Gravenhage |
+| H32000745 | Kranenburgweg | 's-Gravenhage |
+| H32000205-10500 | Kurhausweg | 's-Gravenhage |
+| H32000229-10336 | Kurhausweg | 's-Gravenhage |
+| H32002637-10572 | Laan v Nw Oost Indie | 's-Gravenhage |
+| H32002638-10590 | Laan v Nw Oost Indie | 's-Gravenhage |
+| H32002649-10526 | Laan v Nw Oost Indie | 's-Gravenhage |
+| H32002650-10553 | Laan v Nw Oost Indie | 's-Gravenhage |
+| H32002655-10663 | Laan v Nw Oost Indie | 's-Gravenhage |
+| H32002656-10605 | Laan v Nw Oost Indie | 's-Gravenhage |
+| H32002658-10945 | Laan v Nw Oost Indie | 's-Gravenhage |
+| H32002658-10957 | Laan v Nw Oost Indie | 's-Gravenhage |
+| H32002659-10919 | Laan v Nw Oost Indie | 's-Gravenhage |
+| H32002659-10961 | Laan v Nw Oost Indie | 's-Gravenhage |
+| H32004005-10537 | Laan v Wateringseveld | 's-Gravenhage |
+| H32004006-10556 | Laan v Wateringseveld | 's-Gravenhage |
+| H32004009-10649 | Laan v Wateringseveld | 's-Gravenhage |
+| H32004010-10900 | Laan v Wateringseveld | 's-Gravenhage |
+| H32004011-10852 | Laan v Wateringseveld | 's-Gravenhage |
+| H32004012-10877 | Laan v Wateringseveld | 's-Gravenhage |
+| H42013801-10479 | Laan v Wateringseveld | 's-Gravenhage |
+| H42013802-10382 | Laan v Wateringseveld | 's-Gravenhage |
+| H42014601-10144 | Laan v Wateringseveld | 's-Gravenhage |
+| H42014602-10150 | Laan v Wateringseveld | 's-Gravenhage |
+| H42017101-10799 | Laan v Wateringseveld | 's-Gravenhage |
+| H42017102 | Laan v Wateringseveld | 's-Gravenhage |
+| H42017701-10086 | Laan v Wateringseveld | 's-Gravenhage |
+| H42017702-10149 | Laan v Wateringseveld | 's-Gravenhage |
+| H42017901-10145 | Laan v Wateringseveld | 's-Gravenhage |
+| H42017902-10147 | Laan v Wateringseveld | 's-Gravenhage |
+| H42018201-10089 | Laan v Wateringseveld | 's-Gravenhage |
+| H42018202-10088 | Laan v Wateringseveld | 's-Gravenhage |
+| H32005936-10372 | Laan van Hoornwijk | 's-Gravenhage |
+| H32005937-10385 | Laan van Hoornwijk | 's-Gravenhage |
+| H32005938-10408 | Laan van Hoornwijk | 's-Gravenhage |
+| H32005939-10472 | Laan van Hoornwijk | 's-Gravenhage |
+| H32005940-10520 | Laan van Hoornwijk | 's-Gravenhage |
+| H32005941-10450 | Laan van Hoornwijk | 's-Gravenhage |
+| H32005941-10559 | Laan van Hoornwijk | 's-Gravenhage |
+| H42015801-10323 | Laan van hoornwijk | 's-Gravenhage |
+| H32009589 | Laan van leidscheveen | 's-Gravenhage |
+| H32009591-10600 | Laan van leidscheveen | 's-Gravenhage |
+| H32009591-10617 | Laan van leidscheveen | 's-Gravenhage |
+| H32009840-10236 | Laan van leidscheveen | 's-Gravenhage |
+| H32009841-10377 | Laan van leidscheveen | 's-Gravenhage |
+| H32009841-10484 | Laan van leidscheveen | 's-Gravenhage |
+| H42014901 | Laan van leidscheveen | 's-Gravenhage |
+| H42017301-10397 | Laan van leidscheveen | 's-Gravenhage |
+| H32001119-10610 | Laan van Meerdervoort | 's-Gravenhage |
+| H32001119-10613 | Laan van Meerdervoort | 's-Gravenhage |
+| H32001120-10631 | Laan van Meerdervoort | 's-Gravenhage |
+| H32001213-10562 | Laan van Meerdervoort | 's-Gravenhage |
+| H32001213-10584 | Laan van Meerdervoort | 's-Gravenhage |
+| H32001214-10638 | Laan van Meerdervoort | 's-Gravenhage |
+| H32001214-10675 | Laan van Meerdervoort | 's-Gravenhage |
+| H32001217-10644 | Laan van Meerdervoort | 's-Gravenhage |
+| H32001217-10681 | Laan van Meerdervoort | 's-Gravenhage |
+| H32001218-10650 | Laan van Meerdervoort | 's-Gravenhage |
+| H32001218-10697 | Laan van Meerdervoort | 's-Gravenhage |
+| H32001415-10441 | Laan van Meerdervoort | 's-Gravenhage |
+| H32001416-10151 | Laan van Meerdervoort | 's-Gravenhage |
+| H32001416-10420 | Laan van Meerdervoort | 's-Gravenhage |
+| H32001419-10504 | Laan van Meerdervoort | 's-Gravenhage |
+| H32001421-10018 | Laan van Meerdervoort | 's-Gravenhage |
+| H32001423-10319 | Laan van Meerdervoort | 's-Gravenhage |
+| H32001424-10172 | Laan van Meerdervoort | 's-Gravenhage |
+| H32001424-10265 | Laan van Meerdervoort | 's-Gravenhage |
+| H32001801-10608 | Laan van Meerdervoort | 's-Gravenhage |
+| H32001802-10194 | Laan van Meerdervoort | 's-Gravenhage |
+| H32001802-10475 | Laan van Meerdervoort | 's-Gravenhage |
+| H32001903-10550 | Laan van Meerdervoort | 's-Gravenhage |
+| H32001903-10591 | Laan van Meerdervoort | 's-Gravenhage |
+| H32001904-10614 | Laan van Meerdervoort | 's-Gravenhage |
+| H32001904-10691 | Laan van Meerdervoort | 's-Gravenhage |
+| H32002003-10643 | Laan van Meerdervoort | 's-Gravenhage |
+| H32002003-10667 | Laan van Meerdervoort | 's-Gravenhage |
+| H32002004-10659 | Laan van Meerdervoort | 's-Gravenhage |
+| H32002004-10683 | Laan van Meerdervoort | 's-Gravenhage |
+| H32002005-10570 | Laan van Meerdervoort | 's-Gravenhage |
+| H32002006-10519 | Laan van Meerdervoort | 's-Gravenhage |
+| H32002010-10160 | Laan van Meerdervoort | 's-Gravenhage |
+| H32002010-10684 | Laan van Meerdervoort | 's-Gravenhage |
+| H32002011-10615 | Laan van Meerdervoort | 's-Gravenhage |
+| H32002011-10677 | Laan van Meerdervoort | 's-Gravenhage |
+| H32002201-10604 | Laan van Meerdervoort | 's-Gravenhage |
+| H32002201-10628 | Laan van Meerdervoort | 's-Gravenhage |
+| H32002202-10193 | Laan van Meerdervoort | 's-Gravenhage |
+| H32002202-10651 | Laan van Meerdervoort | 's-Gravenhage |
+| H32009807-10212 | Laan van Nootdorp | 's-Gravenhage |
+| H32009808-10396 | Laan van Nootdorp | 's-Gravenhage |
+| H32009809 | Laan van Nootdorp | 's-Gravenhage |
+| H32002873-10234 | Lange voorhout | 's-Gravenhage |
+| H32003839-10807 | Leeghwaterplein | 's-Gravenhage |
+| H32003839-10993 | Leeghwaterplein | 's-Gravenhage |
+| H32003840-10835 | Leeghwaterplein | 's-Gravenhage |
+| H32003840-10899 | Leeghwaterplein | 's-Gravenhage |
+| H42021902 | Leyenburg | 's-Gravenhage |
+| H32003209-10042 | Leyweg | 's-Gravenhage |
+| H32003210-10041 | Leyweg | 's-Gravenhage |
+| H32003419-10062 | Leyweg | 's-Gravenhage |
+| H32003420-10063 | Leyweg | 's-Gravenhage |
+| H32003426-10061 | Leyweg | 's-Gravenhage |
+| H32003427-10064 | Leyweg | 's-Gravenhage |
+| H32004015-10076 | Leyweg | 's-Gravenhage |
+| H32004016 | Leyweg | 's-Gravenhage |
+| H42015001-10203 | Libbelsingel | 's-Gravenhage |
+| H42015002-10203 | Libbelsingel | 's-Gravenhage |
+| H32002820-10607 | Lijnbaan | 's-Gravenhage |
+| H32002820-10622 | Lijnbaan | 's-Gravenhage |
+| H32002822-10626 | Lijnbaan | 's-Gravenhage |
+| H32002822-10669 | Lijnbaan | 's-Gravenhage |
+| H32001708 | Lippe-Biesterfeldweg | 's-Gravenhage |
+| H32001708-10399 | Lippe-Biesterfeldweg | 's-Gravenhage |
+| H32001822-10005 | Lisztstraat | 's-Gravenhage |
+| H32001823-10035 | Lisztstraat | 's-Gravenhage |
+| H32001417 | Lobelialaan | 's-Gravenhage |
+| H32001418-10200 | Lobelialaan | 's-Gravenhage |
+| H32001411-10148 | Lobeliastraat | 's-Gravenhage |
+| H32001412-10143 | Lobeliastraat | 's-Gravenhage |
+| H32003438-10068 | Loevesteinlaan | 's-Gravenhage |
+| H32003439-10069 | Loevesteinlaan | 's-Gravenhage |
+| H32003601-10065 | Loevesteinlaan | 's-Gravenhage |
+| H32003612-10084 | Loevesteinlaan | 's-Gravenhage |
+| H32003613-10388 | Loevesteinlaan | 's-Gravenhage |
+| H42017401 | Loosduinse Hoofdstraat | 's-Gravenhage |
+| H42017402 | Loosduinse Hoofdstraat | 's-Gravenhage |
+| H32001709-10191 | Loosduinse Hoofdstraat - HT | 's-Gravenhage |
+| H32001710-10488 | Loosduinse Hoofdstraat - HT | 's-Gravenhage |
+| H32001921-10998 | Loosduinsekade | 's-Gravenhage |
+| H32001922-10742 | Loosduinsekade | 's-Gravenhage |
+| H32002903-10602 | Loosduinsekade | 's-Gravenhage |
+| H32002903-10625 | Loosduinsekade | 's-Gravenhage |
+| H32002904-10665 | Loosduinsekade | 's-Gravenhage |
+| H32002904-10668 | Loosduinsekade | 's-Gravenhage |
+| H32003003-10620 | Loosduinsekade | 's-Gravenhage |
+| H32003003-10641 | Loosduinsekade | 's-Gravenhage |
+| H32003004-10606 | Loosduinsekade | 's-Gravenhage |
+| H32003004-10693 | Loosduinsekade | 's-Gravenhage |
+| H32003107-10621 | Loosduinsekade | 's-Gravenhage |
+| H32003108-10636 | Loosduinsekade | 's-Gravenhage |
+| H32003203-10769 | Loosduinsekade | 's-Gravenhage |
+| H32003204-10921 | Loosduinsekade | 's-Gravenhage |
+| H32003205-10894 | Loosduinsekade | 's-Gravenhage |
+| H32003206-10933 | Loosduinsekade | 's-Gravenhage |
+| H32003101-10467 | Loosduinseweg | 's-Gravenhage |
+| H32003102-10642 | Loosduinseweg | 's-Gravenhage |
+| H32003103-10346 | Loosduinseweg | 's-Gravenhage |
+| H32003104-10689 | Loosduinseweg | 's-Gravenhage |
+| H32003358-10083 | Lozerlaan | 's-Gravenhage |
+| H32003359-10082 | Lozerlaan | 's-Gravenhage |
+| H32003363 | Lozerlaan | 's-Gravenhage |
+| H32003364-10112 | Lozerlaan | 's-Gravenhage |
+| H32007119-10251 | Maanweg | 's-Gravenhage |
+| H32007120 | Maanweg | 's-Gravenhage |
+| H32003409-10047 | Maartensdijklaan | 's-Gravenhage |
+| H32003410-10047 | Maartensdijklaan | 's-Gravenhage |
+| H32003436-10483 | Maartensdijklaan | 's-Gravenhage |
+| H32003437-10067 | Maartensdijklaan | 's-Gravenhage |
+| H32001514-10005 | Machielvrijenhoeklaan | 's-Gravenhage |
+| H32001677-10161 | Marg. v Hennebergweg | 's-Gravenhage |
+| H32000801-10474 | Markenseplein | 's-Gravenhage |
+| H32000809-10307 | Markenseplein | 's-Gravenhage |
+| H32003906-10182 | Mecuriusweg | 's-Gravenhage |
+| H32003858-10311 | Megastores | 's-Gravenhage |
+| H32003330-10539 | Melis Stokelaan | 's-Gravenhage |
+| H32003331-10477 | Melis Stokelaan | 's-Gravenhage |
+| H32003333-10593 | Melis Stokelaan | 's-Gravenhage |
+| H32003334-10507 | Melis Stokelaan | 's-Gravenhage |
+| H32003335-10720 | Melis Stokelaan | 's-Gravenhage |
+| H32003336-10789 | Melis Stokelaan | 's-Gravenhage |
+| H32003417-10728 | Melis Stokelaan | 's-Gravenhage |
+| H32003418-10792 | Melis Stokelaan | 's-Gravenhage |
+| H32003424-10647 | Melis Stokelaan | 's-Gravenhage |
+| H32003424-10695 | Melis Stokelaan | 's-Gravenhage |
+| H32003425-10661 | Melis Stokelaan | 's-Gravenhage |
+| H32003425-10673 | Melis Stokelaan | 's-Gravenhage |
+| H32003603- | Melis Stokelaan | 's-Gravenhage |
+| H32003603-10775 | Melis Stokelaan | 's-Gravenhage |
+| H32003604-10914 | Melis Stokelaan | 's-Gravenhage |
+| H32003607-10706 | Melis Stokelaan | 's-Gravenhage |
+| H32003327 | Melis Stokezijde | 's-Gravenhage |
+| H32003328 | Melis Stokezijde | 's-Gravenhage |
+| H32003329-10508 | Melis Stokezijde | 's-Gravenhage |
+| H32003305-10515 | Meppelweg | 's-Gravenhage |
+| H32003305-10546 | Meppelweg | 's-Gravenhage |
+| H32003306-10538 | Meppelweg | 's-Gravenhage |
+| H32003309-10592 | Meppelweg | 's-Gravenhage |
+| H32003310-10565 | Meppelweg | 's-Gravenhage |
+| H32003310-10580 | Meppelweg | 's-Gravenhage |
+| H32003311-10560 | Meppelweg | 's-Gravenhage |
+| H32003311-10564 | Meppelweg | 's-Gravenhage |
+| H32003312-10535 | Meppelweg | 's-Gravenhage |
+| H32003312-10568 | Meppelweg | 's-Gravenhage |
+| H32003401-10558 | Meppelweg | 's-Gravenhage |
+| H32003401-10588 | Meppelweg | 's-Gravenhage |
+| H32003402-10583 | Meppelweg | 's-Gravenhage |
+| H32003402-10594 | Meppelweg | 's-Gravenhage |
+| H32003408-10045 | Meppelweg | 's-Gravenhage |
+| H42012701-10482 | Midachtenweg | 's-Gravenhage |
+| H42012702-10110 | Midachtenweg | 's-Gravenhage |
+| H32004013-10630 | Middenweg | 's-Gravenhage |
+| H32004014-10676 | Middenweg | 's-Gravenhage |
+| H32001915-10364 | Mient | 's-Gravenhage |
+| H32001916-10026 | Mient | 's-Gravenhage |
+| H32001917-10028 | Mient | 's-Gravenhage |
+| H32001918-10027 | Mient | 's-Gravenhage |
+| H32002019-10030 | Mient | 's-Gravenhage |
+| H32002020-10029 | Mient | 's-Gravenhage |
+| H42011901-10058 | Moerweg | 's-Gravenhage |
+| H42011902-10057 | Moerweg | 's-Gravenhage |
+| H42016701-10439 | Moerweg | 's-Gravenhage |
+| H42016702-10051 | Moerweg | 's-Gravenhage |
+| H42019901-10055 | Moerweg | 's-Gravenhage |
+| H42019902-10052 | Moerweg | 's-Gravenhage |
+| H42017501 | Monsterseweg | 's-Gravenhage |
+| H42017502-10079 | Monsterseweg | 's-Gravenhage |
+| H42017801-10106 | Monsterseweg | 's-Gravenhage |
+| H42017802-10105 | Monsterseweg | 's-Gravenhage |
+| H42011801 | Mosselsingel | 's-Gravenhage |
+| H42011802-10207 | Mosselsingel | 's-Gravenhage |
+| H32001403-10010 | Muurbloemweg | 's-Gravenhage |
+| H32001404 | Muurbloemweg | 's-Gravenhage |
+| H32000510-10272 | Nassauplein | 's-Gravenhage |
+| H32000511-10215 | Nassauplein | 's-Gravenhage |
+| H32003843-10304 | Neherkade | 's-Gravenhage |
+| H32003844-10338 | Neherkade | 's-Gravenhage |
+| H32001205-10157 | Nieboerweg | 's-Gravenhage |
+| H32001206-10185 | Nieboerweg | 's-Gravenhage |
+| H32001301 | Nieboerweg | 's-Gravenhage |
+| H32001302-10386 | Nieboerweg | 's-Gravenhage |
+| H32000725-10223 | Nieuwe duinweg | 's-Gravenhage |
+| H32000726-10189 | Nieuwe duinweg | 's-Gravenhage |
+| H32000727 | Nieuwe duinweg | 's-Gravenhage |
+| H32000303-10326 | Nieuwe parklaan | 's-Gravenhage |
+| H32000304-10521 | Nieuwe parklaan | 's-Gravenhage |
+| H32000728-10421 | Nieuwe parklaan | 's-Gravenhage |
+| H32000729-10928 | Nieuwe parklaan | 's-Gravenhage |
+| H42019801-10871 | Noordkrompsingel | 's-Gravenhage |
+| H42019802 | Noordkrompsingel | 's-Gravenhage |
+| H32009810-10596 | Nootdorpse landingsln | 's-Gravenhage |
+| H32009811-10586 | Nootdorpse landingsln | 's-Gravenhage |
+| H32009812-10984 | Nootdorpse landingsln | 's-Gravenhage |
+| H32009813-10842 | Nootdorpse landingsln | 's-Gravenhage |
+| H32001872-10094 | Ockenburghstraat | 's-Gravenhage |
+| H32001873-10116 | Ockenburghstraat | 's-Gravenhage |
+| H32000411-10415 | Oostduinlaan | 's-Gravenhage |
+| H32000417-10470 | Oostduinlaan | 's-Gravenhage |
+| H32000418-10449 | Oostduinlaan | 's-Gravenhage |
+| H32000447 | Oostduinlaan | 's-Gravenhage |
+| H32000448-10318 | Oostduinlaan | 's-Gravenhage |
+| H32001810-10627 | Oude haagweg | 's-Gravenhage |
+| H32001811-10639 | Oude haagweg | 's-Gravenhage |
+| H32001824-10542 | Oude Haagweg | 's-Gravenhage |
+| H32001825-10393 | Oude Haagweg | 's-Gravenhage |
+| H32001919-10576 | Oude Haagweg | 's-Gravenhage |
+| H32001920-10541 | Oude Haagweg | 's-Gravenhage |
+| H32000410 | Oude Waaldorperweg | 's-Gravenhage |
+| H32003809-10858 | Oudemansstraat | 's-Gravenhage |
+| H32003809-10880 | Oudemansstraat | 's-Gravenhage |
+| H32003810-10853 | Oudemansstraat | 's-Gravenhage |
+| H32003810-10861 | Oudemansstraat | 's-Gravenhage |
+| H32003823-10941 | Oudemansstraat | 's-Gravenhage |
+| H32003823-10968 | Oudemansstraat | 's-Gravenhage |
+| H32003824-10771 | Oudemansstraat | 's-Gravenhage |
+| H32003824-10917 | Oudemansstraat | 's-Gravenhage |
+| H32002915-10263 | Paletplein | 's-Gravenhage |
+| H32002916-10176 | Paletplein | 's-Gravenhage |
+| H32002927-10460 | Parallelweg | 's-Gravenhage |
+| H32002927-10918 | Parallelweg | 's-Gravenhage |
+| H32002928-10923 | Parallelweg | 's-Gravenhage |
+| H32002928-10935 | Parallelweg | 's-Gravenhage |
+| H32003002-10768 | Paul Krugerlaan | 's-Gravenhage |
+| H32003006-10159 | Paul Krugerlaan | 's-Gravenhage |
+| H32003007-10652 | Paul Krugerlaan | 's-Gravenhage |
+| H32003005-10738 | Paul Krugerplein | 's-Gravenhage |
+| H32003008-10618 | Paul Krugerplein | 's-Gravenhage |
+| H32009584-10801 | Pijlkruidveld | 's-Gravenhage |
+| H32009585-10840 | Pijlkruidveld | 's-Gravenhage |
+| H32009586-10866 | Pijlkruidveld | 's-Gravenhage |
+| H32009587-10891 | Pijlkruidveld | 's-Gravenhage |
+| H32001805-10170 | Pisuissestraat | 's-Gravenhage |
+| H32001806-10233 | Pisuissestraat | 's-Gravenhage |
+| H32001818-10155 | Pisuissestraat | 's-Gravenhage |
+| H32001834-10096 | Pisuissestraat | 's-Gravenhage |
+| H32001835-10100 | Pisuissestraat | 's-Gravenhage |
+| H32000311-10316 | Plesmanweg | 's-Gravenhage |
+| H32000312-10227 | Plesmanweg | 's-Gravenhage |
+| H32000804 | Pluvierstraat | 's-Gravenhage |
+| H32000305 | Pompstationweg | 's-Gravenhage |
+| H32000306 | Pompstationweg | 's-Gravenhage |
+| H32001209-10015 | President Kennedylaan | 's-Gravenhage |
+| H42018101-10373 | Prins Clauslaan | 's-Gravenhage |
+| H32000909 | Prins Mauritslaan | 's-Gravenhage |
+| H32000910-10389 | Prins Mauritsplein | 's-Gravenhage |
+| H32000911-10315 | Prins Mauritsplein | 's-Gravenhage |
+| H32002821-10199 | Prinsengracht | 's-Gravenhage |
+| H32002823-10680 | Prinsengracht | 's-Gravenhage |
+| H32002823-10725 | Prinsengracht | 's-Gravenhage |
+| H32002824-10761 | Prinsengracht | 's-Gravenhage |
+| H32002824-10781 | Prinsengracht | 's-Gravenhage |
+| H32002828-10196 | Prinsengracht | 's-Gravenhage |
+| H32002828-10275 | Prinsengracht | 's-Gravenhage |
+| H32002875-10335 | Prinsengracht | 's-Gravenhage |
+| H42013101-10987 | Prinses Beatrixlaan | 's-Gravenhage |
+| H42013102-10988 | Prinses Beatrixlaan | 's-Gravenhage |
+| H42014101-10904 | Prinses Beatrixlaan | 's-Gravenhage |
+| H42067701-10990 | Prinses Beatrixlaan | 's-Gravenhage |
+| H42067702-10953 | Prinses Beatrixlaan | 's-Gravenhage |
+| H32002810-10922 | Prinsessegracht | 's-Gravenhage |
+| H32002811-10674 | Prinsessegracht | 's-Gravenhage |
+| H32003001-10740 | Regentesselaan | 's-Gravenhage |
+| H32002601-10999 | Rijnstraat | 's-Gravenhage |
+| H32002602-10863 | Rijnstraat | 's-Gravenhage |
+| H32002602-10864 | Rijnstraat | 's-Gravenhage |
+| H32002604-10216 | Rijnstraat | 's-Gravenhage |
+| H32002604-10217 | Rijnstraat | 's-Gravenhage |
+| H32002604-10218 | Rijnstraat | 's-Gravenhage |
+| H32002604-10310 | Rijnstraat | 's-Gravenhage |
+| H32002604-10370 | Rijnstraat | 's-Gravenhage |
+| H32002604-10451 | Rijnstraat | 's-Gravenhage |
+| H32005944-10813 | Rijswijkse landingsln | 's-Gravenhage |
+| H32005945-10898 | Rijswijkse landingsln | 's-Gravenhage |
+| H32005946-10887 | Rijswijkse landingsln | 's-Gravenhage |
+| H32005947-10834 | Rijswijkse landingsln | 's-Gravenhage |
+| H32002705-10501 | Rijswijkseplein | 's-Gravenhage |
+| H32002705-10545 | Rijswijkseplein | 's-Gravenhage |
+| H32002706-10548 | Rijswijkseplein | 's-Gravenhage |
+| H42010101 | Rijswijksewaterweg | 's-Gravenhage |
+| H42010102-10302 | Rijswijksewaterweg | 's-Gravenhage |
+| H42020001 | Rijswijksewaterweg | 's-Gravenhage |
+| H42020002-10387 | Rijswijksewaterweg | 's-Gravenhage |
+| H42072901 | Rijswijksewaterweg | 's-Gravenhage |
+| H42072902-10490 | Rijswijksewaterweg | 's-Gravenhage |
+| H32003801-10527 | Rijswijkseweg | 's-Gravenhage |
+| H32003801-10575 | Rijswijkseweg | 's-Gravenhage |
+| H32003802-10587 | Rijswijkseweg | 's-Gravenhage |
+| H32003813-10589 | Rijswijkseweg | 's-Gravenhage |
+| H32003814-10582 | Rijswijkseweg | 's-Gravenhage |
+| H32003827-10518 | Rijswijkseweg | 's-Gravenhage |
+| H32003828-10523 | Rijswijkseweg | 's-Gravenhage |
+| H32003837-10826 | Rijswijkseweg | 's-Gravenhage |
+| H32012705-10624 | Rijswijkseweg | 's-Gravenhage |
+| H32012705-10648 | Rijswijkseweg | 's-Gravenhage |
+| H32012706-10664 | Rijswijkseweg | 's-Gravenhage |
+| H32012706-10685 | Rijswijkseweg | 's-Gravenhage |
+| H32000938-10730 | Rooseveltplantsoen | 's-Gravenhage |
+| H32000939-10796 | Rooseveltplantsoen | 's-Gravenhage |
+| H32002909-10303 | Ruijsdaelstraat | 's-Gravenhage |
+| H32002910-10478 | Ruijsdaelstraat | 's-Gravenhage |
+| H32000412 | Ruychrocklaan | 's-Gravenhage |
+| H32000413 | Ruychrocklaan | 's-Gravenhage |
+| H32000414-10425 | Ruychrocklaan | 's-Gravenhage |
+| H32001419-10534 | Savornin Lohmanplein | 's-Gravenhage |
+| H32001420-10512 | Savornin Lohmanplein | 's-Gravenhage |
+| H32001420-10514 | Savornin Lohmanplein | 's-Gravenhage |
+| H32001428-10513 | Savornin Lohmanplein | 's-Gravenhage |
+| H32003119 | Schaarsbergenstraat | 's-Gravenhage |
+| H32003120-10050 | Schaarsbergenstraat | 's-Gravenhage |
+| H32002857-10806 | Schedeldoekshaven | 's-Gravenhage |
+| H32002871-10222 | Schedeldoekshaven | 's-Gravenhage |
+| H32002871-10313 | Schedeldoekshaven | 's-Gravenhage |
+| H32002872-10167 | Schedeldoekshaven | 's-Gravenhage |
+| H32002872-10169 | Schedeldoekshaven | 's-Gravenhage |
+| H32002872-10247 | Schedeldoekshaven | 's-Gravenhage |
+| H32002872-10260 | Schedeldoekshaven | 's-Gravenhage |
+| H32000501-10153 | Scheveningseweg | 's-Gravenhage |
+| H32000502-10306 | Scheveningseweg | 's-Gravenhage |
+| H32000507-10281 | Scheveningseweg | 's-Gravenhage |
+| H32000508-10495 | Scheveningseweg | 's-Gravenhage |
+| H32000509-10262 | Scheveningseweg | 's-Gravenhage |
+| H32000722-10623 | Scheveningseweg | 's-Gravenhage |
+| H32000723-10156 | Scheveningseweg | 's-Gravenhage |
+| H32000906-10165 | Scheveningseweg | 's-Gravenhage |
+| H32000907-10637 | Scheveningseweg | 's-Gravenhage |
+| H32000921-10179 | Scheveningseweg | 's-Gravenhage |
+| H32000922-10398 | Scheveningseweg | 's-Gravenhage |
+| H32001001-10242 | Scheveningseweg | 's-Gravenhage |
+| H32001002-10645 | Scheveningseweg | 's-Gravenhage |
+| H32000901-10173 | Scholstraat | 's-Gravenhage |
+| H32000902-10347 | Scholstraat | 's-Gravenhage |
+| H32003807-10322 | Slachthuislaan | 's-Gravenhage |
+| H32003808-10198 | Slachthuislaan | 's-Gravenhage |
+| H32001201-10011 | Sportlaan | 's-Gravenhage |
+| H32001202-10009 | Sportlaan | 's-Gravenhage |
+| H32001203-10139 | Sportlaan | 's-Gravenhage |
+| H32001204-10107 | Sportlaan | 's-Gravenhage |
+| H32001207-10013 | Sportlaan | 's-Gravenhage |
+| H32001208-10012 | Sportlaan | 's-Gravenhage |
+| H32001210-10014 | Sportlaan | 's-Gravenhage |
+| H32001305-10007 | Sportlaan | 's-Gravenhage |
+| H32001306 | Sportlaan | 's-Gravenhage |
+| H32001307-10008 | Sportlaan | 's-Gravenhage |
+| H32001308 | Sportlaan | 's-Gravenhage |
+| H32002832-10779 | Spui | 's-Gravenhage |
+| H32002832-10782 | Spui | 's-Gravenhage |
+| H32002833-10712 | Spui | 's-Gravenhage |
+| H32002833-10774 | Spui | 's-Gravenhage |
+| H32002851-10910 | Spui | 's-Gravenhage |
+| H32002852-10911 | Spui | 's-Gravenhage |
+| H32001104-10211 | Stadhouderslaan | 's-Gravenhage |
+| H32001105-10496 | Stadhouderslaan | 's-Gravenhage |
+| H32001107-10333 | Stadhouderslaan | 's-Gravenhage |
+| H32001115-10253 | Stadhouderslaan | 's-Gravenhage |
+| H32000903-10436 | Statenlaan | 's-Gravenhage |
+| H32000908- | Statenlaan | 's-Gravenhage |
+| H32000912- | Statenlaan | 's-Gravenhage |
+| H32000915-10291 | Statenlaan | 's-Gravenhage |
+| H32000916- | Statenlaan | 's-Gravenhage |
+| H32000941-10443 | Statenlaan | 's-Gravenhage |
+| H32000942-10294 | Statenlaan | 's-Gravenhage |
+| H32000925-10465 | Statenplein | 's-Gravenhage |
+| H32000926 | Statenplein | 's-Gravenhage |
+| H32000945-10202 | Statenplein | 's-Gravenhage |
+| H32000222-10438 | Stevinstraat | 's-Gravenhage |
+| H32000223-10348 | Stevinstraat | 's-Gravenhage |
+| H32000224-10226 | Stevinstraat | 's-Gravenhage |
+| H32000701-10561 | Strandweg | 's-Gravenhage |
+| H32002651-10246 | Stuyvesantplein | 's-Gravenhage |
+| H42017601-10087 | Symfoniestraat | 's-Gravenhage |
+| H42017602-10395 | Symfoniestraat | 's-Gravenhage |
+| H32003121 | Terletweg | 's-Gravenhage |
+| H32003122-10298 | Terletweg | 's-Gravenhage |
+| H32000803-10205 | Tesselseplein | 's-Gravenhage |
+| H32000807 | Tesselsestraat | 's-Gravenhage |
+| H32000808-10015 | Tesselsestraat | 's-Gravenhage |
+| H32000408 | Theo M Bouwmeesterln | 's-Gravenhage |
+| H32000409-10375 | Theo M Bouwmeesterln | 's-Gravenhage |
+| H32002631-10378 | Theresiastraat | 's-Gravenhage |
+| H32002632-10457 | Theresiastraat | 's-Gravenhage |
+| H32002633-10462 | Theresiastraat | 's-Gravenhage |
+| H32002634-10180 | Theresiastraat | 's-Gravenhage |
+| H32002635-10429 | Theresiastraat | 's-Gravenhage |
+| H32002636-10447 | Theresiastraat | 's-Gravenhage |
+| H32002639-10411 | Theresiastraat | 's-Gravenhage |
+| H32002640-10435 | Theresiastraat | 's-Gravenhage |
+| H32001907-10022 | Thorbeckelaan | 's-Gravenhage |
+| H32001908-10021 | Thorbeckelaan | 's-Gravenhage |
+| H32001911-10023 | Thorbeckelaan | 's-Gravenhage |
+| H32001912-10128 | Thorbeckelaan | 's-Gravenhage |
+| H32001913-10127 | Thorbeckelaan | 's-Gravenhage |
+| H32001914 | Thorbeckelaan | 's-Gravenhage |
+| H32001923-10024 | Thorbeckelaan | 's-Gravenhage |
+| H32001924-10025 | Thorbeckelaan | 's-Gravenhage |
+| H32002802-10268 | Torenstraat | 's-Gravenhage |
+| H32002901-10767 | Tripstraat | 's-Gravenhage |
+| H32002902-10704 | Tripstraat | 's-Gravenhage |
+| H32003624-10053 | Troelstrakade | 's-Gravenhage |
+| H32003625-10054 | Troelstrakade | 's-Gravenhage |
+| H32003628-10264 | Troelstrakade | 's-Gravenhage |
+| H32003629-10300 | Troelstrakade | 's-Gravenhage |
+| H32003708-10056 | Troelstrakade | 's-Gravenhage |
+| H32003709-10055 | Troelstrakade | 's-Gravenhage |
+| H42013501 | Vaillantlaan | 's-Gravenhage |
+| H42013502 | Vaillantlaan | 's-Gravenhage |
+| H32001113-10357 | Valeriusstraat | 's-Gravenhage |
+| H32002013 | Valkenboslaan | 's-Gravenhage |
+| H32002018-10136 | Valkenboslaan | 's-Gravenhage |
+| H32002021-10428 | Valkenboslaan | 's-Gravenhage |
+| H32002022-10060 | Valkenboslaan | 's-Gravenhage |
+| H32000309-10390 | van Alkemadelaan | 's-Gravenhage |
+| H32000310-10228 | van Alkemadelaan | 's-Gravenhage |
+| H32000403-10489 | van Alkemadelaan | 's-Gravenhage |
+| H32000404-10401 | van Alkemadelaan | 's-Gravenhage |
+| H32000415-10444 | van Alkemadelaan | 's-Gravenhage |
+| H32000416-10363 | van Alkemadelaan | 's-Gravenhage |
+| H32000430-10619 | van Alkemadelaan | 's-Gravenhage |
+| H32000431-10361 | van Alkemadelaan | 's-Gravenhage |
+| H32000438-10277 | Van Alkemadelaan | 's-Gravenhage |
+| H32000913-10192 | van Boetzelaerlaan | 's-Gravenhage |
+| H32000914-10177 | van Boetzelaerlaan | 's-Gravenhage |
+| H32000923-10579 | van Boetzelaerlaan | 's-Gravenhage |
+| H32000924-10358 | van Boetzelaerlaan | 's-Gravenhage |
+| H32000401-10446 | van Hogenhoucklaan | 's-Gravenhage |
+| H32000402-10412 | van Hogenhoucklaan | 's-Gravenhage |
+| H32003831-10353 | van Meursstraat | 's-Gravenhage |
+| H32003832-10280 | van Meursstraat | 's-Gravenhage |
+| H32007107-10434 | Verlengde Melkwegstr | 's-Gravenhage |
+| H32007108-10060 | Verlengde Melkwegstr | 's-Gravenhage |
+| H32002501-10103 | Vlaskamp | 's-Gravenhage |
+| H32002502-10099 | Vlaskamp | 's-Gravenhage |
+| H32002504-10122 | Vlaskamp | 's-Gravenhage |
+| H32003201-10413 | Volendamlaan | 's-Gravenhage |
+| H32003202-10383 | Volendamlaan | 's-Gravenhage |
+| H32002216-10611 | Vondelstraat | 's-Gravenhage |
+| H32002217-10773 | Vondelstraat | 's-Gravenhage |
+| H32003302-10075 | Vrederustlaan | 's-Gravenhage |
+| H32003303 | Vrederustlaan | 's-Gravenhage |
+| H32003313-10078 | Vrederustlaan | 's-Gravenhage |
+| H32003314-10081 | Vrederustlaan | 's-Gravenhage |
+| H32003372-10077 | Vrederustlaan | 's-Gravenhage |
+| H32003373-10080 | Vrederustlaan | 's-Gravenhage |
+| H32003219-10394 | Vreeswijksestraat | 's-Gravenhage |
+| H32003220-10049 | Vreeswijksestraat | 's-Gravenhage |
+| H32000405-10402 | Waalsdorperweg | 's-Gravenhage |
+| H32000406 | Waalsdorperweg | 's-Gravenhage |
+| H32001116-10256 | Waldeck Pyrmondkade | 's-Gravenhage |
+| H32002212-10574 | Waldeck Pyrmondkade | 's-Gravenhage |
+| H32002212-10632 | Waldeck Pyrmondkade | 's-Gravenhage |
+| H32002213-10612 | Waldeck Pyrmondkade | 's-Gravenhage |
+| H32002213-10634 | Waldeck Pyrmondkade | 's-Gravenhage |
+| H32003846 | Waldorpstraat | 's-Gravenhage |
+| H32003847-10871 | Waldorpstraat | 's-Gravenhage |
+| H32003847-10873 | Waldorpstraat | 's-Gravenhage |
+| H32003847-10229 | Waldorptraat | 's-Gravenhage |
+| H32003847-10237 | Waldorptraat | 's-Gravenhage |
+| H32003847-10499 | Waldorptraat | 's-Gravenhage |
+| H32003857-10278 | Waldorptraat | 's-Gravenhage |
+| H32003859-10356 | Waldorptraat | 's-Gravenhage |
+| H32003860-10276 | Waldorptraat | 's-Gravenhage |
+| H320038476 | Waldorptraat | 's-Gravenhage |
+| H32000426-10376 | Wassenaarseweg | 's-Gravenhage |
+| H32000428 | Wassenaarseweg | 's-Gravenhage |
+| H32000429-10314 | Wassenaarseweg | 's-Gravenhage |
+| H32000718-10424 | Westduinweg | 's-Gravenhage |
+| H32000719-10424 | Westduinweg | 's-Gravenhage |
+| H32000731-10473 | Westduinweg | 's-Gravenhage |
+| H32000732-10206 | Westduinweg | 's-Gravenhage |
+| H32002707-10532 | Weteringkade | 's-Gravenhage |
+| H32002708-10540 | Weteringkade | 's-Gravenhage |
+| H32002708-10599 | Weteringkade | 's-Gravenhage |
+| H32002715-10656 | Weteringkade | 's-Gravenhage |
+| H32002711-10666 | Weteringplein | 's-Gravenhage |
+| H32002712-10682 | Weteringplein | 's-Gravenhage |
+| H32000917 | Willem de Zwijgerlaan | 's-Gravenhage |
+| H32000439-10337 | Willem Witsenplein | 's-Gravenhage |
+| H42012501-10210 | Ypenburgseboslaan | 's-Gravenhage |
+| H42012502-10317 | Ypenburgseboslaan | 's-Gravenhage |
+| H42012601-10209 | Ypenburgseboslaan | 's-Gravenhage |
+| H42012602-10498 | Ypenburgseboslaan | 's-Gravenhage |
+| H42015901-10365 | Ypenburgseboslaan | 's-Gravenhage |
+| H42015902-10351 | Ypenburgseboslaan | 's-Gravenhage |
+| H42016001-10932 | Ypenburgsestationsweg | 's-Gravenhage |
+| H32000736-10549 | Zeeruststraat | 's-Gravenhage |
+| H32003907-10345 | Zonweg | 's-Gravenhage |
+| H32003908-10343 | Zonweg | 's-Gravenhage |
+| H32003909-10432 | Zonweg | 's-Gravenhage |
+| H32002210-10320 | Zoutmanstraat | 's-Gravenhage |
+| H32002211-10249 | Zoutmanstraat | 's-Gravenhage |
+| H32003403-10503 | Zuidwoldestraat | 's-Gravenhage |
+| H32003403-10950 | Zuidwoldestraat | 's-Gravenhage |
+| H32003404-10193 | Zuidwoldestraat | 's-Gravenhage |
+| H32003404-10510 | Zuidwoldestraat | 's-Gravenhage |
+| H32000203-10995 | Zwarte Pad | 's-Gravenhage |
+| H32000207 | Zwarte pad | 's-Gravenhage |
+| H32000208 | zwarte pad | 's-Gravenhage |
+| H32000211-10996 | Zwarte Pad | 's-Gravenhage |
+| H32000211-10997 | Zwarte Pad | 's-Gravenhage |
+| H42021301-30077 | Kon Julianalaan | 's-Gravenzande |
+| H42021302-30028 | Kon Julianalaan | 's-Gravenzande |
+| H42021601-30057 | Kon Julianalaan | 's-Gravenzande |
+| H42021602-30082 | Kon Julianalaan | 's-Gravenzande |
+| H42021701-30030 | Kon Julianalaan | 's-Gravenzande |
+| H42021702-30046 | Kon Julianalaan | 's-Gravenzande |
+| H42021201-30062 | Oude Landstraat | 's-Gravenzande |
+| H42021202-30002 | Oude Landstraat | 's-Gravenzande |
+| H42022001 | Oude Landstraat | 's-Gravenzande |
+| H42022002-30018 | Oude Landstraat | 's-Gravenzande |
+| H42022301-30063 | Vestdijklaan | 's-Gravenzande |
+| H42022302-30086 | Vestdijklaan | 's-Gravenzande |
+| H42023301-30005 | Zandeveltstraat | 's-Gravenzande |
+| H42023301-30066 | Zandeveltstraat | 's-Gravenzande |
+| H42009501-30083 | Bleijenburg | De Lier |
+| H42009502-30008 | Bleijenburg | De Lier |
+| H42008801-30043 | M.A. de Ruyterstraat | De Lier |
+| H42008802-30014 | M.A. de Ruyterstraat | De Lier |
+| H42009401-30081 | Sportlaan | De Lier |
+| H42009402-30009 | Sportlaan | De Lier |
+| H42071601-30013 | Sportlaan | De Lier |
+| H42071602-30042 | Sportlaan | De Lier |
+| H42003101-20073 | Adriaan Pauwstraat | Delft |
+| H42003102 | Adriaan Pauwstraat | Delft |
+| H32009113 | Afrikalaan | Delft |
+| H32009114-20124 | Afrikalaan | Delft |
+| H42007401-20013 | Aletta Jacobsstraat | Delft |
+| H42007402-20012 | Aletta Jacobsstraat | Delft |
+| H32009109 | Beethovenlaan | Delft |
+| H42006902-20024 | Beethovenlaan | Delft |
+| H42001201-20044 | Brasserkade | Delft |
+| H42001202-20045 | Brasserkade | Delft |
+| H42001801 | Brasserkade | Delft |
+| H42001802 | Brasserkade | Delft |
+| H32009107-20119 | Buitenhofdreef | Delft |
+| H32009108-20102 | Buitenhofdreef | Delft |
+| H42007101-20022 | Buitenhofdreef | Delft |
+| H42007102-20023 | Buitenhofdreef | Delft |
+| H42004102 | Cort van der Lindenln | Delft |
+| H42004102-20049 | Cort van der Lindenln | Delft |
+| H42004001-20001 | Derde werelddreef | Delft |
+| H42004002-20002 | Derde werelddreef | Delft |
+| H42002601 | Edelhertlaan | Delft |
+| H42002601-20065 | Edelhertlaan | Delft |
+| H42002801 | Fuutlaan | Delft |
+| H42002801-20078 | Fuutlaan | Delft |
+| H32009115 | Gandhilaan | Delft |
+| H32009117-20125 | Gandhilaan | Delft |
+| H42000701-20060 | Gandhilaan | Delft |
+| H42000801-20021 | Ghandilaan | Delft |
+| H42005501-20071 | Hof van zilverlicht | Delft |
+| H42005502 | Hof van zilverlicht | Delft |
+| H42072701-20009 | Hollandendreef | Delft |
+| H42072702-20021 | Hollandendreef | Delft |
+| H42068501-20076 | Huismansingel | Delft |
+| H42001002 | Insulindeweg | Delft |
+| H42001002-20047 | Insulindeweg | Delft |
+| H42002701-20066 | Jan de Oudeweg | Delft |
+| H42002702-20063 | Jan de Oudeweg | Delft |
+| H42004202 | Jan Thoméelaan | Delft |
+| H42004202-20030 | Jan Thoméelaan | Delft |
+| H42001901-20039 | Julianalaan | Delft |
+| H42001902-20011 | Julianalaan | Delft |
+| H42004502-20037 | Julianalaan | Delft |
+| H42003801-20068 | Kalfjeslaan | Delft |
+| H42003802-20064 | Kalfjeslaan | Delft |
+| H32000601-10559 | Koninginnegracht | Delft |
+| H42002501 | Korftlaan | Delft |
+| H42002502 | Korftlaan | Delft |
+| H42072401-20121 | Korftlaan | Delft |
+| H42072501 | Korftlaan | Delft |
+| H42071901-20059 | Krakeelpolderweg | Delft |
+| H42072001-20019 | Krakeelpolderweg | Delft |
+| H42075402 | Kristalweg | Delft |
+| H42001501-20050 | Lodensteynstraat | Delft |
+| H42001502-20043 | Lodensteynstraat | Delft |
+| H42004301 | Marotlaan | Delft |
+| H42004302-20088 | Marotlaan | Delft |
+| H32009136-20034 | Martinus Nijhofflaan | Delft |
+| H32009137-20109 | Martinus Nijhofflaan | Delft |
+| H42001102-20096 | Mekelweg | Delft |
+| H42001103-20094 | Mekelweg | Delft |
+| H42001103-20099 | Mekelweg | Delft |
+| H42001104-20111 | Mekelweg | Delft |
+| H42075701-20097 | Mekelweg | Delft |
+| H42075701-20105 | Mekelweg | Delft |
+| H42075702-20138 | Mekelweg | Delft |
+| H42075801-20095 | Mekelweg | Delft |
+| H42075801-20098 | Mekelweg | Delft |
+| H42075802-20100 | Mekelweg | Delft |
+| H42076501-20089 | Mekelweg | Delft |
+| H42076501-20093 | Mekelweg | Delft |
+| H42076502-20103 | Mekelweg | Delft |
+| H42076601-20091 | Mekelweg | Delft |
+| H72076602-20090 | Mekelweg | Delft |
+| H42003601 | michiel de ruyterweg | Delft |
+| H42003602-20116 | michiel de ruyterweg | Delft |
+| H42004501-20035 | Mijnbouwstraat | Delft |
+| H42002301-20025 | Mozartlaan | Delft |
+| H42002302-20026 | Mozartlaan | Delft |
+| H42004801-20027 | Mozartlaan | Delft |
+| H42004802-20028 | Mozartlaan | Delft |
+| H42005001-20085 | Nassaulaan | Delft |
+| H42005002-20087 | Nassaulaan | Delft |
+| H42005901-20046 | Nassaulaan | Delft |
+| H42005902-20029 | Nassaulaan | Delft |
+| H42005101 | Nieuwe Langedijk | Delft |
+| H42005102 | Nieuwe Langedijk | Delft |
+| H42003402 | Olaf Palmerstraat | Delft |
+| H42003402-20048 | Olaf Palmerstraat | Delft |
+| H42069501 | Olaf Palmerstraat | Delft |
+| H42069502-20038 | Olaf Palmerstraat | Delft |
+| H42005601-20036 | Oostpoortweg | Delft |
+| H42005602 | Oostpoortweg | Delft |
+| H42002001-20074 | Oude langendijk | Delft |
+| H42002002 | Oude langendijk | Delft |
+| H42004401 | Oudelangendijk | Delft |
+| H42004402 | Oudelangendijk | Delft |
+| H42003201-20114 | Papsouwselaan | Delft |
+| H42003201-20123 | Papsouwselaan | Delft |
+| H42003202-20117 | Papsouwselaan | Delft |
+| H42003202-20122 | Papsouwselaan | Delft |
+| H32009018-20144 | Phoenixstraat | Delft |
+| H54162180-20175 | Prinses Beatrixlaan | Delft |
+| H42005801-20061 | Prof. Telderslaan | Delft |
+| H42005802 | Prof. Telderslaan | Delft |
+| H42006501-20062 | Prof. Telderslaan | Delft |
+| H42006502 | Prof. Telderslaan | Delft |
+| H42006201-20032 | Reinier de Graafweg | Delft |
+| H42006202-20086 | Reinier de Graafweg | Delft |
+| H42006401-20032 | Reinier de Graafweg | Delft |
+| H42006402-20033 | Reinier de Graafweg | Delft |
+| H42006301-20084 | Rietzangerstraat | Delft |
+| H42006302-20082 | Rietzangerstraat | Delft |
+| H31003608 | Rotterdamseweg | Delft |
+| H31003609 | Rotterdamseweg | Delft |
+| H31003626 | Rotterdamseweg | Delft |
+| H31003628 | Rotterdamseweg | Delft |
+| H32009111-20110 | Sadatweg | Delft |
+| H32009112-20104 | Sadatweg | Delft |
+| H42005401-20010 | Schoemakerstraat | Delft |
+| H42005402-20031 | Schoemakerstraat | Delft |
+| H42006701 | Schoemakerstraat | Delft |
+| H42003001 | Sint Jorisweg | Delft |
+| H42003002-20042 | Sint Jorisweg | Delft |
+| H32009009-20136 | Spoorsingel | Delft |
+| H32009009-20137 | Spoorsingel | Delft |
+| H32009010-20138 | Spoorsingel | Delft |
+| H32009010-20139 | Spoorsingel | Delft |
+| H42006801-20041 | Van almondestraat | Delft |
+| H42006802 | Van almondestraat | Delft |
+| H42000901-20072 | Van der Lelijstraat | Delft |
+| H32009109-20118 | van der Slootsingel | Delft |
+| H32009110-20107 | van der Slootsingel | Delft |
+| H42001301-20081 | van der Slootsingel | Delft |
+| H42001302-20067 | van der Slootsingel | Delft |
+| H42001401-20016 | Van mierenveltlaan | Delft |
+| H42001402-20007 | Van mierenveltlaan | Delft |
+| H42004701 | Van mierenveltlaan | Delft |
+| H42004702-20075 | Van mierenveltlaan | Delft |
+| H42003501-20006 | Voorhofdreef | Delft |
+| H42003502-20008 | Voorhofdreef | Delft |
+| H42004903-20020 | Voorhofdreef | Delft |
+| H42004904 | Voorhofdreef | Delft |
+| H42074401-20004 | Voorhofdreef | Delft |
+| H42074402 | Voorhofdreef | Delft |
+| H32009003-20172 | Vrijebanselaan | Delft |
+| H32009004-20171 | Vrijebanselaan | Delft |
+| H32009005-20165 | Vrijebanselaan | Delft |
+| H32009005-20166 | Vrijebanselaan | Delft |
+| H32009005-20167 | Vrijebanselaan | Delft |
+| H42002201 | Wateringseweg | Delft |
+| H42002401-20070 | Westlandseweg | Delft |
+| H42002402-20069 | Westlandseweg | Delft |
+| H42003901-20120 | Westlandseweg | Delft |
+| H42003901-20132 | Westlandseweg | Delft |
+| H42003902-20113 | Westlandseweg | Delft |
+| H42003902-20134 | Westlandseweg | Delft |
+| H42007701-20014 | Westlandseweg | Delft |
+| H42007702-20015 | Westlandseweg | Delft |
+| H32009017-20051 | Westvest | Delft |
+| H32009017-20052 | Westvest | Delft |
+| H32009018-20079 | Westvest | Delft |
+| H32009018-20080 | Westvest | Delft |
+| H32009018-20162 | Westvest | Delft |
+| H42007301 | Weteringlaan | Delft |
+| H42007302-20040 | Weteringlaan | Delft |
+| H42007801-20101 | Zuidwal | Delft |
+| H42007802-20108 | Zuidwal | Delft |
+| H42070101 | Gasthuisland | Den Hoorn |
+| H42070102 | Gasthuisland | Den Hoorn |
+| H40017-40017 | Harnasdreef | Den Hoorn |
+| H40018-40018 | Harnasdreef | Den Hoorn |
+| H42070201-40001 | Harnasdreef | Den Hoorn |
+| H42070202-40003 | Harnasdreef | Den Hoorn |
+| H42070301-40016 | Harnasdreef | Den Hoorn |
+| H42070302-40008 | Harnasdreef | Den Hoorn |
+| H42076701-40021 | Harnasdreef | Den Hoorn |
+| H42076702-40028 | Harnasdreef | Den Hoorn |
+| H42000601-40009 | Hoornseweg | Den Hoorn |
+| H42000602-40028 | Hoornseweg | Den Hoorn |
+| H42000102-40012 | Rijksstraatweg | Den Hoorn |
+| H42024101-30045 | Dijkweg | Honselersdijk |
+| H42024102-30049 | Dijkweg | Honselersdijk |
+| H42024602-30055 | Dijkweg | Honselersdijk |
+| H42044601-30080 | Dijkweg | Honselersdijk |
+| H42024201 | Nieuweweg | Honselersdijk |
+| H42024202-30058 | Nieuweweg | Honselersdijk |
+| H42026501 | Heulweg | Kwintsheul |
+| H42026601-30007 | Kerkstraat | Kwintsheul |
+| H42026602-30041 | Kerkstraat | Kwintsheul |
+| H42034001-40011 | Commandeurskade | Maasland |
+| H42034001-40017 | Commandeurskade | Maasland |
+| H42034101-40007 | Hofsingel | Maasland |
+| H42034102 | Hofsingel | Maasland |
+| H42034301-40020 | Hofsingel | Maasland |
+| H42034302-40019 | Hofsingel | Maasland |
+| H42034402 | Hofsingel | Maasland |
+| H42034402-40019 | Hofsingel | Maasland |
+| H42034901-40002 | Kerkweg | Maasland |
+| H42034902 | Kerkweg | Maasland |
+| H42035001-40025 | Oude Veiling | Maasland |
+| H42035002-40030 | Oude Veiling | Maasland |
+| H42035003-40004 | Oude Veiling | Maasland |
+| H42035004-40023 | Oude Veiling | Maasland |
+| H42035101-30004 | Acaciastraat | Monster |
+| H42035102-30006 | Acaciastraat | Monster |
+| H42035901-30023 | Goudenregenstraat | Monster |
+| H42035601 | Haagweg | Monster |
+| H42035701-30070 | Haagweg | Monster |
+| H42035702-30017 | Haagweg | Monster |
+| H42035801 | Haagweg | Monster |
+| H42035801-10657 | Haagweg | Monster |
+| H42036201-30031 | Haagweg | Monster |
+| H42036202-30052 | Haagweg | Monster |
+| H42035301-30022 | Hortensiastraat | Monster |
+| H42035302-30003 | Hortensiastraat | Monster |
+| H42035902-30019 | Larixlaan | Monster |
+| H42035201 | Molenstraat | Monster |
+| H42035202-30010 | Molenstraat | Monster |
+| H42036001 | Molenweg | Monster |
+| H42036002 | Molenweg | Monster |
+| H42040501-30015 | Dijkweg | Naaldwijk |
+| H42040502-30012 | Dijkweg | Naaldwijk |
+| H42040301 | Galgeweg | Naaldwijk |
+| H42040101-30078 | Grote Woerdlaan | Naaldwijk |
+| H42040102 | Grote Woerdlaan | Naaldwijk |
+| H42040401-30027 | Grote Woerdlaan | Naaldwijk |
+| H42040402-30035 | Grote Woerdlaan | Naaldwijk |
+| H42041301-30067 | Kruisbroekweg | Naaldwijk |
+| H42041302-30064 | Kruisbroekweg | Naaldwijk |
+| H42041001-30084 | Middel Broekweg | Naaldwijk |
+| H42041002-30044 | Middel Broekweg | Naaldwijk |
+| H42041002-30054 | Middel Broekweg | Naaldwijk |
+| H42040601-30053 | Secretaris Verhoefweg | Naaldwijk |
+| H42040602-30079 | Secretaris Verhoefweg | Naaldwijk |
+| H42040701-30032 | van der Hoevenstraat | Naaldwijk |
+| H42040702-30011 | van der Hoevenstraat | Naaldwijk |
+| H42058201-30026 | Herenstraat | Wateringen |
+| H42058202-30050 | Herenstraat | Wateringen |
+| H42058501-30085 | Herenstraat | Wateringen |
+| H42058401-30025 | Heulweg | Wateringen |
+| H42058402-30036 | Heulweg | Wateringen |
+| H32006019- | Turfschipper | Wateringen |
+| H32006022- | Turfschipper | Wateringen |
+
+KO Hartog
+
+Voor KO Hartog rijden wij uit als 2e-lijns onderhoud. Als je hiervoor wordt opgeroepen neem je de blauwe koffer mee. Telefonisch zal een service-engineer je door het proces begeleiden. Als je materiaal uit de koffer hebt gebruikt, en dus defect materiaal hebt verwijderd uit de kast dien je dit in te leveren bij de werkvoorbereiders. Daarnaast moet er **altijd** **een servicerapport** worden ingevuld. 
+
+**Locaties**
+
+| **Kruispunt nr.** | **Locatie** | **Gemeente** | **Fabrikant** | **VRA-nr.** | **Voltage** |
+| --- | --- | --- | --- | --- | --- |
+| KH14280 | Boezemweg - Gerdesiaweg - Ammanplein | Brielle | KO Hartog |  |  |
+| KH14115 | Markweg - Oversteek EECV | Brielle | KO Hartog |  |  |
+| KH14085 | Zuiderparkweg - Ahoyweg | Brielle | KO Hartog |  |  |
+| KH18825 | A15 - N214 - N3 Zuid | Capelle a/d IJssel | KO Hartog |  |  |
+| KH14505 | Abram van Rijckevorselweg (N219) - Couwenhoekseweg | Capelle a/d IJssel | KO Hartog |  |  |
+| KH16725 | Beijerlandselaan - Hillevliet - Randweg | Capelle a/d IJssel | KO Hartog |  |  |
+| KH16680 | Doklaan - Sluisjesdijk | Capelle a/d IJssel | KO Hartog |  |  |
+| KH16695 | Doklaan - Wolphaertsbocht | Capelle a/d IJssel | KO Hartog |  |  |
+| KH15480 | Engelendaal – Buitenhoflaan – Dennenschans | Capelle a/d IJssel | KO Hartog |  |  |
+| KH15495 | Engelendaal – Heinsiuslaan – Vronkenlaan | Capelle a/d IJssel | KO Hartog |  |  |
+| KH15465 | Engelendaal – Van der Havelaan – Rietschans | Capelle a/d IJssel | KO Hartog |  |  |
+| KH18465 | Hoofdweg - Akeleibaan | Capelle a/d IJssel | KO Hartog |  |  |
+| KH18780 | Horvathweg Oost K200 - Brandersbrug | Capelle a/d IJssel | KO Hartog |  |  |
+| KH18795 | Horvathweg West K9201 - Brandersbrug | Capelle a/d IJssel | KO Hartog |  |  |
+| KH16125 | Javastraat - Frederikstraat | Capelle a/d IJssel | KO Hartog |  |  |
+| KH17370 | K044: Vulcaanweg - Schiedamsedijk | Capelle a/d IJssel | KO Hartog |  |  |
+| KH16710 | Korperweg - Waalhaven OZ | Capelle a/d IJssel | KO Hartog |  |  |
+| KH14430 | Kralingseweg - Schenkelse Dreef (KP712197) | Capelle a/d IJssel | KO Hartog |  |  |
+| KH18165 | Pleinweg - Wolphaertsbocht | Capelle a/d IJssel | KO Hartog |  |  |
+| KH15450 | Provincialeweg – Engelendaal | Capelle a/d IJssel | KO Hartog |  |  |
+| KH15375 | Straatweg - Ceintuurbaan - Bergweg | Capelle a/d IJssel | KO Hartog |  |  |
+| KH18210 | Schilderstraat - Schiedamsedijk | Den Haag | KO Hartog |  |  |
+| KH17625 | N217 - A29-WEST | Gouda | KO Hartog |  |  |
+| KH14490 | Capelseweg - Zevensprong - Evenaar | Hardinxveld-Giessendam | KO Hartog |  |  |
+| KH19650 | De Grent - Palaceplein | Heinenoord | KO Hartog |  |  |
+| KH19665 | Gooweg - Van der Mortelstraat | Heinenoord | KO Hartog |  |  |
+| KH20130 | Industrieweg - Treviso | Heinenoord | KO Hartog |  |  |
+| KH20160 | Zandkreeksluis (N256) Master | Heinenoord | KO Hartog |  |  |
+| KH17670 | N217 - Tienvoet (Busbaan) | Hendrik Ido Ambacht | KO Hartog |  |  |
+| KH14670 | Spinozaweg - Victor Hugoweg | Hendrik Ido Ambacht | KO Hartog |  |  |
+| KH14445 | Abram van Rijckevorselweg (N219) - Oosterlengte | Hoek van Holland | KO Hartog |  |  |
+| KH15735 | Abram van Rijkevorselweg-Algeraweg-Prins Alexanderlaan (Capelseplein) (KP710103) | Hoek van Holland | KO Hartog |  |  |
+| KH16590 | N457 - A12 Zuid | Hoek van Holland | KO Hartog |  |  |
+| KH20175 | Zandkreeksluis (N256) slave | Hoek van Holland | KO Hartog |  |  |
+| KH17310 | K702: Kruisweg - N207 (Prov.weg/Herenweg) - N446 (Kruisweg) | Kortgene | KO Hartog |  |  |
+| KH17325 | K722: N207 - Herenweg | Kortgene | KO Hartog |  |  |
+| KH17375 | K044B: Vulcaanweg - Spoorwegovergang | Krimpen a/d IJssel | KO Hartog |  |  |
+| KH16635 | N451 - A12 Noord (Toe- en afrit A12) Goudse Poort | Krimpen a/d IJssel | KO Hartog |  |  |
+| KH16620 | N451 - N452 | Krimpen a/d IJssel | KO Hartog |  |  |
+| KH16920 | N59 -: De Tille | Krimpen a/d IJssel | KO Hartog |  |  |
+| KH14550 | Prins Alexanderlaan - 's Gravenweg | Krimpen a/d IJssel | KO Hartog |  |  |
+| KH17265 | Blaak - André van der Louwbrug | Leiderdorp | KO Hartog |  |  |
+| KH17190 | Bosporusstraat - Interne baan | Leiderdorp | KO Hartog |  |  |
+| KH17880 | Maastunnel Noord (parkeren bij straat Parkhaven) | Leiderdorp | KO Hartog |  |  |
+| KH17295 | Mariniersweg - Burg. v. Walsumweg | Leiderdorp | KO Hartog |  |  |
+| KH17220 | Missouriweg - Interne baan | Leiderdorp | KO Hartog |  |  |
+| KH17280 | Overblaak - Burg. V. Walsumweg | Leiderdorp | KO Hartog |  |  |
+| KH17685 | Veilingweg - Marie Overeijnderweg (Stoopweg) | Leiderdorp | KO Hartog |  |  |
+| KH17205 | Yukonweg - Interne baan | Leiderdorp | KO Hartog |  |  |
+| KH15345 | Burgemeester Pruissingel – Riouwlaan – Van der Driftstraat | Noordwijk | KO Hartog |  |  |
+| KH14880 | Kanaalweg-'s Gravenweg | Noordwijk | KO Hartog |  |  |
+| KH18286 | 'Hofplein'; Coolsingel - Pompenburg - Schiekade Sectiekast | Oude-Tonge | KO Hartog |  |  |
+| KH20580 | Nieuwe Tiendweg - Stad en Landschap | Papendrecht | KO Hartog |  |  |
+| KH20190 | Riviaduct (N210) Abram van Rijckevorselweg - Rivium | Papendrecht | KO Hartog |  |  |
+| KH17895 | Maastunnel Zuid | Rijswijk | KO Hartog |  |  |
+| KH17910 | Rotonde N223 - Haakweg | Rijswijk | KO Hartog |  |  |
+| KH18225 | 'Churchillplein'; Coolsingel - Blaak - Schiedamsedijk | Rotterdam | KO Hartog |  |  |
+| KH18285 | 'Hofplein'; Coolsingel - Pompenburg - Schiekade | Rotterdam | KO Hartog |  |  |
+| KH15390 | 's Gravelandseweg - De Brauwweg KP308 | Rotterdam | KO Hartog |  |  |
+| KH14220 | A16 (op- en afrit Zuid) - Hendrik Ydenweg | Rotterdam | KO Hartog |  |  |
+| KH14535 | Abram van Rijckevorselweg (N210) - Ijsselmondselaan (KP712306) | Rotterdam | KO Hartog |  |  |
+| KH14520 | Abram van Rijckevorselweg (N219) - Blaardorpseweg | Rotterdam | KO Hartog |  |  |
+| KH19890 | Abram van Rijckevorselweg - Afrit Kralingsezoom | Rotterdam | KO Hartog |  |  |
+| KH14820 | Abram van Rijckevorselweg-Slotlaan-Schenkelsedreef (KP710984) | Rotterdam | KO Hartog |  |  |
+| KH13050 | Bergweg - Gordelweg | Rotterdam | KO Hartog |  |  |
+| KH18240 | Beursplein - Bulgersteyn - Coolsingel | Rotterdam | KO Hartog |  |  |
+| KH14580 | Blaak - Ds. Jan Scharpstraat | Rotterdam | KO Hartog |  |  |
+| KH16005 | Boezemlaan - Bosdreef - Nieuwe Boezemlaan | Rotterdam | KO Hartog |  |  |
+| KH16020 | Bosdreef - ir. P. Kosterlaan | Rotterdam | KO Hartog |  |  |
+| KH14700 | Boszoom - Prinsenlaan | Rotterdam | KO Hartog |  |  |
+| KH18195 | Botlekweg - Theemsweg | Rotterdam | KO Hartog |  |  |
+| KH18180 | Botlekweg - Welplaatweg | Rotterdam | KO Hartog |  |  |
+| KH13515 | De Rik t.h.v. Riksestraatje (voetpad) en St.Leonardusschool VOP | Rotterdam | KO Hartog |  |  |
+| KH18270 | Doelwater - Coolsingel | Rotterdam | KO Hartog |  |  |
+| KH19275 | Dorpsweg - Wolphaertsbocht | Rotterdam | KO Hartog |  |  |
+| KH15525 | Engelendaal – Gallaslaan – De Houtkamp | Rotterdam | KO Hartog |  |  |
+| KH15510 | Engelendaal – Winkelhof – Laan van Berendrecht | Rotterdam | KO Hartog |  |  |
+| KH13485 | G.J. van den Boogerdweg - Johan H Beenlaan VOP | Rotterdam | KO Hartog |  |  |
+| KH13500 | G.J. van den Boogerdweg t.h.v. Bres Theater VOP | Rotterdam | KO Hartog |  |  |
+| KH11370 | Goudsesingel - Mariniersweg | Rotterdam | KO Hartog |  |  |
+| KH16950 | Grote Kreek - Kreekhuizenlaan - Reyerdijk | Rotterdam | KO Hartog |  |  |
+| KH15675 | Haagweg - Geestbrugweg | Rotterdam | KO Hartog |  |  |
+| KH15690 | Haagweg - Lindelaan | Rotterdam | KO Hartog |  |  |
+| KH19260 | Hartelkruis Noord - Botlekweg | Rotterdam | KO Hartog |  |  |
+| KH19770 | Honingerdijk - Maasboulevard | Rotterdam | KO Hartog |  |  |
+| KH12570 | Hoogstraat - Mariniersweg | Rotterdam | KO Hartog |  |  |
+| KH14850 | Kanaalweg-Bermweg | Rotterdam | KO Hartog |  |  |
+| KH14205 | Langeweg - Hendrik Ydenweg - Munnikensteeg | Rotterdam | KO Hartog |  |  |
+| KH13305 | Lepelaarsingel - Dillenburgsingel | Rotterdam | KO Hartog |  |  |
+| KH19785 | Maasboulevard - Willem Ruyslaan | Rotterdam | KO Hartog |  |  |
+| KH19245 | Marconiplein - Mathenesserweg | Rotterdam | KO Hartog |  |  |
+| KH13065 | Mathenesserlaan - 's- Gravendijkwal | Rotterdam | KO Hartog |  |  |
+| KH18255 | Meent - Aert van Nesstraat - Coolsingel | Rotterdam | KO Hartog |  |  |
+| KH11775 | Melanchtonweg | Rotterdam | KO Hartog |  |  |
+| KH19980 | N210 - Industrieweg - Nieuwe Tiendweg | Rotterdam | KO Hartog |  |  |
+| KH13290 | N451 (Goudse Poort) - Op- en afrit A12 Zuid (was KP5202) | Rotterdam | KO Hartog |  |  |
+| KH16605 | N457 - N451 - A12 Noord | Rotterdam | KO Hartog |  |  |
+| KH14130 | Op- en afrit A4 - N11 West | Rotterdam | KO Hartog |  |  |
+| KH14145 | Op- en Afrit A4/N11 Oost | Rotterdam | KO Hartog |  |  |
+| KH15540 | Persant Snoepweg – Engelendaal – Simon Smitweg | Rotterdam | KO Hartog |  |  |
+| KH15555 | Persant Snoepweg – Van der Valk Boumanweg – Acacialaan | Rotterdam | KO Hartog |  |  |
+| KH10830 | Pleinweg - Blankenburgstraat | Rotterdam | KO Hartog |  |  |
+| KH10845 | Pleinweg - Polslandstraat | Rotterdam | KO Hartog |  |  |
+| KH13185 | Pr. Alexanderlaan - Prinsenlaan - Burgaslaan | Rotterdam | KO Hartog |  |  |
+| KH14835 | Schenkelsedreef-'s Gravenweg | Rotterdam | KO Hartog |  |  |
+| KH12945 | Schiekade - Ungerplein | Rotterdam | KO Hartog |  |  |
+| KH12930 | Schieweg - Bergselaan | Rotterdam | KO Hartog |  |  |
+| KH14655 | Spinozaweg - Bierens de Haanweg - Guido Gezelleweg | Rotterdam | KO Hartog |  |  |
+| KH14625 | Spinozaweg - Catullusweg - Pythagorasweg | Rotterdam | KO Hartog |  |  |
+| KH14640 | Spinozaweg - Molenvliet - Pascalweg | Rotterdam | KO Hartog |  |  |
+| KH18570 | Stationsweg 1 (Bij Stena Line Nederland) | Rotterdam | KO Hartog |  |  |
+| KH19140 | Trentweg - Botlekweg | Rotterdam | KO Hartog |  |  |
+| KH19155 | Trentweg - Botlekweg (sectiekast) | Rotterdam | KO Hartog |  |  |
+| KH13620 | Vaanweg - Victor Hugoweg | Rotterdam | KO Hartog |  |  |
+| KH13410 | Vierhavenstraat - GOP Europoint | Rotterdam | KO Hartog |  |  |
+| KH14025 | Vondelingenweg - Groenedijk | Rotterdam | KO Hartog |  |  |
+| KH13320 | Westhavenkade - Galgkade - Deltabrug | Rotterdam | KO Hartog |  |  |
+| KH19995 | Wisselstrookkast; N210 - Industrieweg - Nieuwe Tiendweg | Rotterdam | KO Hartog |  |  |
+| KH14865 | Abram van Rijkevorselweg-Rivierweg-Kanaalweg (KP710875) | Schiedam | KO Hartog |  |  |
+| KH14460 | Burgemeester van Beresteijnlaan - 's Gravenweg | Schiedam | KO Hartog |  |  |
+| KH14475 | Burgemeester van Beresteijnlaan - Schollevaartseweg (KP710071) | Schiedam | KO Hartog |  |  |
+| KH16995 | Dirk vd Kooijweg - Terbregseweg | Schiedam | KO Hartog |  |  |
+| KH19875 | 'Strandboulevard' | Vlaardingen | KO Hartog |  |  |
+| KH19860 | 'Strandweg' | Vlaardingen | KO Hartog |  |  |
+| KH16890 | Van Limburg Stirumplein | Vlaardingen | KO Hartog |  |  |
+| KH13395 | Vierhavenstraat - Keileweg | Vlaardingen | KO Hartog |  |  |
+| KH13380 | Vierhavenstraat - Speedwellstraat | Vlaardingen | KO Hartog |  |  |
+| KH18840 | A15 - N214 - N3 Noord | Waddinxveen | KO Hartog |  |  |
+| KH19200 | Nieuwe Tiendweg - Boerhaavelaan / Nieuwe Tiendweg - Buys Ballotsingel | Waddinxveen | KO Hartog |  |  |
+| KH19050 | Parallelweg - Giessenzoom (spoorwegovergang) | Waddinxveen | KO Hartog |  |  |
+| KH19095 | Rivium Promenade - Rivium Boulevard | Waddinxveen | KO Hartog |  |  |
+| KH19800 | Abram van Rijkevorselweg - Burg. Oudlaan | Woubrugge | KO Hartog |  |  |
+| KH19350 | TWI Scheepvaartweg - Slimme Watering | Woubrugge | KO Hartog |  |  |
+| KH17640 | N217 - A29-OOST | Zoeterwoude-Rijndijk | KO Hartog |  |  |
+| KH17655 | N217 - N489 - Reedijk | Zoeterwoude-Rijndijk | KO Hartog |  |  |
+
+Leidschendam-Voorburg
+
+Er zijn een aantal handelingen die jullie als monteurs moeten doen wanneer jullie storingen hebben in de gemeente Leidschendam-Voorburg. 
+
+Hier is het stappenplan:
+
+- Bij aankomst op het kruispunt meld je je aan met het kruispunt nummer bij Ben van der Meer. Dit doe je via WhatsApp. Als je geen WhatsApp hebt dan kun je hem bellen.  
+
+- Los de storing op, voor zover dat mogelijk is.
+
+- Werk de bon bij in CityView 
+
+Jullie zullen hiervoor allemaal een eigen account
+
+[MijnAfinius — Inloggen](https://auth.mijnafinius.nl/login?app=cityview&returnTo=https://auth.mijnafinius.nl/sso-handler.html?ssoInitiateUrl=https%3A%2F%2Fapi.mijnafinius.nl%2Flandlord%2Fauth%2Fsso%2Finitiate&redirectTo=https%3A%2F%2Fgemeente-delft.cityview.nl%2Fticket%3Fper_page%3D30%26page%3D1%26sort%3D-number%26filter%5Benum%5D%3D%5B%2522ticket_status_id%7Cnot-equal%7C5%3B16%3B3%2522%5D%26view%3De8083b6e-7856-4a1a-a063-a1b5dc16e48f)
+
+- Meld je bij vertrek weer af via hetzelfde e-mailadres.
+
+Het aan- en afmelden via de mail mag zo kort als: ‘’Aanwezig op K….” en ‘’Vertrek op K….’’. 
+
+**Locaties**
+
+| **K****ruispunt nr.** | **Locatie** | **Gemeente** | **Fabrikant** | **VRA-nr.** | **Voltage** |
+| --- | --- | --- | --- | --- | --- |
+| K2011 | Pr. Mariannelaan - Binckhorstlaan | Voorburg |  |  |  |
+| K2012 | Pr. Mariannelaan - Fontynenburglaan | Voorburg |  |  |  |
+| K2013 | Pr.Mariannelaan - Laan v. Middenburg - Heeswijkstr | Voorburg |  |  |  |
+| K2022 | Parkweg - Laan v. Nieuw Oosteinde - Zwartelaan | Voorburg |  |  |  |
+| K2024 | Parkweg - Rozenboomlaan | Voorburg |  |  |  |
+| K2031 | Utrchtsebaan - Pr. Bernardlaan - L.v.N.O.Einde | Voorburg |  |  |  |
+| K2033 | Pr. Bernardlaan (postkantoor) | Voorburg |  |  |  |
+| K2034 | Pr.Bernardlaan - Rozenboomlaan - Kon. Julianalaan | Voorburg |  |  |  |
+| K2035 | Pr. Bernardlaan - Spinozalaan - Noteboompark | Voorburg |  |  |  |
+| K2038 | Pr. Bernardlaan - Rembrandlaan - St. Martinuslaan | Voorburg |  |  |  |
+| K2039 | Pr. Bernardlaan - Rodelaan | Voorburg |  |  |  |
+| K2041 | Kon. Wilhelminalaan - v. Sevenbergestraat | Voorburg |  |  |  |
+| K2044 | Kon.Julianalaan - Mgr. v. Steelaan | Voorburg |  |  |  |
+| K2045 | Mgr. v. Steelaan - Spinozalaan | Voorburg |  |  |  |
+| K2048 | Mgr. v. Steelaan - St. Martinuslaan | Voorburg |  |  |  |
+| K2049 | Mgr. v. Steelaan - Rodelaan | Voorburg |  |  |  |
+| K2050 | Mgr. v. Steelaan - Hofzichtlaan | Voorburg |  |  |  |
+| K2053 | L.v. N. O. Einde - Kon. Julianalaan | Voorburg |  |  |  |
+| K2054 | Kon.Julianalaan - Bruinings Ingenhoeslaan | Voorburg |  |  |  |
+| K2055 | Hofzichtlaan - Appelgaarde | Voorburg |  |  |  |
+| K2056 | L.v. N. O. Einde - Prins van Lignesstraat | Voorburg |  |  |  |
+| K2401 | Heuvelweg- Weigelia | Leidschendam |  |  |  |
+| K2402 | Heuvelweg - Burg. Banninglaan | Leidschendam |  |  |  |
+| K2403 | Heuvelweg - Gruttolaan | Leidschendam |  |  |  |
+| K2404 | Heuvelweg - Burg kolfschotenlaan | Leidschendam |  |  |  |
+| K2405 | Heuvelweg - Prinsensingel | Leidschendam |  |  |  |
+| K2406 | Noordsingel - J.S. Bachlaan | Leidschendam |  |  |  |
+| K2407 | Noordsingel - Burg. Sweenslaan | Leidschendam |  |  |  |
+| K2408 | Noordsingel - Burg. Kolfschotenlaan | Leidschendam |  |  |  |
+| K2409 | Noordsingel - Prinsensingel | Leidschendam |  |  |  |
+| K2411 | Oude Trambaan - Dr. V.d. Stamstraat | Leidschendam |  |  |  |
+| K2412 | Kon. Julianaweg - J.S. Bachlaan | Leidschendam |  |  |  |
+| K2413 | Oude trambaan-Rijnlandstraat-bachlaan | Leidschendam |  |  |  |
+| K2414 | Oude Trambaan - Damlaan | Leidschendam |  |  |  |
+| K2415 | Mgr. v.Steelaan - Kersengaarde - Distelweide | Voorburg |  |  |  |
+| K2416 | Nieuwstraat | Leidschendam |  |  |  |
+| K2418 | Gr. W. de Rijkelaan - Kastelenring | Leidschendam |  |  |  |
+| K2419 | Heuvelweg - Iisvogellaan - Lavendel | Leidschendam |  |  |  |
+| K2420 | Noordsingel - Dillenburgsingel | Leidschendam |  |  |  |
+| K2421 | Noordsingel - Veursestraatweg | Leidschendam |  |  |  |
+| K2422 | Noordsingel - Pr. Carolienelaan | Leidschendam |  |  |  |
+| K2423 | Noordsingel - Weigelia | Leidschendam |  |  |  |
+| K2424 | Sluisbrug | Leidschendam |  |  |  |
+| K2426 | Vlietweg - Afslag A4 | Leidschendam |  |  |  |
+| K2429 | Westvlietweg - Oude Tolbrug | Leidschendam |  |  |  |
+| K2430 | Oude Trambaan - Pr. Hendriklaan | Leidschendam |  |  |  |
+| K2431 | Oude Trambaan - de Koppels | Leidschendam |  |  |  |
+
+RET
+
+**Locaties**
+
+| **Kruispunt nr.** | **Locatie** | **Gemeente** | **Fabrikant** | **VRA-nr.** | **Voltage** |
+| --- | --- | --- | --- | --- | --- |
+| CK 19-04 | Avenue Carnisse | Barendrecht |  |  |  |
+| CK 19-05 | Avenue Carnisse | Barendrecht |  |  |  |
+| CK 19-06 | Avenue Carnisse | Barendrecht |  |  |  |
+| CK 19-03 | Middeldijkerplein | Barendrecht |  |  |  |
+| CK 19-01 | Steurwater | Barendrecht |  |  |  |
+| CK 19-02 | Steurwater | Barendrecht |  |  |  |
+| CK 19-18 | Vrijenburg | Barendrecht |  |  |  |
+| CK 19-19 | Vrijenburg | Barendrecht |  |  |  |
+| CK 19-20 | Vrijenburg | Barendrecht |  |  |  |
+| CK 18-01 | Rotterdamseweg | Ridderkerk |  |  |  |
+| CK 02-05 | 2e Middellandstraat | Rotterdam |  |  |  |
+| CK 17-04 | 2e Rosestraat | Rotterdam |  |  |  |
+| CK 17-07 | 2e Rosestraat | Rotterdam |  |  |  |
+| CK 04-07 | Allard Piersonstraat | Rotterdam |  |  |  |
+| CK 04-03 | Bachplein | Rotterdam |  |  |  |
+| CK 17-19 | Beijerlandselaan | Rotterdam |  |  |  |
+| CK 11-06 | Benthuizenstraat | Rotterdam |  |  |  |
+| CK 13-06V | Bentinckplein | Rotterdam |  |  |  |
+| CKV-13-06 | Bentinckplein | Rotterdam |  |  |  |
+| CK 11-02 | Bergweg | Rotterdam |  |  |  |
+| CK 11-04 | Bergweg | Rotterdam |  |  |  |
+| CK 11-05 | Bergweg | Rotterdam |  |  |  |
+| CK 15-01 | Beukendaal | Rotterdam |  |  |  |
+| CK 08-01 | Beursplein | Rotterdam |  |  |  |
+| CK 04-08 | Bijdorp | Rotterdam |  |  |  |
+| CK 08-05 | Blaak | Rotterdam |  |  |  |
+| CK 04-12 | Boeier | Rotterdam |  |  |  |
+| CK 15-03 | Boergoensevliet | Rotterdam |  |  |  |
+| CK 15-08 | Boergoensevliet | Rotterdam |  |  |  |
+| CK 15-09 | Boergoensevliet | Rotterdam |  |  |  |
+| CK 15-15 | Boergoensevliet | Rotterdam |  |  |  |
+| CK 10-02 | Boezembrug | Rotterdam |  |  |  |
+| CK 10-06 | Boezembrug | Rotterdam |  |  |  |
+| CK 10-08 | Boezemstraat | Rotterdam |  |  |  |
+| CK 15-02 | Breeplein | Rotterdam |  |  |  |
+| CK 15-21 | Brielselaan | Rotterdam |  |  |  |
+| CK 08-06 | Burg. van Walsumweg | Rotterdam |  |  |  |
+| CK 08-06B | Burg. van Walsumweg | Rotterdam |  |  |  |
+| CK 10-03 | Burgemeester Oudlaan | Rotterdam |  |  |  |
+| CK 10-04 | Burgemeester Oudlaan | Rotterdam |  |  |  |
+| CK 10-10 | Burgemeester Oudlaan | Rotterdam |  |  |  |
+| CK 18-02 | Cannenburchstraat | Rotterdam |  |  |  |
+| CK 08-02 | Churchillplein | Rotterdam |  |  |  |
+| CK 02-01 | Claes de Vrieselaan | Rotterdam |  |  |  |
+| CK 10-01 | Crooswijksestraat | Rotterdam |  |  |  |
+| CK 01-13 | Delftse Plein | Rotterdam |  |  |  |
+| CK 01-14 | Delftse Plein | Rotterdam |  |  |  |
+| CK 06-03 | Droogleever Fortuynplein | Rotterdam |  |  |  |
+| CK 17-12 | Dwarsdijk | Rotterdam |  |  |  |
+| CK 07-10 | Eendrachtsplein | Rotterdam |  |  |  |
+| CK 15-10 | Gaesbeekstraat | Rotterdam |  |  |  |
+| CK 09-13 | Goudsesingel | Rotterdam |  |  |  |
+| CK 19-08 | Groene Hilledijk | Rotterdam |  |  |  |
+| CK 19-09 | Groene Hilledijk | Rotterdam |  |  |  |
+| CK 19-10 | Groene Hilledijk | Rotterdam |  |  |  |
+| CK 16-10 | Groene Tuin | Rotterdam |  |  |  |
+| CK 17-13 | Groene Tuin | Rotterdam |  |  |  |
+| CK 17-14 | Groene Tuin | Rotterdam |  |  |  |
+| CK 17-15 | Groene Tuin | Rotterdam |  |  |  |
+| CK 17-17 | Groene Tuin | Rotterdam |  |  |  |
+| CK 17-18 | Groene Tuin | Rotterdam |  |  |  |
+| CK 16-11 | Groeninx van Zoelenlaan | Rotterdam |  |  |  |
+| CK 16-13 | Groeninx van Zoelenlaan | Rotterdam |  |  |  |
+| CK 16-18 | Groeninx van Zoelenlaan | Rotterdam |  |  |  |
+| CK 16-19 | Groeninx van Zoelenlaan | Rotterdam |  |  |  |
+| CK 16-20 | Groeninx van Zoelenlaan | Rotterdam |  |  |  |
+| CK 14-08 | Halte SFG | Rotterdam |  |  |  |
+| CK 05-01 | Heemraadsplein | Rotterdam |  |  |  |
+| CK 05-03 | Heemraadsplein | Rotterdam |  |  |  |
+| CK 19-07 | Hendrik Croesinckstraat | Rotterdam |  |  |  |
+| CK 16-21 | Herenwaard | Rotterdam |  |  |  |
+| CK 16-22 | Herenwaard | Rotterdam |  |  |  |
+| CK 15-06 | Hillevliet | Rotterdam |  |  |  |
+| CK 15-11 | Hillevliet | Rotterdam |  |  |  |
+| CK 09-01 | Honingerdijk | Rotterdam |  |  |  |
+| CK 11-01 | Hr Bokelweg | Rotterdam |  |  |  |
+| CK 11-03 | Hr Bokelweg | Rotterdam |  |  |  |
+| CK 19-17 | Kapelburg | Rotterdam |  |  |  |
+| CK 14-03 | Kastanjesingel | Rotterdam |  |  |  |
+| CK 12-04 | Kleiweg | Rotterdam |  |  |  |
+| CK 12-07 | Kleiweg | Rotterdam |  |  |  |
+| CK 12-08 | Kleiweg | Rotterdam |  |  |  |
+| CK 16-02 | Kreekhuizenplein | Rotterdam |  |  |  |
+| CK 16-05 | Kreekhuizenplein | Rotterdam |  |  |  |
+| CK 16-06 | Kreekhuizenplein | Rotterdam |  |  |  |
+| CK 16-07 | Kreekhuizenplein | Rotterdam |  |  |  |
+| CK 16-08 | Kreekhuizenplein | Rotterdam |  |  |  |
+| CK 16-12 | Kreekhuizenplein | Rotterdam |  |  |  |
+| CK 17-11 | Kreekkade | Rotterdam |  |  |  |
+| CK 01-05 | Kruisplein | Rotterdam |  |  |  |
+| CK 01-08 | Kruisplein | Rotterdam |  |  |  |
+| CK 01-16 | Kruisplein | Rotterdam |  |  |  |
+| CK 01-17 | Kruisplein | Rotterdam |  |  |  |
+| CK 17-02 | Laan op Zuid | Rotterdam |  |  |  |
+| CK 17-03 | Laan op Zuid | Rotterdam |  |  |  |
+| CK 17-06 | Laan op Zuid | Rotterdam |  |  |  |
+| CK 09-12 | Lage filterweg | Rotterdam |  |  |  |
+| CK 19-15 | Langenhorst | Rotterdam |  |  |  |
+| CK 19-16 | Langenhorst | Rotterdam |  |  |  |
+| CK 16-09 | Limbrichthoek | Rotterdam |  |  |  |
+| CK 16-03 | Lombardijen tunnel | Rotterdam |  |  |  |
+| CK 15-13 | Maashaven | Rotterdam |  |  |  |
+| CK 07-05 | Maasstraat | Rotterdam |  |  |  |
+| CK 03-01 | Marconiplein | Rotterdam |  |  |  |
+| CK 03-02 | Marconiplein | Rotterdam |  |  |  |
+| CK 03-03 | Mathenesserdijk | Rotterdam |  |  |  |
+| CK 03-07 | Mathenesserdijk | Rotterdam |  |  |  |
+| CK 09-08 | Mathenesserdijk | Rotterdam |  |  |  |
+| CK 05-04 | Mathenesserlaan | Rotterdam |  |  |  |
+| CK 07-03 | Mauritsweg | Rotterdam |  |  |  |
+| CK 07-04 | Mauritsweg | Rotterdam |  |  |  |
+| CK 14-02 | Meidoornsingel | Rotterdam |  |  |  |
+| CK 14-04 | Meidoornsingel | Rotterdam |  |  |  |
+| CK 14-05 | Melanchtonweg | Rotterdam |  |  |  |
+| CK 14-06 | Melanchtonweg | Rotterdam |  |  |  |
+| CK 12-03 | Molenlaan | Rotterdam |  |  |  |
+| CK 16-01 | Molenvliet | Rotterdam |  |  |  |
+| CK 05-02 | Nieuwe Binnenweg | Rotterdam |  |  |  |
+| CK 17-10 | Noorderhelling | Rotterdam |  |  |  |
+| CK 11-07 | Noordsingel | Rotterdam |  |  |  |
+| CK 08-03 | Oldebarneveltstraat | Rotterdam |  |  |  |
+| CK 09-04 | Oostplein | Rotterdam |  |  |  |
+| CK 09-05 | Oostplein | Rotterdam |  |  |  |
+| CK 09-06 | Oostplein | Rotterdam |  |  |  |
+| CK 09-07 | Oostzeedijk | Rotterdam |  |  |  |
+| CK 09-11 | Oude plantagedreef | Rotterdam |  |  |  |
+| CK 03-04 | PC. Hooftplein | Rotterdam |  |  |  |
+| CK 06-09 | Pelgrimsstraat | Rotterdam |  |  |  |
+| CK 10-09 | Pijperstraat | Rotterdam |  |  |  |
+| CK 15-05 | Polderlaan | Rotterdam |  |  |  |
+| CK 01-04 | Pompenburg | Rotterdam |  |  |  |
+| CK 09-03 | Pompenburg | Rotterdam |  |  |  |
+| CK 04-09 | Prinses Beatrixlaan | Rotterdam |  |  |  |
+| CK 13-08 | Proveniersplein | Rotterdam |  |  |  |
+| CK 13-04 | Provenierssingel | Rotterdam |  |  |  |
+| CK 13-07 | Provenierssingel | Rotterdam |  |  |  |
+| CK 15-04 | Randweg | Rotterdam |  |  |  |
+| CK 15-12 | Randweg | Rotterdam |  |  |  |
+| CK 50-01 | Remise Beverwaard | Rotterdam |  |  |  |
+| CK 50-02 | Remise Beverwaard | Rotterdam |  |  |  |
+| CK 50-03 | Remise Beverwaard | Rotterdam |  |  |  |
+| CK 50-04 | Remise Beverwaard | Rotterdam |  |  |  |
+| CK 50-05 | Remise Beverwaard | Rotterdam |  |  |  |
+| CK 50-06 | Remise Beverwaard | Rotterdam |  |  |  |
+| CK 16-16 | Rhijnauwensingel | Rotterdam |  |  |  |
+| CK 16-17 | Rhijnauwensingel | Rotterdam |  |  |  |
+| CK 07-01 | Schiedamsedijk Ketelaarstr | Rotterdam |  |  |  |
+| CK 03-08 | Schiedamseweg | Rotterdam |  |  |  |
+| CK 03-09 | Schiedamseweg | Rotterdam |  |  |  |
+| CK 06-10 | Schiedamseweg | Rotterdam |  |  |  |
+| CK 01-03 | Schiekade | Rotterdam |  |  |  |
+| CK 13-05 | Schiekade | Rotterdam |  |  |  |
+| CK 13-02 | Schieweg | Rotterdam |  |  |  |
+| CK 16-14 | Schinnebaan | Rotterdam |  |  |  |
+| CK 16-15 | Schinnebaan | Rotterdam |  |  |  |
+| CK 09-09 | Slaak | Rotterdam |  |  |  |
+| CK 17-05 | Slaghekstraat | Rotterdam |  |  |  |
+| CK 19-11 | Slinge | Rotterdam |  |  |  |
+| CK 19-12 | Slinge | Rotterdam |  |  |  |
+| CK 19-13 | Slinge | Rotterdam |  |  |  |
+| CK 19-14 | Slinge | Rotterdam |  |  |  |
+| CK 16-04 | Smeetslandsedijk | Rotterdam |  |  |  |
+| CK 03-06 | Spanjaardstraat | Rotterdam |  |  |  |
+| CK 06-07 | Spanjaardstraat | Rotterdam |  |  |  |
+| CK 03-05 | Spartastraat | Rotterdam |  |  |  |
+| CK 01-02 | Stadhuisstraat | Rotterdam |  |  |  |
+| CK 17-08 | Stadion Feyenoord | Rotterdam |  |  |  |
+| CK 17-09 | Stadionweg | Rotterdam |  |  |  |
+| CK 01-06 | Stationsplein | Rotterdam |  |  |  |
+| CK 01-11 | Stationsplein | Rotterdam |  |  |  |
+| CK 01-12 | Stationsplein | Rotterdam |  |  |  |
+| CK 01-15 | Stationsplein | Rotterdam |  |  |  |
+| CK 12-02 | Straatweg | Rotterdam |  |  |  |
+| CK 13-01 | v.Aerssenlaan | Rotterdam |  |  |  |
+| CK 04-05 | Van Deventerstraat | Rotterdam |  |  |  |
+| CK 07-02 | Vasteland | Rotterdam |  |  |  |
+| CK 07-07 | Vasteland | Rotterdam |  |  |  |
+| CK 02-03 | Vierambachtsstraat | Rotterdam |  |  |  |
+| CK 02-02 | Vierambachtstraat | Rotterdam |  |  |  |
+| CK 07-11 | Vollenhovenstraat | Rotterdam |  |  |  |
+| CK 01-01 | Weena | Rotterdam |  |  |  |
+| CK 01-07 | Weena | Rotterdam |  |  |  |
+| CK 01-09 | Weena | Rotterdam |  |  |  |
+| CK 01-10 | Weena | Rotterdam |  |  |  |
+| CK 02-06 | Westkruiskade | Rotterdam |  |  |  |
+| CK 02-06V | Westkruiskade | Rotterdam |  |  |  |
+| CK 06-01 | Westzeedijk | Rotterdam |  |  |  |
+| CK 06-04 | Westzeedijk | Rotterdam |  |  |  |
+| CK 06-05 | Westzeedijk | Rotterdam |  |  |  |
+| CK 06-06 | Westzeedijk | Rotterdam |  |  |  |
+| CK 07-06 | Westzeedijk | Rotterdam |  |  |  |
+| CK 14-01 | Wilgenplaslaan | Rotterdam |  |  |  |
+| CK 14-07 | Wilgenplaslaan | Rotterdam |  |  |  |
+| CK 14-09 | Wilgenplaslaan | Rotterdam |  |  |  |
+| CK 17-01 | Wilhelminaplein | Rotterdam |  |  |  |
+| CK 09-10 | Willem Ruyslaan | Rotterdam |  |  |  |
+| CK 07-09 | Witte de withstraat | Rotterdam |  |  |  |
+| CK 15-14 | Wolphaertsbocht | Rotterdam |  |  |  |
+| CK 15-16 | Wolphaertsbocht | Rotterdam |  |  |  |
+| CK 15-17 | Wolphaertsbocht | Rotterdam |  |  |  |
+| CK 15-19 | Wolphaertsbocht | Rotterdam |  |  |  |
+| CK 10-05 | Zaagmolenstraat | Rotterdam |  |  |  |
+| CK 04-01 | Broersvest | Schiedam |  |  |  |
+| CK 04-18 | Broersvest | Schiedam |  |  |  |
+| CK 04-17 | Buis | Schiedam |  |  |  |
+| CK 04-14 | Harreweg | Schiedam |  |  |  |
+| CK 04-10 | Hof van Spaland | Schiedam |  |  |  |
+| CK 04-06 | Parkweg | Schiedam |  |  |  |
+| CK 04-02 | Plein 40-45 | Schiedam |  |  |  |
+| CK 04-11 | Schubertplein | Schiedam |  |  |  |
+| CK 04-13 | Station Schiedam Centrum | Schiedam |  |  |  |
+| CK 20-05 | Achterlangs | Vlaardingen |  |  |  |
+| CK 20-02 | De Loper | Vlaardingen |  |  |  |
+| CK 20-02V | De Loper | Vlaardingen |  |  |  |
+| CK 20-01 | Holysingel | Vlaardingen |  |  |  |
+| CK 20-03 | Over de Dammen | Vlaardingen |  |  |  |
+| CK 20-04 | Parijslaan | Vlaardingen |  |  |  |
+
+Rijswijk
+
+**Locaties**
+
+| **Kruispunt nr.** | **Locatie** | **Gemeente** | **Fabrikant** | **VRA-nr.** | **Voltage** |
+| --- | --- | --- | --- | --- | --- |
+| K01 | Schaapweg - Sammersweg | Rijswijk |  |  |  |
+| K02 | S.W. Churchilllaan - Strijplaan | Rijswijk |  |  |  |
+| K04 | S.W. Churchilllaan - Van Mooklaan | Rijswijk |  |  |  |
+| K05 | Pr. Beatrixlaan - v. Vredenburchweg | Rijswijk |  |  |  |
+| K06 | Pr. Beatrixaan - Gen. Spoorlaan | Rijswijk |  |  |  |
+| K07 | Pr. Beatrixlaan - Pr. Irenelaan + Middenterrein | Rijswijk |  |  |  |
+| K08 | Pr. Beatrixlaan - S.W. Churchilllaan | Rijswijk |  |  |  |
+| K09 | Pr. Beatrixlaan - Helfrichsingel | Rijswijk |  |  |  |
+| K11 | Gen. Spoorlaan - Steenvoordelaan | Rijswijk |  |  |  |
+| K12 | S.W. Churchilllaan - Harpsingel | Rijswijk |  |  |  |
+| K13 | Gen. Spoorlaan - Huis te Landelaan | Rijswijk |  |  |  |
+| K14 | S.W. Churchilllaan - Volmerlaan | Rijswijk |  |  |  |
+| K15 | Volmerlaan - Verrijn Stuartlaan | Rijswijk |  |  |  |
+| K17 | Diepenhorstlaan - Veraartlaan | Rijswijk |  |  |  |
+| K18 | Diepenhorstlaan - A4 | Rijswijk |  |  |  |
+| K19 | Veraartlaan - Patentlaan | Rijswijk |  |  |  |
+| K20 | Gen. Spoorlaan - Burg. Elsenlaan | Rijswijk |  |  |  |
+| K21 | S.W. Churchilllaan - Burg. Elsenlaan | Rijswijk |  |  |  |
+| K22 | Lindelaan - Jan Tooroplaan - Jozef Israelslaan | Rijswijk |  |  |  |
+| K25 | Pr. Beatrixlaan - Wasstraat | Rijswijk |  |  |  |
+| K26 | Laan van Hoornwijck - Laan van Delfvliet A13 | Rijswijk |  |  |  |
+| K27 | Laan van Hoornwijck - Laan van Zuidhorn | Rijswijk |  |  |  |
+| K29 | Haagweg - Geestbrugweg | Rijswijk |  |  |  |
+| K30 | Haagweg - Lindelaan | Rijswijk |  |  |  |
+| K31 | Haagweg - Acacialaan | Rijswijk |  |  |  |
+| K32 | Geestbrugweg - Cromvlietkade | Rijswijk |  |  |  |
+| K33 | Vrijenbanselaan - Broekmolenweg | Rijswijk |  |  |  |
+| K34 | Vrijenbanselaan - ReigeKeg | Rijswijk |  |  |  |
+| K36 | Gen. Eisenhowerplein - OV-Knoop | Rijswijk |  |  |  |
+| K37 | Pr. Beatrixlaan - Haantje | Rijswijk |  |  |  |
+| K38 | Pr. Beatrixlaan - Op/afrit A4 | Rijswijk |  |  |  |
+| K39 | Laan van Hoornwijck - Madame Curielaan | Rijswijk |  |  |  |
+| K42 | Burg. Elsenlaan - Handelskade | Rijswijk |  |  |  |
+| K43 | Burg. Elsenlaan - Limpergstraat | Rijswijk |  |  |  |
+| K44 | Volmerlaan - Visseringlaan | Rijswijk |  |  |  |
+| K45 | Volmerlaan - Treubstraat | Rijswijk |  |  |  |
+| K46 | Pr. Beatrixlaan - Weidedreef | Rijswijk |  |  |  |
+| K47 | Burg. Elsenlaan - v Vredenburchweg | Rijswijk |  |  |  |
+| K48 | Pr. Beatrixlaan - Carpoolterrein (Hazepad) | Rijswijk |  |  |  |
+| K49 | Vrijenbanselaan - Viaduct A13 Ypenburg | Rijswijk |  |  |  |
+| K50 | Vrijenbanselaan - Vinkweg | Rijswijk |  |  |  |
+| K51 | Vrijenbanselaan A13 - Kfar Savaweg | Rijswijk |  |  |  |
+| K52 | TWI Delftweg | Rijswijk |  |  |  |
+| K55 | Van de Kooiweg – Van Rijnweg | Rijswijk |  |  |  |
+
+Rotterdam
+
+Bij Rotterdam is er geen klantsysteem. Gebruikte materialen kunnen worden aangevraagd via de mail: [vri_groepsb@rotterdam.nl](mailto:vri_groepsb@rotterdam.nl)
+
+Locatie van het magazijn: 
+
+**Locaties**
+
+| **Kruispunt nr.** | **Locatie** | **Gemeente** | **Fabrikant** | **VRA-nr.** | **Voltage** |
+| --- | --- | --- | --- | --- | --- |
+| K97160 | A15 - Clydeweg | Botlek Rotterdam |  |  |  |
+| K97290 | A15 - Trentweg - Botlekweg | Botlek Rotterdam |  |  |  |
+| K97040 | A15-Droespolderweg | Botlek Rotterdam |  |  |  |
+| K97100 | Botlekweg - Clydeweg | Botlek Rotterdam |  |  |  |
+| K97060 | Botlekweg - Droespolderweg | Botlek Rotterdam |  |  |  |
+| K97030 | Botlekweg - Theemsweg | Botlek Rotterdam |  |  |  |
+| K97020 | Botlekweg - Welplaatweg | Botlek Rotterdam |  |  |  |
+| K97090 | Clydeweg - Oliphantweg | Botlek Rotterdam |  |  |  |
+| K97066 | Droespolderweg | Botlek Rotterdam |  |  |  |
+| K97010 | Droespolderweg-Tienmorgenseweg | Botlek Rotterdam |  |  |  |
+| K97050 | Droespolderweg-Volgerweg | Botlek Rotterdam |  |  |  |
+| K97120 | Hartelkruis noord | Botlek Rotterdam |  |  |  |
+| K97210 | A15 - Merwedeweg | Europoort Rotterdam |  |  |  |
+| K97330 | Markweg-oversteek EECV | Europoort Rotterdam |  |  |  |
+| K97170 | Moezelweg-Merwedeweg | Europoort Rotterdam |  |  |  |
+| K99010 | Dirk van den Burgweg - Leen van Ooijenlaan | Hoek van Holland |  |  |  |
+| K99060 | Dirk van den Burgweg-Schelpweg | Hoek van Holland |  |  |  |
+| K99030 | Haakweg - Slachthuisweg | Hoek van Holland |  |  |  |
+| K99020 | Hoeksebaan - Stationsweg | Hoek van Holland |  |  |  |
+| K99050 | Strandboulevard - Hoekse Lijn | Hoek van Holland |  |  |  |
+| K99040 | Strandweg - Hoekse Lijn | Hoek van Holland |  |  |  |
+| K92040 | A15 - Aveling | Hoogvliet Rotterdam |  |  |  |
+| K93010 | Aveling - Groene Kruisweg | Hoogvliet Rotterdam |  |  |  |
+| K93130 | Aveling - Oudelandseweg | Hoogvliet Rotterdam |  |  |  |
+| K93110 | Aveling - Tymweg | Hoogvliet Rotterdam |  |  |  |
+| K92110 | Gaderingviaduct - afrit A15 | Hoogvliet Rotterdam |  |  |  |
+| K92100 | Gaderingviaduct - toerit A15 | Hoogvliet Rotterdam |  |  |  |
+| K92120 | Gaderingviaduct - Vondelingenweg | Hoogvliet Rotterdam |  |  |  |
+| K93050 | Laning - Othelloweg | Hoogvliet Rotterdam |  |  |  |
+| K91010 | Oprit A 4 - Vondelingenweg | Hoogvliet Rotterdam |  |  |  |
+| K95010 | Vondelingenweg - Seattleweg | Hoogvliet Rotterdam |  |  |  |
+| K92130 | Vondelingenweg - Vondelingenviaduct | Hoogvliet Rotterdam |  |  |  |
+| K92140 | Vondelingenweg-Petroleumweg | Hoogvliet Rotterdam |  |  |  |
+| K97390 | Amoerweg | Maasvlakte Rotterdam |  |  |  |
+| K97270 | Beringstraat interne baan - Dardanellenstraat | Maasvlakte Rotterdam |  |  |  |
+| K97200 | Bosporusstraat - Interne baan | Maasvlakte Rotterdam |  |  |  |
+| K97380 | CER - Mekongweg | Maasvlakte Rotterdam |  |  |  |
+| K97350 | CER - Oversteek Brandweerpad | Maasvlakte Rotterdam |  |  |  |
+| K97360 | CER - Spoorkruising Dardanellenstraat | Maasvlakte Rotterdam |  |  |  |
+| K97190 | Coloradoweg - Europaweg | Maasvlakte Rotterdam |  |  |  |
+| K97180 | Europaweg - inrit APMT | Maasvlakte Rotterdam |  |  |  |
+| K97220 | Internebaan - Kruising 43/62 - Missouriweg | Maasvlakte Rotterdam |  |  |  |
+| K97280 | Karimatastraat-Interne Baan | Maasvlakte Rotterdam |  |  |  |
+| K97370 | Maasvlakteweg - Mekongweg | Maasvlakte Rotterdam |  |  |  |
+| K97400 | Maasvlakteweg - Prinses Alexiaviaduct | Maasvlakte Rotterdam |  |  |  |
+| K97310 | Maasvlakteweg-Dardanellenstraat (Knooppunt B) | Maasvlakte Rotterdam |  |  |  |
+| K97340 | Maasvlakteweg-Prinses Amaliaviaduct | Maasvlakte Rotterdam |  |  |  |
+| K97260 | Yukonweg - Interne Baan | Maasvlakte Rotterdam |  |  |  |
+| K89010 | Groenedijk - Vondelingenweg | Pernis Rotterdam |  |  |  |
+| K91020 | Oud Pernisseweg - Vondelingenweg | Pernis Rotterdam |  |  |  |
+| K14020 | 's Gravendijkwal - Mathenesserlaan | Rotterdam |  |  |  |
+| K88060 | A 15 - Reeweg | Rotterdam |  |  |  |
+| K63020 | A. van Rijckevorselweg - afrit Kralingse Zoom | Rotterdam |  |  |  |
+| K64020 | A. van Rijckevorselweg - Burg. Oudlaan | Rotterdam |  |  |  |
+| K38040 | Abraham Kuyperlaan - Schieweg | Rotterdam |  |  |  |
+| K41010 | Abraham van Stolkweg - Stadhoudersweg | Rotterdam |  |  |  |
+| K63040 | Abram v. Rijckevorselweg - Kralingse Zoom | Rotterdam |  |  |  |
+| K31010 | Admiraal de Ruyterweg - Jonker Fransstraat | Rotterdam |  |  |  |
+| K78010 | Adriaan Volkerlaan - Dwarsdijk | Rotterdam |  |  |  |
+| K77030 | Adriaan Volkerlaan - IJsselmondseplein | Rotterdam |  |  |  |
+| K23010 | Aelbrechtskade - Nieuwe Binnenweg | Rotterdam |  |  |  |
+| K22010 | Aelbrechtsplein | Rotterdam |  |  |  |
+| K11090 | Aert van Nesstraat - Coolsingel | Rotterdam |  |  |  |
+| K77090 | Afrit A 16 - Groeninx v. Zoelenlaan | Rotterdam |  |  |  |
+| K67040 | Afrit A 16 - Hoofdweg | Rotterdam |  |  |  |
+| K84080 | Ahoyweg - Zuiderparkweg | Rotterdam |  |  |  |
+| K11190 | Andre van der Louwbrug - Willemsbrug | Rotterdam |  |  |  |
+| K88050 | Antonie Bodaanweg - Reeweg | Rotterdam |  |  |  |
+| K72030 | Beijerlandselaan - 2e Rosestraat - Colosseumweg | Rotterdam |  |  |  |
+| K73050 | Beijerlandselaan - Randweg | Rotterdam |  |  |  |
+| K28040 | Benjamin Franklinstraat - Schiedamseweg | Rotterdam |  |  |  |
+| K35020 | Benthuizerstraat - Zaagmolenstraat (VOP) | Rotterdam |  |  |  |
+| K33010 | Bentinckplein | Rotterdam |  |  |  |
+| K79030 | Bergambachtstraat - IJsselmondse Randweg | Rotterdam |  |  |  |
+| K37020 | Bergselaan - Rodenrijselaan | Rotterdam |  |  |  |
+| K38010 | Bergselaan - Schieweg | Rotterdam |  |  |  |
+| K36010 | Bergweg - Gordelweg | Rotterdam |  |  |  |
+| K32020 | Bergweg - Noordsingel | Rotterdam |  |  |  |
+| K32010 | Bergweg - Schiekade | Rotterdam |  |  |  |
+| K35010 | Bergweg - Zwartjanstraat | Rotterdam |  |  |  |
+| K13010 | Beukelsdijk - Statentunnel | Rotterdam |  |  |  |
+| K76040 | Bierens de Haanweg - Spinozaweg | Rotterdam |  |  |  |
+| K11210 | Binnenrotte - Blaak | Rotterdam |  |  |  |
+| K11040 | Blaak - André van der Louwbrug | Rotterdam |  |  |  |
+| K11220 | Blaak - Ds Jan Scharpstraat | Rotterdam |  |  |  |
+| K11000 | Blaak - Keizerstraat | Rotterdam |  |  |  |
+| K81020 | Blankenburgstraat - Pleinweg | Rotterdam |  |  |  |
+| K34010 | Boezemlaan - Paradijsbrug | Rotterdam |  |  |  |
+| K34040 | Boezemlaan - Veilingbrug | Rotterdam |  |  |  |
+| K34050 | Boezemlaan - Verlegde Bosdreef | Rotterdam |  |  |  |
+| K31020 | Boezemweg - Gerdesiaweg | Rotterdam |  |  |  |
+| K31050 | Boezemweg - Goudse Rijweg | Rotterdam |  |  |  |
+| K11160 | Boompjes - Erasmusbrug | Rotterdam |  |  |  |
+| K11130 | Boompjes - Rederijstraat | Rotterdam |  |  |  |
+| K11050 | Boompjes - Willemsbrug | Rotterdam |  |  |  |
+| K62130 | Bosdreef - ir. P. Kosterlaan | Rotterdam |  |  |  |
+| K34080 | Bosdreef - Verlegde Bosdreef | Rotterdam |  |  |  |
+| K62030 | Boszoom - Hoofdweg | Rotterdam |  |  |  |
+| K62020 | Boszoom - Kralingseweg | Rotterdam |  |  |  |
+| K62040 | Boszoom - Prinsenlaan | Rotterdam |  |  |  |
+| K74010 | Breeplein | Rotterdam |  |  |  |
+| K71120 | Brugweg - Prins Hendrikkade | Rotterdam |  |  |  |
+| K55010 | Burg. Le Fèvre de Montignylaan - Molenlaan | Rotterdam |  |  |  |
+| K66020 | Burgaslaan - Prins Alexanderlaan | Rotterdam |  |  |  |
+| K11200 | Burgemeester van Walsumweg - Mariniersweg | Rotterdam |  |  |  |
+| K77040 | Cannenburchstraat - Groeninx van Zoelenlaan | Rotterdam |  |  |  |
+| K68020 | Capelseweg - President Rooseveltweg | Rotterdam |  |  |  |
+| K76050 | Catullusweg - Spinozaweg | Rotterdam |  |  |  |
+| K82070 | Charloisse Hoofd - Doklaan (VOP) | Rotterdam |  |  |  |
+| K11120 | Churchillplein | Rotterdam |  |  |  |
+| K21030 | Claes de Vrieselaan - Mathenesserlaan | Rotterdam |  |  |  |
+| K77010 | Coen Moulijnweg - Stadionweg | Rotterdam |  |  |  |
+| K77130 | Coen Moulijnweg - Van Zandvlietplein | Rotterdam |  |  |  |
+| K75060 | Colosseumweg - Buitendijktunnel | Rotterdam |  |  |  |
+| K11140 | Coolsingel-Bulgersteijn-Beurs | Rotterdam |  |  |  |
+| K11110 | Coolsingel-Doelwater | Rotterdam |  |  |  |
+| K56030 | Dirk van der Kooijweg - Terbregseweg | Rotterdam |  |  |  |
+| K67050 | Djeddalaan - Hoofdweg | Rotterdam |  |  |  |
+| K46010 | Doenkade-A13 | Rotterdam |  |  |  |
+| K46020 | Doenkade-Vliegveldweg | Rotterdam |  |  |  |
+| K82040 | Doklaan - Sluisjesdijk | Rotterdam |  |  |  |
+| K82060 | Doklaan - Wolphaertsbocht | Rotterdam |  |  |  |
+| K73030 | Dordtselaan - Strevelsweg | Rotterdam |  |  |  |
+| K75070 | Dordtsestraatweg - Enk | Rotterdam |  |  |  |
+| K75010 | Dordtsestraatweg - Vinkenbaan | Rotterdam |  |  |  |
+| K82030 | Dorpsweg - Gruttostraat | Rotterdam |  |  |  |
+| K84090 | Dorpsweg - Kromme Zandweg | Rotterdam |  |  |  |
+| K81060 | Dorpsweg - Maastunnelplein | Rotterdam |  |  |  |
+| K82020 | Dorpsweg - Wielewaalstraat | Rotterdam |  |  |  |
+| K82010 | Dorpsweg - Wolphaertsbocht | Rotterdam |  |  |  |
+| K88030 | Driemanssteeweg - Groene Kruisweg | Rotterdam |  |  |  |
+| K15040 | Droogleever Fortuynplein | Rotterdam |  |  |  |
+| K21070 | Duivenvoordestraat - 1e Middellandstraat | Rotterdam |  |  |  |
+| K12030 | Eendrachtsplein - Westblaak | Rotterdam |  |  |  |
+| K72060 | Erasmusbrug - Wilhelminakade | Rotterdam |  |  |  |
+| K15050 | G.J. de Jonghweg - Willem Buytewechstraat | Rotterdam |  |  |  |
+| K45020 | G.K. van Hogendorpweg - Fairoaksbaan | Rotterdam |  |  |  |
+| K44030 | Giessenplein Noord | Rotterdam |  |  |  |
+| K44040 | Giessenplein Zuid | Rotterdam |  |  |  |
+| K38030 | Gordelweg - Schieweg | Rotterdam |  |  |  |
+| K36020 | Gordelweg - Soetendaalsebrug | Rotterdam |  |  |  |
+| K11020 | Goudsesingel - Jonker Fransstraat | Rotterdam |  |  |  |
+| K11170 | Goudsesingel - Mariniersweg | Rotterdam |  |  |  |
+| K11150 | Goudsesingel - Pompenburg | Rotterdam |  |  |  |
+| K73020 | Groene Hilledijk - Sandelingplein | Rotterdam |  |  |  |
+| K84060 | Groene Kruisweg - Jan Olieslagersweg | Rotterdam |  |  |  |
+| K84050 | Groene Kruisweg - Korperweg | Rotterdam |  |  |  |
+| K84020 | Groene Kruisweg - Oldegaarde | Rotterdam |  |  |  |
+| K84010 | Groene Kruisweg - Slinge | Rotterdam |  |  |  |
+| K88070 | Groene Kruisweg - Vondelingenweg | Rotterdam |  |  |  |
+| K84110 | Groene Kruisweg – Zuiderparkpromenade GOP | Rotterdam |  |  |  |
+| K77100 | Groeninx van Zoelenlaan (busbaan) - fietspad | Rotterdam |  |  |  |
+| K67100 | Grote Beer - Prins Alexanderlaan | Rotterdam |  |  |  |
+| K67070 | Grote Beer-Hoofdweg | Rotterdam |  |  |  |
+| K79010 | Grote Kreek - Kreekhuizenlaan | Rotterdam |  |  |  |
+| K11010 | Haagseveer - Pompenburg | Rotterdam |  |  |  |
+| K12050 | Hartmansstraat - Westblaak | Rotterdam |  |  |  |
+| K15030 | Heemraadssingel - Rochussenstraat | Rotterdam |  |  |  |
+| K14060 | Henegouwerlaan - HOV-doorsteek | Rotterdam |  |  |  |
+| K72050 | Hillelaan - Brede Hilledijk | Rotterdam |  |  |  |
+| K11060 | Hofplein | Rotterdam |  |  |  |
+| K62050 | Honingerdijk - Maasboulevard | Rotterdam |  |  |  |
+| K67030 | Hoofdweg - Koningslaan | Rotterdam |  |  |  |
+| K67020 | Hoofdweg - Prins Alexanderlaan | Rotterdam |  |  |  |
+| K67110 | Hoofdweg - Titaniumstraat | Rotterdam |  |  |  |
+| K11030 | Hoogstraat - Mariniersweg | Rotterdam |  |  |  |
+| K28010 | Horvathweg - Spaanseweg | Rotterdam |  |  |  |
+| K25060 | Hudsonplein - Westzeedijk | Rotterdam |  |  |  |
+| K79050 | IJsselmondse Randweg - Ammerstolstraat | Rotterdam |  |  |  |
+| K65060 | Jacques Dutilhweg (VOP) | Rotterdam |  |  |  |
+| K65050 | Jacques Dutilhweg - A 16 oost | Rotterdam |  |  |  |
+| K62110 | Jacques Dutilhweg - A 16 west | Rotterdam |  |  |  |
+| K62120 | Jacques Dutilhweg - Kralingse Zoom | Rotterdam |  |  |  |
+| K12090 | K.Doormanstraat - Oude Binnenweg | Rotterdam |  |  |  |
+| K47010 | Kandelaarweg doseerinstallatie | Rotterdam |  |  |  |
+| K51010 | Kleiweg - Rozenlaan | Rotterdam |  |  |  |
+| K84070 | Korperweg - Waalhaven OZ. | Rotterdam |  |  |  |
+| K62080 | Kralingse Zoom - P+R Kralingse Zoom | Rotterdam |  |  |  |
+| K62010 | Kralingseplein | Rotterdam |  |  |  |
+| K65040 | Kralingseweg - Prins Alexanderln - J.Dutilhw | Rotterdam |  |  |  |
+| K79020 | Kreekhuizenplein | Rotterdam |  |  |  |
+| K77140 | Kreeksehaven - Stadionweg | Rotterdam |  |  |  |
+| K72070 | Laan op Zuid - 2e Rosestraat | Rotterdam |  |  |  |
+| K72080 | Laan op Zuid - Brede Hilledijk | Rotterdam |  |  |  |
+| K72110 | Laan op Zuid - Lodewijk Pincoffsweg | Rotterdam |  |  |  |
+| K72100 | Laan op Zuid - Paul Krügerstraat | Rotterdam |  |  |  |
+| K72090 | Laan op Zuid - Stieltjesstraat | Rotterdam |  |  |  |
+| K72140 | Laan op Zuid - Veemstraat | Rotterdam |  |  |  |
+| K11080 | Maasboulevard - Oostmolenwerf | Rotterdam |  |  |  |
+| K11070 | Maasboulevard - Oude Hoofdplein | Rotterdam |  |  |  |
+| K63010 | Maasboulevard - Willem Ruyslaan | Rotterdam |  |  |  |
+| K72010 | Maashaven Oz - Brielselaan | Rotterdam |  |  |  |
+| K72020 | Maashaven Oz - Pretorialaan | Rotterdam |  |  |  |
+| K81090 | Maastunnelplein - Doklaan | Rotterdam |  |  |  |
+| K25050 | Marconiplein - Mathenesserweg | Rotterdam |  |  |  |
+| K25040 | Marconiplein - Tjalklaan | Rotterdam |  |  |  |
+| K22030 | Mathenesserbrug - Mathenesserplein | Rotterdam |  |  |  |
+| K15020 | Mathenesserlaan - Rochussenstraat | Rotterdam |  |  |  |
+| K44010 | Matlingeweg - Galateestraat | Rotterdam |  |  |  |
+| K44070 | Matlingeweg - Industrieweg | Rotterdam |  |  |  |
+| K47030 | Matlingeweg - Vareseweg | Rotterdam |  |  |  |
+| K44020 | Matlingeweg - Vlaardingweg | Rotterdam |  |  |  |
+| K51020 | Melanchtonweg - Ringdijk | Rotterdam |  |  |  |
+| K52010 | Melanchtonweg - Wilgenplaslaan | Rotterdam |  |  |  |
+| K52030 | Melanchtonweg GOP | Rotterdam |  |  |  |
+| K81030 | Mijnsherenlaan - Pleinweg | Rotterdam |  |  |  |
+| K76010 | Molenvliet - Spinozaweg | Rotterdam |  |  |  |
+| K75030 | Motorstraat - Strevelsweg | Rotterdam |  |  |  |
+| K14050 | Nieuwe Binnenweg-Mathenesserlaan | Rotterdam |  |  |  |
+| K34020 | Nieuwe Boezemstraat - Rusthoflaan (VOP) | Rotterdam |  |  |  |
+| K77150 | Noorderhelling - Stadionweg | Rotterdam |  |  |  |
+| K75040 | Oldegaarde - Vaanweg | Rotterdam |  |  |  |
+| K84030 | Oldegaarde - Zuiderparkweg | Rotterdam |  |  |  |
+| K77020 | Olympiaweg - Stadionweg | Rotterdam |  |  |  |
+| K24060 | Oostkousdijk - Westzeedijk | Rotterdam |  |  |  |
+| K61030 | Oostplein | Rotterdam |  |  |  |
+| K61010 | Oostzeedijk - Willem Ruyslaan | Rotterdam |  |  |  |
+| K89020 | Ophemertstraat - Waalhavenweg | Rotterdam |  |  |  |
+| K62100 | Oprit A 16 - Hoofdweg | Rotterdam |  |  |  |
+| K16020 | Parkhaven - Westzeedijk | Rotterdam |  |  |  |
+| K10030 | Parksluizen Sturingseenheid | Rotterdam |  |  |  |
+| K24050 | Pieter de Hoochweg - Westzeedijk | Rotterdam |  |  |  |
+| K81040 | Pleinweg - Polslandstraat | Rotterdam |  |  |  |
+| K81010 | Pleinweg - Wolphaertsbocht | Rotterdam |  |  |  |
+| K72130 | Posthumalaan - GOP | Rotterdam |  |  |  |
+| K72120 | Posthumalaan - Veemstraat | Rotterdam |  |  |  |
+| K51040 | Pr. Margrietlaan - Straatweg (VOP) | Rotterdam |  |  |  |
+| K68010 | Pres. Rooseveltweg - Prins Alexanderlaan | Rotterdam |  |  |  |
+| K56020 | Pres. Rooseveltweg - Terbregseweg | Rotterdam |  |  |  |
+| K66030 | Prins Alexanderlaan - Prins Constantijnweg | Rotterdam |  |  |  |
+| K71030 | Prins Hendrikkade - van der Takstraat | Rotterdam |  |  |  |
+| K88020 | Reeweg - Waalhavenweg | Rotterdam |  |  |  |
+| K52020 | Ringdijk - Wilgenlei | Rotterdam |  |  |  |
+| K15080 | Rochussenstraat-Zimmermanweg | Rotterdam |  |  |  |
+| K14010 | s Gravendijkwal - 1e Middellandstraat | Rotterdam |  |  |  |
+| K14040 | s Gravendijkwal - Nieuwe Binnenweg | Rotterdam |  |  |  |
+| K15010 | s Gravendijkwal - Rochussenstraat | Rotterdam |  |  |  |
+| K62070 | s Gravenweg - Kralingse Zoom | Rotterdam |  |  |  |
+| K83010 | Sallandweg - Zuiderparkweg | Rotterdam |  |  |  |
+| K11180 | Scheepstimmermanslaan - Westzeedijk | Rotterdam |  |  |  |
+| K38020 | Schepenstraat - Schieweg | Rotterdam |  |  |  |
+| K11230 | Schiedamsedijk - Schilderstraat | Rotterdam |  |  |  |
+| K32040 | Schiekade - Heer Bokelweg | Rotterdam |  |  |  |
+| K32030 | Schiekade - Teilingerstraat | Rotterdam |  |  |  |
+| K32060 | Schiekade - Ungerplein | Rotterdam |  |  |  |
+| K39030 | Schieplein | Rotterdam |  |  |  |
+| K68180 | Schollevaartsedreef - Zevenkampsering | Rotterdam |  |  |  |
+| K85010 | Slinge - Zuiderparkweg | Rotterdam |  |  |  |
+| K79060 | Spinozaweg - Smeetslandseweg | Rotterdam |  |  |  |
+| K76030 | Spinozaweg - Victor Hugoweg | Rotterdam |  |  |  |
+| K39020 | Stadhoudersweg - Statenweg | Rotterdam |  |  |  |
+| K39010 | Stadhoudersweg - Van Aerssenlaan | Rotterdam |  |  |  |
+| K77050 | Stadionweg - Puck van Heelstraat | Rotterdam |  |  |  |
+| K71010 | Stieltjesplein | Rotterdam |  |  |  |
+| K34030 | Stoopweg - Tunnel | Rotterdam |  |  |  |
+| K51030 | Straatweg - Ceintuurbaan | Rotterdam |  |  |  |
+| K75050 | Strevelsweg - Vaanweg | Rotterdam |  |  |  |
+| K73040 | Strevelsweg - Veldstraat | Rotterdam |  |  |  |
+| K75020 | Strevelsweg - Zuidplein | Rotterdam |  |  |  |
+| K56010 | Terbregseweg - afrit A16 | Rotterdam |  |  |  |
+| K28020 | Tjalklaan - Franselaan | Rotterdam |  |  |  |
+| K44060 | Tjalklaan - Schuttevaerstraat | Rotterdam |  |  |  |
+| K16010 | Tunnelwachter Maastunnel-Noord | Rotterdam |  |  |  |
+| K81050 | Tunnelwachter Maastunnel-Zuid | Rotterdam |  |  |  |
+| K76020 | Vaanweg - Victor Hugoweg | Rotterdam |  |  |  |
+| K77120 | Van Hoochstratenweg - W. van Gelderstraat | Rotterdam |  |  |  |
+| K45010 | van Limburg Stirumplein | Rotterdam |  |  |  |
+| K34060 | Verlegde Bosdreef - Boezembocht | Rotterdam |  |  |  |
+| K34070 | Verlegde Bosdreef - Boezembocht | Rotterdam |  |  |  |
+| K29040 | Vierhavensstraat - GOP Europoint | Rotterdam |  |  |  |
+| K29030 | Vierhavensstraat - Keileweg | Rotterdam |  |  |  |
+| K29020 | Vierhavensstraat - Speedwellstraat | Rotterdam |  |  |  |
+| K82050 | Waalhaven OZ-Rietdijk | Rotterdam |  |  |  |
+| K88080 | Waalhaven zz - Anthony Fokkerweg | Rotterdam |  |  |  |
+| K88090 | Waalhaven zz - Smirnoffweg | Rotterdam |  |  |  |
+| K13020 | Weena - Conradstraat | Rotterdam |  |  |  |
+| K12070 | Weena - Karel Doormanstraat | Rotterdam |  |  |  |
+| K13030 | Weena - Kruispleingarage (Weenatunnel) | Rotterdam |  |  |  |
+| K12080 | Weena - Lijnbaan | Rotterdam |  |  |  |
+| K15070 | Westzeedijk - Erasmus M.C. | Rotterdam |  |  |  |
+| K24030 | Westzeedijk - St. Jobsweg | Rotterdam |  |  |  |
+| K68170 | Zevenkampsering - Zevenkampseweg | Rotterdam |  |  |  |
+| K84100 | Zuiderparkweg - oversteek Ahoy (GOP) | Rotterdam |  |  |  |
+| K97065 | Tienmorgenseweg | Rozenburg |  |  |  |
+| K92020 | Butaanweg - Vondelingenweg | Vondelingenplaat Rotterdam |  |  |  |
+| K92050 | Digna Johannaweg - Vondelingenweg | Vondelingenplaat Rotterdam |  |  |  |
+| K92070 | Petroleumweg - poort 6/12 Shell | Vondelingenplaat Rotterdam |  |  |  |
+
+Schiedam
+
+**Locaties**
+
+| **Kruispunt nr.** | **Locatie** | **Gemeente** | **Fabrikant** | **VRA-nr.** | **Voltage** |
+| --- | --- | --- | --- | --- | --- |
+| K102 | Rotterdamsedijk - Nieuw Matheneserstraat | Schiedam |  |  |  |
+| K103 | Gerrit Verboonstraat- Lange Nieuwstraat | Schiedam |  |  |  |
+| K110 | Vlaardingerdijk - Burg. Knappertlaan | Schiedam |  |  |  |
+| K111 | Vlaardingerdijk - Karel Doormanweg - Op--afrit A4 | Schiedam |  |  |  |
+| K200 | Horvathweg - Oost | Schiedam |  |  |  |
+| K201 | Horvathweg - Spoorstraat | Schiedam |  |  |  |
+| K202 | Plein 1940-1945 | Schiedam |  |  |  |
+| K208 | Nieuwlandplein | Schiedam |  |  |  |
+| K300 | s-Gravelandseweg - Brandweerkazerne | Schiedam |  |  |  |
+| K301 | Koemarkt | Schiedam |  |  |  |
+| K305 | Broersvest- Boterstraat | Schiedam |  |  |  |
+| K306 | s-Gravelandseweg - Burg. Honnerlage Gretelaan | Schiedam |  |  |  |
+| K307 | s-Gravelandseweg - Op- en Afrit A20 | Schiedam |  |  |  |
+| K308 | De Brauweg - 's Gravelandseweg | Schiedam |  |  |  |
+| K405 | Nieuwe Damlaan - Schiedamseweg | Schiedam |  |  |  |
+| K406 | Nieuwe Damlaan - Hargalaan | Schiedam |  |  |  |
+| K407 | Churchillweg - Op- en afrit A20 | Schiedam |  |  |  |
+| K408 | Churchillweg - Laan van Bol'es | Schiedam |  |  |  |
+| K605 | Churchillweg - Zwaluwlaan | Schiedam |  |  |  |
+| K606 | Mozartlaan - Vivaldilaan | Schiedam |  |  |  |
+| K608 | Mozartlaan - Brederoweg | Schiedam |  |  |  |
+| K701 | Noordwerg - Euroscoop | Schiedam |  |  |  |
+| K704 | Overschieseweg | Schiedam |  |  |  |
+| K706 | De Brauweg - Van Heekstraat | Schiedam |  |  |  |
+| K901 | Harreweg | Schiedam |  |  |  |
+| K9201 | Horvathweg - West | Schiedam |  |  |  |
+| TWI1 | Rotterdamsedijk - Van Deventerstraat | Schiedam |  |  |  |
+| TWI2 | Rotterdamsedijk - De Put | Schiedam |  |  |  |
+| TWI7 | Broersvest - Korte Singelstraat | Schiedam |  |  |  |
+| TWI8 | Broersvest - Emmaplein | Schiedam |  |  |  |
+| TWI9 | Broersvest - Lange Kerkstraat | Schiedam |  |  |  |
+| TWI10 | van Haarenlaan - Braakensiekstraat | Schiedam |  |  |  |
+| TWI11 | van Haarenlaan - Joop den Uyllaan | Schiedam |  |  |  |
+| TWI12 | van Haarenlaan - Parkweg | Schiedam |  |  |  |
+| TWI13 | van Haarenlaan - Min. Donkerstraat | Schiedam |  |  |  |
+| TWI14 | van Haarenlaan - Piersonstraat | Schiedam |  |  |  |
+| TWI24 | De Biepad | Schiedam |  |  |  |
+| TWI25 | Boshoek | Schiedam |  |  |  |
+| TWI26 | Bachplein | Schiedam |  |  |  |
+| TWI30 | Faasenplein - Heijermansplein | Schiedam |  |  |  |
+| TWI31 | Faassenplein - Bouwmeesterweg | Schiedam |  |  |  |
+| TWI32 | Scheepvaartweg - Rietveldpad | Schiedam |  |  |  |
+| TWI33 | Scheepvaartweg - Boeier - Tjalk | Schiedam |  |  |  |
+| TWI34 | Scheepvaartweg - Hoogaars | Schiedam |  |  |  |
+| TWI35 | Scheepvaartweg - Hoeker | Schiedam |  |  |  |
+| TWI36 | Scheepvaartweg - Buis | Schiedam |  |  |  |
+| TWI37 | Scheepvaartweg - Harreweg - keerlus | Schiedam |  |  |  |
+| TWI39 | Brederoweg - Lisztplein | Schiedam |  |  |  |
+| TWI40 | Brederoweg - De La Marplein - Zoomweg | Schiedam |  |  |  |
+| TWI70 | Overschiesestraat - Emmastraat | Schiedam |  |  |  |
+| TWI71 | Overschiessestraat | Schiedam |  |  |  |
+| TWI72 | Overschiessestraat - Pr. K. Onnelinglaan | Schiedam |  |  |  |
+| TWI2223 | Hof van Spaland - Edah | Schiedam |  |  |  |
+
+Vlaardingen
+
+**Locaties**
+
+| **Kruispunt nr.** | **Locatie** | **Gemeente** | **Fabrikant** | **VRA-nr.** | **Voltage** |
+| --- | --- | --- | --- | --- | --- |
+| K0044 | Vulcaanweg+rotonde KW haven NZ-fietsdoorsteek | Vlaardingen |  |  |  |
+| K1010 | Marathonweg – Rijksweg A20 NZ | Vlaardingen |  |  |  |
+| K1011 | Marathonweg - Westlandseweg - Rijksweg A20 | Vlaardingen |  |  |  |
+| K1012 | Burg.Heusdenslaan-Westlandseweg-Burg.Pruissingel | Vlaardingen |  |  |  |
+| K1014 | Gedem.Biersloot-Korte Hoogstr-Veerplein-Cronjestr | Vlaardingen |  |  |  |
+| K1015 | Marathonweg - Billitonlaan - Floris de Vijfdelaan | Vlaardingen |  |  |  |
+| K1016 | Marathonweg - Marnixlaan | Vlaardingen |  |  |  |
+| K1019 | Burg.Pruissingel-vd Driftstraat-Riouwlaan+GOP | Vlaardingen |  |  |  |
+| K1020 | Burg.Pruissingel - Vondelstraat - Billitonlaan | Vlaardingen |  |  |  |
+| K1021 | Westhavenkade - Galgkade (Sluisplein) | Vlaardingen |  |  |  |
+| K4011 | Westlandseweg-Delftseveerweg-Emaus-Kortedijk | Vlaardingen |  |  |  |
+| K4018 | Westlandseweg - Julianasingel - Plein 1940 | Vlaardingen |  |  |  |
+| K4021 | Schiedamsedijk - Rijksweg A4 | Vlaardingen |  |  |  |
+| K4022 | Mr.L.A. Kesperweg - Schiedamsedijk | Vlaardingen |  |  |  |
+| K4023 | Mr.L.A. Kesperweg - Park Vijfsluizen | Vlaardingen |  |  |  |
+| K5011 | Burg.Heusdensln-Burg.Verkadesngl -A20- Holysingel | Vlaardingen |  |  |  |
+| K5012 | Burg.Heusdensln-V Linden vd Heuvelsngl-Lepelaarsng | Vlaardingen |  |  |  |
+| K5017 | Van Hogendorplaan - Kethelweg | Vlaardingen |  |  |  |
+| K6010 | Holysingel - Rijksweg A20 | Vlaardingen |  |  |  |
+| K6012 | Holysingel-Dillenburgsingel-Willem de Zwijgerln | Vlaardingen |  |  |  |
+| K6013 | Holysingel - Frederik Hendriklaan | Vlaardingen |  |  |  |
+| K6015 | Holysingel - Tramoversteek + VOP | Vlaardingen |  |  |  |
+| K6018 | Lepelaarsingel - Tramoversteek | Vlaardingen |  |  |  |
+| K6020 | Parijslaan - Tramoversteek | Vlaardingen |  |  |  |
+| K6024 | Lepelaarsingel - Zwanensingel - Dillenburgsingel | Vlaardingen |  |  |  |
+| K7011 | Amsterdamlaan - Lissabonweg - Drevenpark | Vlaardingen |  |  |  |
+| K7012 | Holyweg | Vlaardingen |  |  |  |
+
+Voorne aan Zee
+
+**Locaties**
+
+| **Kruispunt nr.** | **Locatie** | **Gemeente** | **Fabrikant** | **VRA-nr.** | **Voltage** |
+| --- | --- | --- | --- | --- | --- |
+| K001 | Kanaalweg Westzijde - Nijverheidsweg | Hellevoetsluis |  |  |  |
+| K002 | Kanaalweg Westzijde - Dag Hammarskjöldlaan | Hellevoetsluis |  |  |  |
+| K003 | Kanaalweg Westzijde - De Sprong | Hellevoetsluis |  |  |  |
+| K004 | Kanaalweg Westzijde - Braberseweg | Hellevoetsluis |  |  |  |
+| K005 | Nelson Mandelalaan - Bonseweg | Hellevoetsluis |  |  |  |
+| K006 | Nelson Mandelalaan - Dorpsweg | Hellevoetsluis |  |  |  |
+| K007 | G.J. van Den Boogerdweg - Johan H. Beenlaan | Brielle |  |  |  |
+| K008 | G.J. van Den Boogerdweg - Reede | Brielle |  |  |  |
+| K009 | De Rik - Riksestraatje | Brielle |  |  |  |
+
+Waterschap
+
+**Locaties**
+
+| **Kruispunt nr.** | **Locatie** | **Gemeente** | **Fabrikant** | **VRA-nr.** | **Voltage** |
+| --- | --- | --- | --- | --- | --- |
+| WS301.15 | IJsselmondse Randweg - Schaapherderweg | Barendrecht |  |  |  |
+| WS532.10 | Hendrik Ydenweg - Afrit A16 | Hendrik-Ido-Ambacht |  |  |  |
+| WS301.35 | IJsselmondse Randweg - Dierensteinweg | Ridderkerk |  |  |  |
+| WS351.50 | Industrieweg - A15 (Buswisselstrook) | Ridderkerk |  |  |  |
+| WS351.05 | Rijnsingel - Sportlaan (Buswisselstrook) | Ridderkerk |  |  |  |
+| WS351.65 | Rotterdamseweg - A15 | Ridderkerk |  |  |  |
+| WS351.35 | Rotterdamseweg - Donkerslootweg | Ridderkerk |  |  |  |
+| WS351.45 | Rotterdamseweg - Industrieweg | Ridderkerk |  |  |  |
+| WS351.20 | Rotterdamseweg - Populierenlaan | Ridderkerk |  |  |  |
+| WS351.15 | Rotterdamseweg - Rijnsingel | Ridderkerk |  |  |  |
+| WS351.55 | Rotterdamseweg - Vlietlaan | Ridderkerk |  |  |  |
+| WS309.15 | Veren Ambachtsweg - Verbindingsweg | Ridderkerk |  |  |  |
+| WS605.40 | Hoekseweg | Strijen |  |  |  |
+| WS526.15 | Langeweg - Munnikesteeg | Zwijndrecht |  |  |  |
+
+Zuidplas
+
+**Locaties**
+
+| **Kruispunt nr.** | **Locatie** | **Gemeente** | **Fabrikant** | **VRA-nr.** | **Voltage** |
+| --- | --- | --- | --- | --- | --- |
+| K1450/VT451450 | Bredeweg | Zuidplas |  |  |  |
+| VT452104 | Wethouder Kreftlaan - De Beuk | Zuidplas |  |  |  |
+| K5704/650087 | Middelweg - Zijspoor | Zuidplas |  |  |  |
+| VT451995/372632 | Moerkapelse Z. - Rottedijk | Zuidplas |  |  |  |
+| KH21375 | Noordelijke Dwarsweg - A12 | Zuidplas |  |  |  |
+| KH16575 | Zuidelijke Dwarsweg - N457 | Zuidplas |  |  |  |
+
+2
